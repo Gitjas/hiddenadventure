@@ -10,9 +10,15 @@
 @3003	 = ~Delryn's Family Necklace~
 @3004	 = ~This valuable piece of jewelry has been in the Delryn family for many generations. Anomen's sister Moira loved wearing this necklace as it was her mother's last gift to her.
 
+STATISTICS:
+
 Protection From Life Drain
 2 x Sunfire daily
-Can only be used by Anomen.~
+
+Weight: 1
+
+Usable by:
+Anomen~
 @3005	 = ~This necklage can only be used by Anomen.~
 @3006	 = ~Alwesk~
 @3007	 = ~Ollik~
@@ -31,20 +37,27 @@ As long as you adhere to the following rules, you will not have any problems:
 
 If you follow these simple rules, you will remain safe.
 
-Saerk Farradh~
+Saerk Farradh
+
+STATISTICS:
+
+Weight: 0~
 @3011	 = ~Hired thug~
 @3012	 = ~Club +1~
 @3013	 = ~Most clubs are stout, hardwood sticks, narrow at the grip and wider at the end. This simple weapon has been used since mankind first began using tools. Anyone can find a good stout piece of wood and swing it; hence the club's widespread use.
 
 STATISTICS:
 
-THAC0: -1
+THAC0: +1
 Damage: 1D6 +1 (crushing)
-Weight: 3
 Speed Factor: 4
 Proficiency Type: Club
 Type: 1-handed
-Requires: 5 Strength
+Requires: 
+ 5 Strength
+
+Weight: 3
+
 Not Usable By:
  Mage~
 @3014		 = ~Lieutenant Jaiken~
@@ -77,7 +90,7 @@ Anomen recognized their names as disgruntled warehouse workers under the service
 
 Captain Alwesk was very pleased to hear that everything went according to plan.
 However, fate had prepared more surprises for us: a messenger told us that Anomen's father, Lord Cor, decided to personally take revenge on the alleged assassins of his daughter. Worried, Anomen left for Farradh's estate.
-Captain Alwesk feared that the matter might turn bad if I do not follow Anomen – a fear that I share. I will not let anything happen to Anomen and, if necessary, I will also protect him from himself, should it come to a confrontation with Saerk.~
+Captain Alwesk feared that the matter might turn bad if I do not follow Anomen ï¿½ a fear that I share. I will not let anything happen to Anomen and, if necessary, I will also protect him from himself, should it come to a confrontation with Saerk.~
 @3022		  = ~In pursuit of Moira's assassins
 
 Captain Alwesk was very pleased to hear that everything went according to the plan.
@@ -125,16 +138,20 @@ This vorpal Silver Sword radiates a dark aura when you examine it, and the blade
 
 STATISTICS:
 
-Special Abilities:
-25% chance per hit that target must save vs. Death at -2 or die.
-If the target is a Mind Flayer or an Ulitharid, it is killed immediately.
+Combat abilities:
+- 25% chance per hit that target must save vs. Death at -2 or die.
+- If the target is a Mind Flayer or an Ulitharid, it is killed immediately.
 
-THAC0: -3, (-4 vs. lycanthropes)
+THAC0: +3, (+4 vs. lycanthropes)
 Damage: 1d10 +3 (slash weapon), (1d10 +4 vs. lycanthropes)
-Weight: 15
 Speed Factor: 10
 Proficiency Type: Two Handed sword
 Type: 2-handed
+Requires:
+ 14 Strength
+
+Weight: 15
+
 Not Usable By:
 Druid
 Cleric
