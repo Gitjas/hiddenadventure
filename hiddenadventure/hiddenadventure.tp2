@@ -37,7 +37,7 @@ ACTION_IF !FILE_EXISTS ~hiddenadventure/reinstall.mrk~ BEGIN
 	LAF autotra_workaround END
 
 	ACTION_DEFINE_ARRAY tra#reload BEGIN setup END
-	ACTION_DEFINE_ARRAY tra#noconvert BEGIN END
+	ACTION_DEFINE_ARRAY tra#noconvert BEGIN install END
 
 	LAF HANDLE_CHARSETS
 		INT_VAR
@@ -83,6 +83,10 @@ LANGUAGE ~Polish (by memory)~
 LANGUAGE ~Spanish (by alaisFcZ)~
          ~spanish~
          ~hiddenadventure/tra/spanish/setup.tra~
+
+LANGUAGE ~Chinese (by Lzw104522773)~
+         ~schinese~
+         ~hiddenadventure/tra/schinese/install.tra~
 
 ////////////////////////////////////////////////
 //  ~Lady Elgea's extended plot~
