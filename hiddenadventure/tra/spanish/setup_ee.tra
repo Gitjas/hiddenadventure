@@ -1,45 +1,45 @@
 /*
-@1002    = ~Un par de pantalones de plata elaboradamente trabajados. Esta pieza familiar se utilizÛ como rescate, pagado por Welther para la liberaciÛn de Dama Elgea.~
+@1002    = ~Un par de pantalones de plata elaboradamente trabajados. Esta pieza familiar se utiliz√≥ como rescate, pagado por Welther para la liberaci√≥n de Dama Elgea.~
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 Peso: 1~
 */
 
-@3004	 = ~Esta valiosa joya ha sido patrimonio de la familia Delryn durante muchas generaciones. A Moira, la hermana de Anomen, le encantaba llevar este collar, ya que fue el ˙ltimo regalo que le hizo su madre.
+@3004	 = ~Esta valiosa joya ha sido patrimonio de la familia Delryn durante muchas generaciones. A Moira, la hermana de Anomen, le encantaba llevar este collar, ya que fue el √∫ltimo regalo que le hizo su madre.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
-ProtecciÛn contra la fuga de vida
+Protecci√≥n contra la fuga de vida
 2 x Fuego Solar diario
 
 Peso: 1~
 
 @3010	 = ~Stanial y Ollik,
 
-Gracias a vuestro "pequeÒo libertinaje" en la finca de Delryn, ya no puedo arriesgarme a utilizaros allÌ como espÌas, ni dejaros pasear por la ciudad. Aunque oficialmente no haya testigos, °tengo que asegurarme de que ninguno de los dos se les relacione conmigo!
-SÛlo por los servicios que ya me has prestado soy tan generoso como para conseguirte un escondite en lugar de que simplemente "desaparezcas".
-Gracias a mis relaciones comerciales con Renal Cabellorrojo y los ladrones de las sombras, he alquilado una casa en el distrito del puente, frente al Templo de Helm. Los rumores de que el lugar est· embrujado deberÌan ofrecerte suficiente seguridad hasta que el polvo se haya asentado.
+Gracias a vuestro "peque√±o libertinaje" en la finca de Delryn, ya no puedo arriesgarme a utilizaros all√≠ como esp√≠as, ni dejaros pasear por la ciudad. Aunque oficialmente no haya testigos, ¬°tengo que asegurarme de que ninguno de los dos se les relacione conmigo!
+S√≥lo por los servicios que ya me has prestado soy tan generoso como para conseguirte un escondite en lugar de que simplemente "desaparezcas".
+Gracias a mis relaciones comerciales con Renal Cabellorrojo y los ladrones de las sombras, he alquilado una casa en el distrito del puente, frente al Templo de Helm. Los rumores de que el lugar est√° embrujado deber√≠an ofrecerte suficiente seguridad hasta que el polvo se haya asentado.
 
-Siempre que respetes las siguientes reglas, no tendr·s ning˙n problema:
-1. °No salgas de casa antes de que te dÈ instrucciones!
-2. No cojas nada de lo que hay allÌ guardado: °los Ladrones de Sombras no toleran a los tontos!
-3. No entres, bajo ninguna circunstancia, en la c·mara acorazada del sÛtano. Renal insistiÛ mucho en que nadie tuviera acceso: °quien entre se arrepentir·!
+Siempre que respetes las siguientes reglas, no tendr√°s ning√∫n problema:
+1. ¬°No salgas de casa antes de que te d√© instrucciones!
+2. No cojas nada de lo que hay all√≠ guardado: ¬°los Ladrones de Sombras no toleran a los tontos!
+3. No entres, bajo ninguna circunstancia, en la c√°mara acorazada del s√≥tano. Renal insisti√≥ mucho en que nadie tuviera acceso: ¬°quien entre se arrepentir√°!
 
-Si sigues estas sencillas reglas, estar·s a salvo.
+Si sigues estas sencillas reglas, estar√°s a salvo.
 
 Saerk Farradh
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 Peso: 0~
 
-@3013	 = ~La mayorÌa de los garrotes son palos robustos de madera dura, estrechos en la empuÒadura y m·s anchos en el extremo. Esta sencilla arma se ha utilizado desde que el hombre empezÛ a utilizar herramientas. Cualquiera puede encontrar un buen trozo de madera y blandirlo, de ahÌ su uso generalizado. Este palo en particular ha sido mejorado m·gicamente.
+@3013	 = ~La mayor√≠a de los garrotes son palos robustos de madera dura, estrechos en la empu√±adura y m√°s anchos en el extremo. Esta sencilla arma se ha utilizado desde que el hombre empez√≥ a utilizar herramientas. Cualquiera puede encontrar un buen trozo de madera y blandirlo, de ah√≠ su uso generalizado. Este palo en particular ha sido mejorado m√°gicamente.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 THAC0: +1
-DaÒo: 1d6+1 (aplastante)
+Da√±o: 1d6+1 (aplastante)
 Factor de velocidad: 4
 Tipo de competencia: Garrote
 Type: Una mano
@@ -48,17 +48,17 @@ Requiere
 
 Peso: 3~
 
-@110002   = ~Esta espada vorpal de plata irradia un aura oscura cuando la examinas, y la hoja est· tan finamente afilada que podrÌa cortar una cabeza de un solo golpe.
+@110002   = ~Esta espada vorpal de plata irradia un aura oscura cuando la examinas, y la hoja est√° tan finamente afilada que podr√≠a cortar una cabeza de un solo golpe.
 
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 Habilidades de combate:
 - 25% de probabilidad por impacto de que el objetivo deba salvar vs. Muerte a -2 o morir.
 - Si el objetivo es un Azota mentes o un Ulitharid, muere inmediatamente.
 
 THAC0: +3
-DaÒo: 1d10+3 (cortante)
+Da√±o: 1d10+3 (cortante)
 Factor de Velocidad: 10
 Tipo de competencia: Espada a dos manos
 Tipo: Espada A dos manos

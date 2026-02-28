@@ -1,33 +1,33 @@
 /*
-@1002    = ~Para wysokiej jakoœci srebrnych pantalonów. Tak wygl¹da³ okup wniesiony przez Welthera za uwolnienie Lady Elgei.~
+@1002    = ~Para wysokiej jakoÅ“ci srebrnych pantalonÃ³w. Tak wyglÂ¹daÂ³ okup wniesiony przez Welthera za uwolnienie Lady Elgei.~
 
 PARAMETRY:
 
 Waga: 1~
 */
 
-@3004	 = ~Ten cenny naszyjnik znajduje siê od wielu pokoleñ w posiadaniu rodziny Delrynów. Moira, siostra Anomena, uwielbia³a go nosiæ, gdy¿ by³ on ostatnim darem, który otrzyma³a od matki.
+@3004	 = ~Ten cenny naszyjnik znajduje siÃª od wielu pokoleÃ± w posiadaniu rodziny DelrynÃ³w. Moira, siostra Anomena, uwielbiaÂ³a go nosiÃ¦, gdyÂ¿ byÂ³ on ostatnim darem, ktÃ³ry otrzymaÂ³a od matki.
 
 PARAMETRY:
 
 Specjalne:
- Ochrona przed wyssaniem poziomów
- Dwa razy dziennie pozwala rzucaæ Ogieñ s³oñca
+ Ochrona przed wyssaniem poziomÃ³w
+ Dwa razy dziennie pozwala rzucaÃ¦ OgieÃ± sÂ³oÃ±ca
 
 Waga: 1~
 
 @3010	 = ~Stanialu i Olliku,
 
-Dziêki waszej „chwili szaleñstwa” w posiad³oœci Delrynów nie mogê ju¿ d³u¿ej wykorzystywaæ was tam jako szpiegów. Ani nawet pozwoliæ wam krêciæ siê swobodnie po mieœcie. Pomimo tego, ¿e nie ma ¿adnych oficjalnych œwiadków sprawy, nie mogê dopuœciæ, by w jakikolwiek sposób mnie z wami po³¹czono!
-Tylko dziêki temu, ¿e przys³u¿yliœcie mi siê wielokrotnie, okazujê wspania³omyœlnoœæ, organizuj¹c wam miejsce, gdzie bêdziecie mogli siê ukryæ, zamiast najzwyczajniej was „usun¹æ”.
-Dziêki interesom, które prowadzê wspólnie z Renalem Krwawym Skalpem i jego Z³odziejami Cienia, mog³em wynaj¹æ dom w Dzielnicy mostów, naprzeciwko Œwi¹tyni Helma. Kr¹¿¹ plotki, ¿e miejsce jest nawiedzone. To powinno wam zapewniæ spokój wystarczaj¹co d³ugo, by kurz zd¹¿y³ opaœæ.
+DziÃªki waszej â€chwili szaleÃ±stwaâ€ w posiadÂ³oÅ“ci DelrynÃ³w nie mogÃª juÂ¿ dÂ³uÂ¿ej wykorzystywaÃ¦ was tam jako szpiegÃ³w. Ani nawet pozwoliÃ¦ wam krÃªciÃ¦ siÃª swobodnie po mieÅ“cie. Pomimo tego, Â¿e nie ma Â¿adnych oficjalnych Å“wiadkÃ³w sprawy, nie mogÃª dopuÅ“ciÃ¦, by w jakikolwiek sposÃ³b mnie z wami poÂ³Â¹czono!
+Tylko dziÃªki temu, Â¿e przysÂ³uÂ¿yliÅ“cie mi siÃª wielokrotnie, okazujÃª wspaniaÂ³omyÅ“lnoÅ“Ã¦, organizujÂ¹c wam miejsce, gdzie bÃªdziecie mogli siÃª ukryÃ¦, zamiast najzwyczajniej was â€usunÂ¹Ã¦â€.
+DziÃªki interesom, ktÃ³re prowadzÃª wspÃ³lnie z Renalem Krwawym Skalpem i jego ZÂ³odziejami Cienia, mogÂ³em wynajÂ¹Ã¦ dom w Dzielnicy mostÃ³w, naprzeciwko Å’wiÂ¹tyni Helma. KrÂ¹Â¿Â¹ plotki, Â¿e miejsce jest nawiedzone. To powinno wam zapewniÃ¦ spokÃ³j wystarczajÂ¹co dÂ³ugo, by kurz zdÂ¹Â¿yÂ³ opaÅ“Ã¦.
 
-Dopóki bêdziecie stosowaæ siê do poni¿szych zasad, nie bêdziecie mieæ ¿adnych problemów:
-1. Nie opuszczajcie domu, chyba ¿e osobiœcie wam tak rozka¿ê!
-2. Nie ruszajcie niczego, co tam znajdziecie; Z³odzieja Cienia nie lubi¹, gdy grzebie siê w ich rzeczach!
-3. Pod ¿adnym pozorem nie schodŸcie do krypty w piwnicach. Renal jest w tej sprawie nieugiêty. Kto tam zejdzie, gorzko tego po¿a³uje!
+DopÃ³ki bÃªdziecie stosowaÃ¦ siÃª do poniÂ¿szych zasad, nie bÃªdziecie mieÃ¦ Â¿adnych problemÃ³w:
+1. Nie opuszczajcie domu, chyba Â¿e osobiÅ“cie wam tak rozkaÂ¿Ãª!
+2. Nie ruszajcie niczego, co tam znajdziecie; ZÂ³odzieja Cienia nie lubiÂ¹, gdy grzebie siÃª w ich rzeczach!
+3. Pod Â¿adnym pozorem nie schodÅ¸cie do krypty w piwnicach. Renal jest w tej sprawie nieugiÃªty. Kto tam zejdzie, gorzko tego poÂ¿aÂ³uje!
 
-Jeœli dostosujecie siê do tych prostych zasad, nic wam nie grozi.
+JeÅ“li dostosujecie siÃª do tych prostych zasad, nic wam nie grozi.
 
 Saerk Farrahd
 
@@ -35,39 +35,39 @@ PARAMETRY:
 
 Waga: 0~
 
-@3013	 = ~Wiêkszoœæ maczug to po prostu kawa³ki twardego drewna, od strony uchwytu wê¿sze, zaœ po przeciwnej szersze. Ta prosta broñ by³a u¿ywana od czasów, gdy cz³owiek zacz¹³ stosowaæ narzêdzia. Ka¿dy mo¿e znaleŸæ gdzieœ mocny kawa³ek drewna i zacz¹æ nim machaæ, st¹d te¿ popularnoœæ i powszechnoœæ maczug.
+@3013	 = ~WiÃªkszoÅ“Ã¦ maczug to po prostu kawaÂ³ki twardego drewna, od strony uchwytu wÃªÂ¿sze, zaÅ“ po przeciwnej szersze. Ta prosta broÃ± byÂ³a uÂ¿ywana od czasÃ³w, gdy czÂ³owiek zaczÂ¹Â³ stosowaÃ¦ narzÃªdzia. KaÂ¿dy moÂ¿e znaleÅ¸Ã¦ gdzieÅ“ mocny kawaÂ³ek drewna i zaczÂ¹Ã¦ nim machaÃ¦, stÂ¹d teÂ¿ popularnoÅ“Ã¦ i powszechnoÅ“Ã¦ maczug.
 
 PARAMETRY:
 
-Obra¿enia: 1k6+1
+ObraÂ¿enia: 1k6+1
 TraK0: +1
-Typ obra¿eñ: obuchowe
-OpóŸnienia: 4
-Rodzaj bieg³oœci: Maczuga
-Typ broni: 1-rêczna
+Typ obraÂ¿eÃ±: obuchowe
+OpÃ³Å¸nienia: 4
+Rodzaj biegÂ³oÅ“ci: Maczuga
+Typ broni: 1-rÃªczna
 
 Wymagania:
-– Si³a: 5
+â€“ SiÂ³a: 5
 
 Waga: 3~
 
-@110002   = ~Po bli¿szych oglêdzinach zauwa¿asz, ¿e od tego srebrnego vorpala promieniuje mroczna poœwiata. Ostrze wykuto tak kunsztownie, i¿ bez trudu mog³oby za pierwszym ciosem rozp³ataæ nawet najtwardsz¹ czaszkê.
+@110002   = ~Po bliÂ¿szych oglÃªdzinach zauwaÂ¿asz, Â¿e od tego srebrnego vorpala promieniuje mroczna poÅ“wiata. Ostrze wykuto tak kunsztownie, iÂ¿ bez trudu mogÂ³oby za pierwszym ciosem rozpÂ³ataÃ¦ nawet najtwardszÂ¹ czaszkÃª.
 
 
 PARAMETRY:
 
 Specjalne:
-– 25% szans przy ka¿dym trafieniu, ¿e cel bêdzie musia³ wykonaæ rzut obronny przeciw œmierci (z modyfikatorem -2) lub zginie na miejscu.
-– Trafieni £upie¿cy umys³u oraz Ulitharidzi gin¹ natychmiast.
+â€“ 25% szans przy kaÂ¿dym trafieniu, Â¿e cel bÃªdzie musiaÂ³ wykonaÃ¦ rzut obronny przeciw Å“mierci (z modyfikatorem -2) lub zginie na miejscu.
+â€“ Trafieni Â£upieÂ¿cy umysÂ³u oraz Ulitharidzi ginÂ¹ natychmiast.
 
-Obra¿enia: 1k10+3
+ObraÂ¿enia: 1k10+3
 TraK0: +3
-Typ obra¿eñ: sieczne
-OpóŸnienie: 7
-Rodzaj bieg³oœci: miecz oburêczny
-Typ broni: 2-rêczna
+Typ obraÂ¿eÃ±: sieczne
+OpÃ³Å¸nienie: 7
+Rodzaj biegÂ³oÅ“ci: miecz oburÃªczny
+Typ broni: 2-rÃªczna
 
 Wymagania:
-–  Si³a: 14
+â€“  SiÂ³a: 14
 
 Waga: 10~

@@ -1,38 +1,38 @@
 /*
 /* 25513 */
-@0    = ~¿Qué significa todo este alboroto? ¿Qué está pasando aquí?~ [SAERK01]
+@0    = ~Â¿QuÃ© significa todo este alboroto? Â¿QuÃ© estÃ¡ pasando aquÃ­?~ [SAERK01]
 /* 25514 */
-@1    = ~¿P-Padre? He oído un ruido...~ [SURAYX01]
+@1    = ~Â¿P-Padre? He oÃ­do un ruido...~ [SURAYX01]
 */
-@2    = ~¿Qué es esto? Ah... Veo que el viejo cocodrilo Cor por fin ha llegado, seguido de su cachorro, probablemente para ayudar a lidiar conmigo, ¿eh?~
-@3    = ~¡Silencio, perro calishita! ¡Ya has arruinado mi negocio y mi vida durante demasiado tiempo! Si la ley y mi 'oh-tan-noble' hijo no pueden detenerte, ¡lo haré yo mismo!~
-@4    = ~¡Detente, Padre! ¡La justicia por mano propia es el camino equivocado! ¡Saerk tendrá lo que se le debe, pero no por asesinato!~
+@2    = ~Â¿QuÃ© es esto? Ah... Veo que el viejo cocodrilo Cor por fin ha llegado, seguido de su cachorro, probablemente para ayudar a lidiar conmigo, Â¿eh?~
+@3    = ~Â¡Silencio, perro calishita! Â¡Ya has arruinado mi negocio y mi vida durante demasiado tiempo! Si la ley y mi 'oh-tan-noble' hijo no pueden detenerte, Â¡lo harÃ© yo mismo!~
+@4    = ~Â¡Detente, Padre! Â¡La justicia por mano propia es el camino equivocado! Â¡Saerk tendrÃ¡ lo que se le debe, pero no por asesinato!~
 /*
 /* 25523 */
-@5    = ~¿Este es Anomen? ¿Puedo matarlo, Padre? ¿Por favor?~
+@5    = ~Â¿Este es Anomen? Â¿Puedo matarlo, Padre? Â¿Por favor?~
 /* 25524 */
-@6    = ~Por supuesto que puedes, Yusef. Aprovecharé cualquier oportunidad que pueda para golpear el corazón de Cor, y esta prácticamente ha caído en nuestras manos.~
+@6    = ~Por supuesto que puedes, Yusef. AprovecharÃ© cualquier oportunidad que pueda para golpear el corazÃ³n de Cor, y esta prÃ¡cticamente ha caÃ­do en nuestras manos.~
 */
-@7    = ~¡Esto es por ti! ¡Admite tu participación en el asesinato de Moira!~
-@8    = ~¡No admito nada! ¡Ya le he arrancado el corazón y el alma a tu padre robándole hasta el último negocio que tenía! ¡Lo he arruinado y golpeado como el perro mukrah que es!~
-@9    = ~¿Cómo se puede ser tan cruel y despiadado? No, no puede ser... no puede ser de este modo.~
-@10   = ~Cada uno cuida de sí mismo. Matar o morir. ¡Mejor que aprendas rápido esta lección, Aril-tel-quessir!~
-@11   = ~Es increíble cómo puedes hablar de ello con tanta naturalidad, Viconia. Como si uno necesitara dañar a otros para vivir. No esperaría que una drow supiera de caridad y amistad y-~
-@12   = ~¡Parece que sé tanto como tú de la vida!~
-@13   = ~¡Demonio calishita! ¡Sé que tienes a mi pobre hija inocente en tu conciencia! ¡Te mataré por esto y veré cómo te pudres, lo juro!~
-@14   = ~Ah, sí, todos sabemos el valor del voto de un Delryn. Espero que la chica se pudra en su tumba. ¡Es todo lo que tú y tu familia os merecéis!~
-@15   = ~¡No te atrevas a hablar de mi hermana, Saerk! Puede que no hayas matado a Moira tú mismo, ¡pero esos dos traidores Stanial y Ollik han delatado TU cometido! ¡Los asesinos están muertos, pero tú te pudrirás en las mazmorras!~
-@16   = ~¡Ja! He oído esa basura de ti y los de tu calaña durante mucho tiempo. ¡Todavía estoy de pie!~
-@17   = ~¿Qué? ¿Esos dos trabajaban para ti, padre? ¡Oh, Dioses!~
-@18   = ~Trabajaron para mí, ¿y qué? ¿Por qué te importa, hija?~
-@19   = ~Porque ... ¡Puse a Sir Anomen y a sus camaradas tras las pistas! Yo... Tuve que hacerlo...~
-@20   = ~¡¿TÚ?! Pero... eso significa... ¡que fuiste tú quien nos envió a la posada Mitocio!~
-@21   = ~Sí... Moira y yo nos veíamos a menudo en la posada Mitocio. Éramos... muy buenos amigas. Ninguno de los odios de nuestros padres podría cambiar eso.~
-@22   = ~¡Por los nueve infiernos, hermana! ¿Cómo pudiste asociarte con esa pequeña serpiente Delryn mientras nuestro padre se esforzaba en arruinar su familia? ¡Ahora no sólo tenemos aquí a los dos Delryn, sino también a un puñado de patéticos mercenarios!~
-@23   = ~¡Cuida tu lengua, muchacho, o mi hacha tendrá a un 'hijo de comerciante' hoy!~
-@24   = ~¡No lo entiendes, hermano! Moira y yo...~
-@25   = ~¡Silencio, hija! ¡Me has traicionado! ¡Has traicionado a tu familia! ¡Has ayudado a los vástagos de nuestro enemigo contra nosotros!~
-@26   = ~Mi inocente hijita - otra traidora de mi sangre. Y aquí es donde nos lleva...~
-@27   = ~¡No te atrevas a hablar así de los muertos! ¡Moira era mucho mejor persona de lo que tú nunca serás, padre! ¡Manchas su memoria con cada aliento! ¡No, TÚ eres el verdadero traidor a nuestra familia! ¡No Moira... no yo!~
+@7    = ~Â¡Esto es por ti! Â¡Admite tu participaciÃ³n en el asesinato de Moira!~
+@8    = ~Â¡No admito nada! Â¡Ya le he arrancado el corazÃ³n y el alma a tu padre robÃ¡ndole hasta el Ãºltimo negocio que tenÃ­a! Â¡Lo he arruinado y golpeado como el perro mukrah que es!~
+@9    = ~Â¿CÃ³mo se puede ser tan cruel y despiadado? No, no puede ser... no puede ser de este modo.~
+@10   = ~Cada uno cuida de sÃ­ mismo. Matar o morir. Â¡Mejor que aprendas rÃ¡pido esta lecciÃ³n, Aril-tel-quessir!~
+@11   = ~Es increÃ­ble cÃ³mo puedes hablar de ello con tanta naturalidad, Viconia. Como si uno necesitara daÃ±ar a otros para vivir. No esperarÃ­a que una drow supiera de caridad y amistad y-~
+@12   = ~Â¡Parece que sÃ© tanto como tÃº de la vida!~
+@13   = ~Â¡Demonio calishita! Â¡SÃ© que tienes a mi pobre hija inocente en tu conciencia! Â¡Te matarÃ© por esto y verÃ© cÃ³mo te pudres, lo juro!~
+@14   = ~Ah, sÃ­, todos sabemos el valor del voto de un Delryn. Espero que la chica se pudra en su tumba. Â¡Es todo lo que tÃº y tu familia os merecÃ©is!~
+@15   = ~Â¡No te atrevas a hablar de mi hermana, Saerk! Puede que no hayas matado a Moira tÃº mismo, Â¡pero esos dos traidores Stanial y Ollik han delatado TU cometido! Â¡Los asesinos estÃ¡n muertos, pero tÃº te pudrirÃ¡s en las mazmorras!~
+@16   = ~Â¡Ja! He oÃ­do esa basura de ti y los de tu calaÃ±a durante mucho tiempo. Â¡TodavÃ­a estoy de pie!~
+@17   = ~Â¿QuÃ©? Â¿Esos dos trabajaban para ti, padre? Â¡Oh, Dioses!~
+@18   = ~Trabajaron para mÃ­, Â¿y quÃ©? Â¿Por quÃ© te importa, hija?~
+@19   = ~Porque ... Â¡Puse a Sir Anomen y a sus camaradas tras las pistas! Yo... Tuve que hacerlo...~
+@20   = ~Â¡Â¿TÃš?! Pero... eso significa... Â¡que fuiste tÃº quien nos enviÃ³ a la posada Mitocio!~
+@21   = ~SÃ­... Moira y yo nos veÃ­amos a menudo en la posada Mitocio. Ã‰ramos... muy buenos amigas. Ninguno de los odios de nuestros padres podrÃ­a cambiar eso.~
+@22   = ~Â¡Por los nueve infiernos, hermana! Â¿CÃ³mo pudiste asociarte con esa pequeÃ±a serpiente Delryn mientras nuestro padre se esforzaba en arruinar su familia? Â¡Ahora no sÃ³lo tenemos aquÃ­ a los dos Delryn, sino tambiÃ©n a un puÃ±ado de patÃ©ticos mercenarios!~
+@23   = ~Â¡Cuida tu lengua, muchacho, o mi hacha tendrÃ¡ a un 'hijo de comerciante' hoy!~
+@24   = ~Â¡No lo entiendes, hermano! Moira y yo...~
+@25   = ~Â¡Silencio, hija! Â¡Me has traicionado! Â¡Has traicionado a tu familia! Â¡Has ayudado a los vÃ¡stagos de nuestro enemigo contra nosotros!~
+@26   = ~Mi inocente hijita - otra traidora de mi sangre. Y aquÃ­ es donde nos lleva...~
+@27   = ~Â¡No te atrevas a hablar asÃ­ de los muertos! Â¡Moira era mucho mejor persona de lo que tÃº nunca serÃ¡s, padre! Â¡Manchas su memoria con cada aliento! Â¡No, TÃš eres el verdadero traidor a nuestra familia! Â¡No Moira... no yo!~
 @28   = ~Silencio, indignos...~
-@29   = ~¡Basta ya! Es hora de actuar. Hombres - muestren a esta escoria, donde está su lugar - ¡con la basura!~
+@29   = ~Â¡Basta ya! Es hora de actuar. Hombres - muestren a esta escoria, donde estÃ¡ su lugar - Â¡con la basura!~

@@ -1,12 +1,12 @@
-@0    = ~Ich habe Euer Illithiumproblem gelöst. Eure Quelle sollte Euch bald wieder Nachschub liefern.~
-//@1    = ~Das sind ja fantastische Neuigkeiten! Keine Ahnung, wie Ihr das geschafft habt, aber sobald ich neue Waren habe, stehen auch Euch meine Edelmetalle zur Verfügung! Und nun entschuldigt mich, ich muss alles für die neue lieferung vorbereiten!~
-//@2    = ~Seid gegrüßt, <CHARNAME>. Dank Euch bin ich wieder im Geschäft! Wisst Ihr, normalerweise verkaufe ich mein Erz nicht an jeden, aber für Euch gibt es noch einen Rabatt obendrein!~
+@0    = ~Ich habe Euer Illithiumproblem gelÃ¶st. Eure Quelle sollte Euch bald wieder Nachschub liefern.~
+//@1    = ~Das sind ja fantastische Neuigkeiten! Keine Ahnung, wie Ihr das geschafft habt, aber sobald ich neue Waren habe, stehen auch Euch meine Edelmetalle zur VerfÃ¼gung! Und nun entschuldigt mich, ich muss alles fÃ¼r die neue lieferung vorbereiten!~
+//@2    = ~Seid gegrÃ¼ÃŸt, <CHARNAME>. Dank Euch bin ich wieder im GeschÃ¤ft! Wisst Ihr, normalerweise verkaufe ich mein Erz nicht an jeden, aber fÃ¼r Euch gibt es noch einen Rabatt obendrein!~
 //@3    = ~Lebt wohl.~
 //@4    = ~Dann lasst mich mal Euer Angebot sehen.~
-//@5    = ~Ah, Ihr seid zurück, <CHARNAME>. Braucht Ihr wieder Nachschub an gutem Erz?~
-//@6    = ~Bis später, Jerlia.~
+//@5    = ~Ah, Ihr seid zurÃ¼ck, <CHARNAME>. Braucht Ihr wieder Nachschub an gutem Erz?~
+//@6    = ~Bis spÃ¤ter, Jerlia.~
 //@7    = ~Ja, zeigt mir, was Ihr anzubieten habt.~
 
 /* new for vBeta6 */
-@8    = ~Das sind ja fantastische Neuigkeiten! Keine Ahnung, wie Ihr das geschafft habt. Dank Euch bin ich wieder im Geschäft! Wisst Ihr, normalerweise verkaufe ich mein Erz nicht an jeden, aber für Euch gibt es noch einen Rabatt obendrein!~
-@9    = ~Ich würde gerne Illithium kaufen.~
+@8    = ~Das sind ja fantastische Neuigkeiten! Keine Ahnung, wie Ihr das geschafft habt. Dank Euch bin ich wieder im GeschÃ¤ft! Wisst Ihr, normalerweise verkaufe ich mein Erz nicht an jeden, aber fÃ¼r Euch gibt es noch einen Rabatt obendrein!~
+@9    = ~Ich wÃ¼rde gerne Illithium kaufen.~

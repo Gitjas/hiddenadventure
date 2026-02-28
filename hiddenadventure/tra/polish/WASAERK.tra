@@ -1,38 +1,38 @@
 /*
 /* 25513 */
-@0    = ~Co ma znaczyæ ca³e to zamieszanie? Co siê tu dzieje?!~ [SAERK01]
+@0    = ~Co ma znaczyÃ¦ caÂ³e to zamieszanie? Co siÃª tu dzieje?!~ [SAERK01]
 /* 25514 */
-@1    = ~O-ojcze? S³ysza³am jakiœ ha³as...?~ [SURAYX01]
+@1    = ~O-ojcze? SÂ³yszaÂ³am jakiÅ“ haÂ³as...?~ [SURAYX01]
 */
-@2    = ~Co to ma byæ? Ach, widzê, ¿e ten pomarszczony jaszczur Cor w koñcu do mnie zawita³. I to razem ze swoim szczeniakiem... Pewnie po to, by siê ze mn¹ rozprawiæ, hê?~
-@3    = ~Milcz, calishycki psie! Rujnowa³eœ moje interesy i moje ¿ycie ju¿ wystarczaj¹co d³ugo! Jeœli prawo i mój „jak¿e szlachetny” syn nie potrafi¹ ciê powstrzymaæ, to zrobiê to sam!~
-@4    = ~Zatrzymaj siê, ojcze! Samos¹d nie jest ¿adnym rozwi¹zaniem! Saerk otrzyma to, na co zas³u¿y³, ale nie poprzez morderstwo!~
+@2    = ~Co to ma byÃ¦? Ach, widzÃª, Â¿e ten pomarszczony jaszczur Cor w koÃ±cu do mnie zawitaÂ³. I to razem ze swoim szczeniakiem... Pewnie po to, by siÃª ze mnÂ¹ rozprawiÃ¦, hÃª?~
+@3    = ~Milcz, calishycki psie! RujnowaÂ³eÅ“ moje interesy i moje Â¿ycie juÂ¿ wystarczajÂ¹co dÂ³ugo! JeÅ“li prawo i mÃ³j â€jakÂ¿e szlachetnyâ€ syn nie potrafiÂ¹ ciÃª powstrzymaÃ¦, to zrobiÃª to sam!~
+@4    = ~Zatrzymaj siÃª, ojcze! SamosÂ¹d nie jest Â¿adnym rozwiÂ¹zaniem! Saerk otrzyma to, na co zasÂ³uÂ¿yÂ³, ale nie poprzez morderstwo!~
 /*
 /* 25523 */
-@5    = ~Czy to Anomen? Och, czy mogê go zabiæ, ojcze? Proszê?~
+@5    = ~Czy to Anomen? Och, czy mogÃª go zabiÃ¦, ojcze? ProszÃª?~
 /* 25524 */
-@6    = ~Oczywiœcie, ¿e tak, Yusefie. Wykorzystam ka¿d¹ nadarzaj¹c¹ siê okazjê, ¿eby zadaæ cios Corowi, a ta sama wpada w nasze rêce.~
+@6    = ~OczywiÅ“cie, Â¿e tak, Yusefie. Wykorzystam kaÂ¿dÂ¹ nadarzajÂ¹cÂ¹ siÃª okazjÃª, Â¿eby zadaÃ¦ cios Corowi, a ta sama wpada w nasze rÃªce.~
 */
-@7    = ~To przez ciebie! Przyznaj siê do swojego udzia³u w zabójstwie Moiry!~
-@8    = ~Do niczego siê nie przyznajê! Pozbawi³em ju¿ twego ojca serca i duszy, okradaj¹c go z ostatniego kawa³ka jego interesów! Zrujnowa³em go i pokona³em niczym obrzydliwego psa, którym zreszt¹ jest!~
-@9    = ~Jak mo¿na byæ takim bezdusznym okrutnikiem? Nie, on nie mo¿e... nie mo¿e mówiæ powa¿nie.~
-@10   = ~Ka¿dy martwi siê o siebie. Zabij, albo zostaniesz zabita. Lepiej szybko opanuj tê lekcjê, Aril-tel-quessir!~
-@11   = ~To nie do wiary, ¿e z tak¹ ³atwoœci¹ o tym mówisz, Viconio. Jakby naprawdê trzeba by³o krzywdziæ innych, by ¿yæ. Nie mo¿na oczekiwaæ od drowki, ¿eby wiedzia³a cokolwiek o dobroczynnoœci i przyjaŸni i...~
-@12   = ~Wygl¹da na to, ¿e wiem o nich tyle, ile ty wiesz o ¿yciu!~
-@13   = ~Ty calishycki demonie! Wiem, ¿e masz na sumieniu ¿ycie mojej niewinnej córki! Zabijê ciê za to i bêdê patrzy³, jak gnijesz, przysiêgam!~
-@14   = ~A, tak, wszyscy wiemy, ile s¹ warte przysiêgi Delrynów. Mam nadziejê, ¿e dziewczyna zgnije w grobie. To wszystko, na co ty i twoja rodzina zas³ugujecie!~
-@15   = ~Nie warz siê nawet wspominaæ o mojej siostrze, Saerku! Mo¿e nie zabi³eœ Moiry w³asnorêcznie, ale ci dwaj zdrajcy, Stanial i Ollik, zakradli siê do naszej posiad³oœci z twojego polecenia! Zabójcy s¹ ju¿ martwi, a ty zgnijesz w lochach!~
-@16   = ~Ha! Nie raz ju¿ s³ysza³em takie rzeczy od tobie podobnych! I wci¹¿ tu jestem!~
-@17   = ~C-co? Ci... ci dwaj pracowali dla ciebie, ojcze? Och, na bogów!~
-@18   = ~I co z tego, ¿e pracowali dla mnie?! Dlaczego ciê to obchodzi, córko?~
-@19   = ~Poniewa¿... to ja skierowa³am Anomena i jego towarzyszy na ich trop! Ja... musia³am to zrobiæ...~
-@20   = ~Ty?!! Ale... to znaczy... ¿e to ty nas skierowa³aœ do gospody Mithrest!~
-@21   = ~Tak... Moira i ja czêsto siê tam spotyka³yœmy. By³yœmy... bliskimi przyjació³kami. I wzajemna nienawiœæ naszych ojców nie mog³a tego zmieniæ.~
-@22   = ~Na Dziewiêæ Piekie³, siostro! Jak mog³aœ siê zadaæ z tym padalcem m³odym Delrynem, podczas gdy nasz ojciec prawie ju¿ wykoñczy³ ich rodzinê? Teraz mamy na g³owie nie tylko dwóch Delrynów, ale do tego jeszcze jakichœ ¿a³osnych najemników!~
-@23   = ~Pilnuj swojego jêzyka, ch³opcze, albo mój topór posmakuje dziœ „kupieckiego synalka”!~
+@7    = ~To przez ciebie! Przyznaj siÃª do swojego udziaÂ³u w zabÃ³jstwie Moiry!~
+@8    = ~Do niczego siÃª nie przyznajÃª! PozbawiÂ³em juÂ¿ twego ojca serca i duszy, okradajÂ¹c go z ostatniego kawaÂ³ka jego interesÃ³w! ZrujnowaÂ³em go i pokonaÂ³em niczym obrzydliwego psa, ktÃ³rym zresztÂ¹ jest!~
+@9    = ~Jak moÂ¿na byÃ¦ takim bezdusznym okrutnikiem? Nie, on nie moÂ¿e... nie moÂ¿e mÃ³wiÃ¦ powaÂ¿nie.~
+@10   = ~KaÂ¿dy martwi siÃª o siebie. Zabij, albo zostaniesz zabita. Lepiej szybko opanuj tÃª lekcjÃª, Aril-tel-quessir!~
+@11   = ~To nie do wiary, Â¿e z takÂ¹ Â³atwoÅ“ciÂ¹ o tym mÃ³wisz, Viconio. Jakby naprawdÃª trzeba byÂ³o krzywdziÃ¦ innych, by Â¿yÃ¦. Nie moÂ¿na oczekiwaÃ¦ od drowki, Â¿eby wiedziaÂ³a cokolwiek o dobroczynnoÅ“ci i przyjaÅ¸ni i...~
+@12   = ~WyglÂ¹da na to, Â¿e wiem o nich tyle, ile ty wiesz o Â¿yciu!~
+@13   = ~Ty calishycki demonie! Wiem, Â¿e masz na sumieniu Â¿ycie mojej niewinnej cÃ³rki! ZabijÃª ciÃª za to i bÃªdÃª patrzyÂ³, jak gnijesz, przysiÃªgam!~
+@14   = ~A, tak, wszyscy wiemy, ile sÂ¹ warte przysiÃªgi DelrynÃ³w. Mam nadziejÃª, Â¿e dziewczyna zgnije w grobie. To wszystko, na co ty i twoja rodzina zasÂ³ugujecie!~
+@15   = ~Nie warz siÃª nawet wspominaÃ¦ o mojej siostrze, Saerku! MoÂ¿e nie zabiÂ³eÅ“ Moiry wÂ³asnorÃªcznie, ale ci dwaj zdrajcy, Stanial i Ollik, zakradli siÃª do naszej posiadÂ³oÅ“ci z twojego polecenia! ZabÃ³jcy sÂ¹ juÂ¿ martwi, a ty zgnijesz w lochach!~
+@16   = ~Ha! Nie raz juÂ¿ sÂ³yszaÂ³em takie rzeczy od tobie podobnych! I wciÂ¹Â¿ tu jestem!~
+@17   = ~C-co? Ci... ci dwaj pracowali dla ciebie, ojcze? Och, na bogÃ³w!~
+@18   = ~I co z tego, Â¿e pracowali dla mnie?! Dlaczego ciÃª to obchodzi, cÃ³rko?~
+@19   = ~PoniewaÂ¿... to ja skierowaÂ³am Anomena i jego towarzyszy na ich trop! Ja... musiaÂ³am to zrobiÃ¦...~
+@20   = ~Ty?!! Ale... to znaczy... Â¿e to ty nas skierowaÂ³aÅ“ do gospody Mithrest!~
+@21   = ~Tak... Moira i ja czÃªsto siÃª tam spotykaÂ³yÅ“my. ByÂ³yÅ“my... bliskimi przyjaciÃ³Â³kami. I wzajemna nienawiÅ“Ã¦ naszych ojcÃ³w nie mogÂ³a tego zmieniÃ¦.~
+@22   = ~Na DziewiÃªÃ¦ PiekieÂ³, siostro! Jak mogÂ³aÅ“ siÃª zadaÃ¦ z tym padalcem mÂ³odym Delrynem, podczas gdy nasz ojciec prawie juÂ¿ wykoÃ±czyÂ³ ich rodzinÃª? Teraz mamy na gÂ³owie nie tylko dwÃ³ch DelrynÃ³w, ale do tego jeszcze jakichÅ“ Â¿aÂ³osnych najemnikÃ³w!~
+@23   = ~Pilnuj swojego jÃªzyka, chÂ³opcze, albo mÃ³j topÃ³r posmakuje dziÅ“ â€kupieckiego synalkaâ€!~
 @24   = ~Nic nie rozumiesz, bracie! Moira i ja...~
-@25   = ~Milcz, córko! Zdradzi³aœ mnie! Zdradzi³aœ swoj¹ rodzinê! Wspar³aœ latoroœl naszego wroga przeciwko nam!~
-@26   = ~Moja niewinna córeczka kolejnym zdrajc¹ rodziny. I oto dok¹d to wszystko j¹ przywiod³o...~
-@27   = ~Nie wa¿ siê tak mówiæ o zmar³ej! Moira by³a o wiele lepsz¹ osob¹, ni¿ ty kiedykolwiek bêdziesz, ojcze! Ka¿dym oddechem plugawisz jej pamiêæ! Nie, to TY jesteœ prawdziwym zdrajc¹ naszej rodziny! Nie Moira... nie ja!~
+@25   = ~Milcz, cÃ³rko! ZdradziÂ³aÅ“ mnie! ZdradziÂ³aÅ“ swojÂ¹ rodzinÃª! WsparÂ³aÅ“ latoroÅ“l naszego wroga przeciwko nam!~
+@26   = ~Moja niewinna cÃ³reczka kolejnym zdrajcÂ¹ rodziny. I oto dokÂ¹d to wszystko jÂ¹ przywiodÂ³o...~
+@27   = ~Nie waÂ¿ siÃª tak mÃ³wiÃ¦ o zmarÂ³ej! Moira byÂ³a o wiele lepszÂ¹ osobÂ¹, niÂ¿ ty kiedykolwiek bÃªdziesz, ojcze! KaÂ¿dym oddechem plugawisz jej pamiÃªÃ¦! Nie, to TY jesteÅ“ prawdziwym zdrajcÂ¹ naszej rodziny! Nie Moira... nie ja!~
 @28   = ~Milcz, ty niegodny...~
-@29   = ~Doœæ tego! Czas coœ zrobiæ. Do broni! Poka¿cie tym wyrzutkom, gdzie ich miejsce!~
+@29   = ~DoÅ“Ã¦ tego! Czas coÅ“ zrobiÃ¦. Do broni! PokaÂ¿cie tym wyrzutkom, gdzie ich miejsce!~

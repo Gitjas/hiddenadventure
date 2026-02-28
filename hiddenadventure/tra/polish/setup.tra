@@ -1,103 +1,103 @@
 @0    = ~Ten komponent wymaga BGT lub EET.~ 
 //Extended Lady Elgea plot
 @1001    = ~Rozbudowany motyw Lady Elgei~
-/* @1002    = ~Para wysokiej jakoœci srebrnych pantalonów. Tak wygl¹da³ okup wniesiony przez Welthera za uwolnienie Lady Elgei.~ */
+/* @1002    = ~Para wysokiej jakoÅ“ci srebrnych pantalonÃ³w. Tak wyglÂ¹daÂ³ okup wniesiony przez Welthera za uwolnienie Lady Elgei.~ */
 
 
 //Extended Anomen plot
 @3001  = ~Rozbudowany motyw Anomena~
-@3002  = ~Szepcz¹cy g³os~
-@3003	 = ~Naszyjnik rodziny Delrynów~
-@3004	 = ~Ten cenny naszyjnik znajduje siê od wielu pokoleñ w posiadaniu rodziny Delrynów. Moira, siostra Anomena, uwielbia³a go nosiæ, gdy¿ by³ on ostatnim darem, który otrzyma³a od matki.
+@3002  = ~SzepczÂ¹cy gÂ³os~
+@3003	 = ~Naszyjnik rodziny DelrynÃ³w~
+@3004	 = ~Ten cenny naszyjnik znajduje siÃª od wielu pokoleÃ± w posiadaniu rodziny DelrynÃ³w. Moira, siostra Anomena, uwielbiaÂ³a go nosiÃ¦, gdyÂ¿ byÂ³ on ostatnim darem, ktÃ³ry otrzymaÂ³a od matki.
 
 PARAMETRY:
 
 Specjalne:
- Ochrona przed wyssaniem poziomów
- Dwa razy dziennie pozwala rzucaæ Ogieñ s³oñca
-Mo¿e u¿ywaæ:
+ Ochrona przed wyssaniem poziomÃ³w
+ Dwa razy dziennie pozwala rzucaÃ¦ OgieÃ± sÂ³oÃ±ca
+MoÂ¿e uÂ¿ywaÃ¦:
  Anomen~
-@3005	 = ~Tylko Anomen mo¿e u¿ywaæ tego naszyjnika.~
+@3005	 = ~Tylko Anomen moÂ¿e uÂ¿ywaÃ¦ tego naszyjnika.~
 @3006	 = ~Alwesk~
 @3007	 = ~Ollik~
 @3008	 = ~Stanial~
-@3009	 = ~Nowy przydzia³~
+@3009	 = ~Nowy przydziaÂ³~
 @3010	 = ~Stanialu i Olliku,
 
-Dziêki waszej „chwili szaleñstwa” w posiad³oœci Delrynów nie mogê ju¿ d³u¿ej wykorzystywaæ was tam jako szpiegów. Ani nawet pozwoliæ wam krêciæ siê swobodnie po mieœcie. Pomimo tego, ¿e nie ma ¿adnych oficjalnych œwiadków sprawy, nie mogê dopuœciæ, by w jakikolwiek sposób mnie z wami po³¹czono!
-Tylko dziêki temu, ¿e przys³u¿yliœcie mi siê wielokrotnie, okazujê wspania³omyœlnoœæ, organizuj¹c wam miejsce, gdzie bêdziecie mogli siê ukryæ, zamiast najzwyczajniej was „usun¹æ”.
-Dziêki interesom, które prowadzê wspólnie z Renalem Krwawym Skalpem i jego Z³odziejami Cienia, mog³em wynaj¹æ dom w Dzielnicy mostów, naprzeciwko Œwi¹tyni Helma. Kr¹¿¹ plotki, ¿e miejsce jest nawiedzone. To powinno wam zapewniæ spokój wystarczaj¹co d³ugo, by kurz zd¹¿y³ opaœæ.
+DziÃªki waszej â€chwili szaleÃ±stwaâ€ w posiadÂ³oÅ“ci DelrynÃ³w nie mogÃª juÂ¿ dÂ³uÂ¿ej wykorzystywaÃ¦ was tam jako szpiegÃ³w. Ani nawet pozwoliÃ¦ wam krÃªciÃ¦ siÃª swobodnie po mieÅ“cie. Pomimo tego, Â¿e nie ma Â¿adnych oficjalnych Å“wiadkÃ³w sprawy, nie mogÃª dopuÅ“ciÃ¦, by w jakikolwiek sposÃ³b mnie z wami poÂ³Â¹czono!
+Tylko dziÃªki temu, Â¿e przysÂ³uÂ¿yliÅ“cie mi siÃª wielokrotnie, okazujÃª wspaniaÂ³omyÅ“lnoÅ“Ã¦, organizujÂ¹c wam miejsce, gdzie bÃªdziecie mogli siÃª ukryÃ¦, zamiast najzwyczajniej was â€usunÂ¹Ã¦â€.
+DziÃªki interesom, ktÃ³re prowadzÃª wspÃ³lnie z Renalem Krwawym Skalpem i jego ZÂ³odziejami Cienia, mogÂ³em wynajÂ¹Ã¦ dom w Dzielnicy mostÃ³w, naprzeciwko Å’wiÂ¹tyni Helma. KrÂ¹Â¿Â¹ plotki, Â¿e miejsce jest nawiedzone. To powinno wam zapewniÃ¦ spokÃ³j wystarczajÂ¹co dÂ³ugo, by kurz zdÂ¹Â¿yÂ³ opaÅ“Ã¦.
 
-Dopóki bêdziecie stosowaæ siê do poni¿szych zasad, nie bêdziecie mieæ ¿adnych problemów:
-1. Nie opuszczajcie domu, chyba ¿e osobiœcie wam tak rozka¿ê!
-2. Nie ruszajcie niczego, co tam znajdziecie; Z³odzieja Cienia nie lubi¹, gdy grzebie siê w ich rzeczach!
-3. Pod ¿adnym pozorem nie schodŸcie do krypty w piwnicach. Renal jest w tej sprawie nieugiêty. Kto tam zejdzie, gorzko tego po¿a³uje!
+DopÃ³ki bÃªdziecie stosowaÃ¦ siÃª do poniÂ¿szych zasad, nie bÃªdziecie mieÃ¦ Â¿adnych problemÃ³w:
+1. Nie opuszczajcie domu, chyba Â¿e osobiÅ“cie wam tak rozkaÂ¿Ãª!
+2. Nie ruszajcie niczego, co tam znajdziecie; ZÂ³odzieja Cienia nie lubiÂ¹, gdy grzebie siÃª w ich rzeczach!
+3. Pod Â¿adnym pozorem nie schodÅ¸cie do krypty w piwnicach. Renal jest w tej sprawie nieugiÃªty. Kto tam zejdzie, gorzko tego poÂ¿aÂ³uje!
 
-Jeœli dostosujecie siê do tych prostych zasad, nic wam nie grozi.
+JeÅ“li dostosujecie siÃª do tych prostych zasad, nic wam nie grozi.
 
 Saerk Farrahd~
-@3011	 = ~Wynajêty zbir~
+@3011	 = ~WynajÃªty zbir~
 @3012	 = ~Maczuga +1~
-@3013	 = ~Wiêkszoœæ maczug to po prostu kawa³ki twardego drewna, od strony uchwytu wê¿sze, zaœ po przeciwnej szersze. Ta prosta broñ by³a u¿ywana od czasów, gdy cz³owiek zacz¹³ stosowaæ narzêdzia. Ka¿dy mo¿e znaleŸæ gdzieœ mocny kawa³ek drewna i zacz¹æ nim machaæ, st¹d te¿ popularnoœæ i powszechnoœæ maczug.
+@3013	 = ~WiÃªkszoÅ“Ã¦ maczug to po prostu kawaÂ³ki twardego drewna, od strony uchwytu wÃªÂ¿sze, zaÅ“ po przeciwnej szersze. Ta prosta broÃ± byÂ³a uÂ¿ywana od czasÃ³w, gdy czÂ³owiek zaczÂ¹Â³ stosowaÃ¦ narzÃªdzia. KaÂ¿dy moÂ¿e znaleÅ¸Ã¦ gdzieÅ“ mocny kawaÂ³ek drewna i zaczÂ¹Ã¦ nim machaÃ¦, stÂ¹d teÂ¿ popularnoÅ“Ã¦ i powszechnoÅ“Ã¦ maczug.
 
 PARAMETRY:
 
-Obra¿enia: 1K6 +1
+ObraÂ¿enia: 1K6 +1
 TraK0: +1
-Typ obra¿eñ: obuchowe
+Typ obraÂ¿eÃ±: obuchowe
 Waga: 3
-OpóŸnienie: 4
-Rodzaj bieg³oœci: maczuga
-Typ broni: 1-rêczna
-Wymagana si³a: 5
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 4
+Rodzaj biegÂ³oÅ“ci: maczuga
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 5
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Mag~
 @3014		 = ~Porucznik Jaiken~
-@3015		 = ~W pogoni za zabójcami Moiry
+@3015		 = ~W pogoni za zabÃ³jcami Moiry
 
-ZnaleŸliœmy zabójców, Staniala i Ollika, w ich przytulnej kryjówce. Notatka, któr¹ znaleŸliœmy w kieszeni Staniala, jest dowodem na wspó³pracê Saerka Farrahda ze Z³odziejami Cienia. Kapitan Alwesk bêdzie z pewnoœci¹ szczêœliwy.
-Dwaj zabójcy zneutralizowani i jeszcze nagroda za tê informacjê... Czegó¿ wiêcej mo¿na chcieæ?~
-@3016		 = ~W pogoni za zabójcami Moiry
+ZnaleÅ¸liÅ“my zabÃ³jcÃ³w, Staniala i Ollika, w ich przytulnej kryjÃ³wce. Notatka, ktÃ³rÂ¹ znaleÅ¸liÅ“my w kieszeni Staniala, jest dowodem na wspÃ³Â³pracÃª Saerka Farrahda ze ZÂ³odziejami Cienia. Kapitan Alwesk bÃªdzie z pewnoÅ“ciÂ¹ szczÃªÅ“liwy.
+Dwaj zabÃ³jcy zneutralizowani i jeszcze nagroda za tÃª informacjÃª... CzegÃ³Â¿ wiÃªcej moÂ¿na chcieÃ¦?~
+@3016		 = ~W pogoni za zabÃ³jcami Moiry
 
-Spotkanie z kapitanem Alweskiem wiele nam wyjaœni³o. Pomimo swojego szorstkiego obycia kapitan wydaje siê cz³owiekiem bystrym, konsekwentnym, pewnym siebie i przewiduj¹cym. Zdecydowa³ siê pomóc nam w poszukiwaniach zabójców, Staniala i Ollika. Podczas gdy on bêdzie przeczesywa³ Doki, my powinniœmy odszukaæ jego dwóch zaginionych stra¿ników. Podobno lubi¹ siê zasiedzieæ w Karczmie Delosara w Dzielnicy mostów i to tam powinniœmy zacz¹æ.
+Spotkanie z kapitanem Alweskiem wiele nam wyjaÅ“niÂ³o. Pomimo swojego szorstkiego obycia kapitan wydaje siÃª czÂ³owiekiem bystrym, konsekwentnym, pewnym siebie i przewidujÂ¹cym. ZdecydowaÂ³ siÃª pomÃ³c nam w poszukiwaniach zabÃ³jcÃ³w, Staniala i Ollika. Podczas gdy on bÃªdzie przeczesywaÂ³ Doki, my powinniÅ“my odszukaÃ¦ jego dwÃ³ch zaginionych straÂ¿nikÃ³w. Podobno lubiÂ¹ siÃª zasiedzieÃ¦ w Karczmie Delosara w Dzielnicy mostÃ³w i to tam powinniÅ“my zaczÂ¹Ã¦.
 
-Miejmy nadziejê, ¿e w miêdzyczasie jego œledztwo przyniesie jakieœ owoce...~
-@3017		 = ~W pogoni za zabójcami Moiry
+Miejmy nadziejÃª, Â¿e w miÃªdzyczasie jego Å“ledztwo przyniesie jakieÅ“ owoce...~
+@3017		 = ~W pogoni za zabÃ³jcami Moiry
 
-Kapitanowi Alweskowi uda³o siê odkryæ, gdzie ukrywaj¹ siê zabójcy Stanial i Ollik! Uwa¿a, ¿e znajdziemy ich w jednym z domów naprzeciwko Œwi¹tyni Helma w Dzielnicy mostów. Budynek nale¿a³ do Z³odziei Cienia, którzy sprzedali go Saerkowi Farrahdowi, przeciwnikowi w interesach Cora Delryna!
-Po wstêpnych rozwa¿aniach kapitan zgodzi³ siê, byœmy ruszyli zaj¹æ siê tymi zabójcami. Zaofiarowa³ nam te¿ nagrodê za wszelkie dowody wspó³pracy Saerka i Z³odziei Cienia.~
-@3018		 = ~W pogoni za zabójcami Moiry
+Kapitanowi Alweskowi udaÂ³o siÃª odkryÃ¦, gdzie ukrywajÂ¹ siÃª zabÃ³jcy Stanial i Ollik! UwaÂ¿a, Â¿e znajdziemy ich w jednym z domÃ³w naprzeciwko Å’wiÂ¹tyni Helma w Dzielnicy mostÃ³w. Budynek naleÂ¿aÂ³ do ZÂ³odziei Cienia, ktÃ³rzy sprzedali go Saerkowi Farrahdowi, przeciwnikowi w interesach Cora Delryna!
+Po wstÃªpnych rozwaÂ¿aniach kapitan zgodziÂ³ siÃª, byÅ“my ruszyli zajÂ¹Ã¦ siÃª tymi zabÃ³jcami. ZaofiarowaÂ³ nam teÂ¿ nagrodÃª za wszelkie dowody wspÃ³Â³pracy Saerka i ZÂ³odziei Cienia.~
+@3018		 = ~W pogoni za zabÃ³jcami Moiry
 
-Sêdzia Bylanna by³a wyraŸnie zaskoczona naszymi odkryciami, poniewa¿ podejrzana dwójka  próbowa³a ju¿ wczeœniej wnieœæ pozew przeciwko lordowi Corowi. Poradzi³a nam, byœmy porozmawiali z kapitanem Alweskiem z garnizonu w Dokach. Poprosi³a te¿ Anomena, by nie bra³ spraw we w³asne rêce, tylko zostawi³ kwestiê aresztowania Staniala i Ollika kapitanowi.~
-@3019		 = ~W pogoni za zabójcami Moiry
+SÃªdzia Bylanna byÂ³a wyraÅ¸nie zaskoczona naszymi odkryciami, poniewaÂ¿ podejrzana dwÃ³jka  prÃ³bowaÂ³a juÂ¿ wczeÅ“niej wnieÅ“Ã¦ pozew przeciwko lordowi Corowi. PoradziÂ³a nam, byÅ“my porozmawiali z kapitanem Alweskiem z garnizonu w Dokach. PoprosiÂ³a teÂ¿ Anomena, by nie braÂ³ spraw we wÂ³asne rÃªce, tylko zostawiÂ³ kwestiÃª aresztowania Staniala i Ollika kapitanowi.~
+@3019		 = ~W pogoni za zabÃ³jcami Moiry
 
-Podczas naszego pobytu w Athkatli zostaliœmy zaczepieni przez jak¹œ tajemnicz¹ postaæ. Ten ktoœ zdawa³ siê wiedzieæ, kto zamordowa³ siostrê Anomena, Moirê! W przeciwieñstwie do ustaleñ Stra¿y, morderstwo mia³o mieæ jednak œwiadka, który móg³by nam pomóc rozwik³aæ sprawê. By go odnaleŸæ, powinniœmy porozmawiaæ z jedn¹ z pracownic gospody Mithrest. Wed³ug naszego tajemniczego „sprzymierzeñca” dziewczyna z gospody bêdzie nam w stanie pomóc.~
-@3020		 = ~W pogoni za zabójcami Moiry
+Podczas naszego pobytu w Athkatli zostaliÅ“my zaczepieni przez jakÂ¹Å“ tajemniczÂ¹ postaÃ¦. Ten ktoÅ“ zdawaÂ³ siÃª wiedzieÃ¦, kto zamordowaÂ³ siostrÃª Anomena, MoirÃª! W przeciwieÃ±stwie do ustaleÃ± StraÂ¿y, morderstwo miaÂ³o mieÃ¦ jednak Å“wiadka, ktÃ³ry mÃ³gÂ³by nam pomÃ³c rozwikÂ³aÃ¦ sprawÃª. By go odnaleÅ¸Ã¦, powinniÅ“my porozmawiaÃ¦ z jednÂ¹ z pracownic gospody Mithrest. WedÂ³ug naszego tajemniczego â€sprzymierzeÃ±caâ€ dziewczyna z gospody bÃªdzie nam w stanie pomÃ³c.~
+@3020		 = ~W pogoni za zabÃ³jcami Moiry
 
-Jak siê okaza³o, tym tajemniczym œwiadkiem by³ nie kto inny, jak kelnerka Rebeka, która wczeœniej pracowa³a w posiad³oœci Delrynów i by³a przyjació³k¹ Moiry. Opowiedzia³a nam, ¿e z³o¿y³a Moirze sekretn¹ wizytê, w czasie której zosta³y zaskoczone przez dwóch w³amywaczy. Rebeka ukry³a siê na czas i z ukrycia widzia³a, jak jeden z nich zamordowa³ Moirê. Szczêœliwie uda³o jej siê us³yszeæ imiona zabójców, zanim ci uciekli z miejsca zdarzenia. Byli to Stanial i Ollik.
-Anomen rozpozna³ te imiona. Mia³y nale¿eæ do dwóch niezadowolonych pracowników jego ojca. Nalega³, byœmy czym prêdzej powiadomili o naszym odkryciu sêdziê Bylannê.~
-@3021		  = ~W pogoni za zabójcami Moiry
+Jak siÃª okazaÂ³o, tym tajemniczym Å“wiadkiem byÂ³ nie kto inny, jak kelnerka Rebeka, ktÃ³ra wczeÅ“niej pracowaÂ³a w posiadÂ³oÅ“ci DelrynÃ³w i byÂ³a przyjaciÃ³Â³kÂ¹ Moiry. OpowiedziaÂ³a nam, Â¿e zÂ³oÂ¿yÂ³a Moirze sekretnÂ¹ wizytÃª, w czasie ktÃ³rej zostaÂ³y zaskoczone przez dwÃ³ch wÂ³amywaczy. Rebeka ukryÂ³a siÃª na czas i z ukrycia widziaÂ³a, jak jeden z nich zamordowaÂ³ MoirÃª. SzczÃªÅ“liwie udaÂ³o jej siÃª usÂ³yszeÃ¦ imiona zabÃ³jcÃ³w, zanim ci uciekli z miejsca zdarzenia. Byli to Stanial i Ollik.
+Anomen rozpoznaÂ³ te imiona. MiaÂ³y naleÂ¿eÃ¦ do dwÃ³ch niezadowolonych pracownikÃ³w jego ojca. NalegaÂ³, byÅ“my czym prÃªdzej powiadomili o naszym odkryciu sÃªdziÃª BylannÃª.~
+@3021		  = ~W pogoni za zabÃ³jcami Moiry
 
-Kapitan Alwesk by³ bardzo zadowolony, gdy us³ysza³, ¿e wszystko posz³o zgodnie z planem.
-Jednak los zgotowa³ nam kolejn¹ niespodziankê; pos³aniec dostarczy³ nam wieœæ, ¿e lord Cor, ojciec Anomena, postanowi³ samodzielnie dokonaæ zemsty na domniemanych zabójcach swojej córki. Przejêty Anomen ruszy³ do siedziby Saerka Farrahda.
-Kapitan Alwesk obawia siê, ¿e sprawy mog¹ przybraæ bardzo z³y obrót, jeœli nie pod¹¿ymy za Anomenem. Mamy podobne odczucia. Nie pozwolimy, by coœ mu siê sta³o. Gdyby zasz³a taka potrzeba, to bêdziemy chroniæ Anomena tak¿e przed nim samym... w razie ewentualnej konfrontacji z Saerkiem.~
-@3022		  = ~W pogoni za zabójcami Moiry
+Kapitan Alwesk byÂ³ bardzo zadowolony, gdy usÂ³yszaÂ³, Â¿e wszystko poszÂ³o zgodnie z planem.
+Jednak los zgotowaÂ³ nam kolejnÂ¹ niespodziankÃª; posÂ³aniec dostarczyÂ³ nam wieÅ“Ã¦, Â¿e lord Cor, ojciec Anomena, postanowiÂ³ samodzielnie dokonaÃ¦ zemsty na domniemanych zabÃ³jcach swojej cÃ³rki. PrzejÃªty Anomen ruszyÂ³ do siedziby Saerka Farrahda.
+Kapitan Alwesk obawia siÃª, Â¿e sprawy mogÂ¹ przybraÃ¦ bardzo zÂ³y obrÃ³t, jeÅ“li nie podÂ¹Â¿ymy za Anomenem. Mamy podobne odczucia. Nie pozwolimy, by coÅ“ mu siÃª staÂ³o. Gdyby zaszÂ³a taka potrzeba, to bÃªdziemy chroniÃ¦ Anomena takÂ¿e przed nim samym... w razie ewentualnej konfrontacji z Saerkiem.~
+@3022		  = ~W pogoni za zabÃ³jcami Moiry
 
-Kapitan Alwesk by³ bardzo zadowolony, gdy us³ysza³, ¿e wszystko posz³o zgodnie z planem.
-Jednak los zgotowa³ nam kolejn¹ niespodziankê; pos³aniec dostarczy³ nam wieœæ, ¿e lord Cor, ojciec Anomena, postanowi³ samodzielnie dokonaæ zemsty na domniemanych zabójcach swojej córki. Przejêty Anomen ruszy³ do siedziby Saerka Farrahda.
-Kapitan Alwesk obawia siê, ¿e sprawy mog¹ przybraæ bardzo z³y obrót, jeœli nie pod¹¿ymy za Anomenem. Ale dla nas ta sprawa jest ju¿ zamkniêta. Jeœli Anomen chce pomagaæ swojemu g³upiemu ojcu, to niech to robi. Najprawdopodobniej konsekwencje bêd¹ dla niego bolesne.~
-@3023		   = ~W pogoni za zabójcami Moiry
+Kapitan Alwesk byÂ³ bardzo zadowolony, gdy usÂ³yszaÂ³, Â¿e wszystko poszÂ³o zgodnie z planem.
+Jednak los zgotowaÂ³ nam kolejnÂ¹ niespodziankÃª; posÂ³aniec dostarczyÂ³ nam wieÅ“Ã¦, Â¿e lord Cor, ojciec Anomena, postanowiÂ³ samodzielnie dokonaÃ¦ zemsty na domniemanych zabÃ³jcach swojej cÃ³rki. PrzejÃªty Anomen ruszyÂ³ do siedziby Saerka Farrahda.
+Kapitan Alwesk obawia siÃª, Â¿e sprawy mogÂ¹ przybraÃ¦ bardzo zÂ³y obrÃ³t, jeÅ“li nie podÂ¹Â¿ymy za Anomenem. Ale dla nas ta sprawa jest juÂ¿ zamkniÃªta. JeÅ“li Anomen chce pomagaÃ¦ swojemu gÂ³upiemu ojcu, to niech to robi. Najprawdopodobniej konsekwencje bÃªdÂ¹ dla niego bolesne.~
+@3023		   = ~W pogoni za zabÃ³jcami Moiry
 
-Przybyliœmy do posiad³oœci kupca w sam¹ porê, by pomóc Anomenowi powstrzymaæ jego ojca przed prób¹ zabicia Saerka. W trakcie burzliwej dyskusji wysz³o na jaw, ¿e to Surayah, córka Saerka, by³a naszym tajemniczym informatorem! Ona i Moira, wbrew wrogoœci panuj¹cej miêdzy ich rodami, by³y bliskimi przyjació³kami. Surayah nie wiedzia³a jednak ani o tym, ¿e obaj zabójcy pracowali dla jej ojca, ani o jego konszachtach ze Z³odziejami Cienia! Zanim dosz³o jednak do wybuchu, Saerk, jego syn Yusef oraz ojciec Anomena zostali aresztowani przez Stra¿.
-Trwa³o to doœæ d³ugo, ale sprawa morderstwa Moiry zosta³a wreszcie rozwik³ana. Miejmy nadziejê, ¿e dziêki temu Anomen zazna wreszcie trochê spokoju.~
+PrzybyliÅ“my do posiadÂ³oÅ“ci kupca w samÂ¹ porÃª, by pomÃ³c Anomenowi powstrzymaÃ¦ jego ojca przed prÃ³bÂ¹ zabicia Saerka. W trakcie burzliwej dyskusji wyszÂ³o na jaw, Â¿e to Surayah, cÃ³rka Saerka, byÂ³a naszym tajemniczym informatorem! Ona i Moira, wbrew wrogoÅ“ci panujÂ¹cej miÃªdzy ich rodami, byÂ³y bliskimi przyjaciÃ³Â³kami. Surayah nie wiedziaÂ³a jednak ani o tym, Â¿e obaj zabÃ³jcy pracowali dla jej ojca, ani o jego konszachtach ze ZÂ³odziejami Cienia! Zanim doszÂ³o jednak do wybuchu, Saerk, jego syn Yusef oraz ojciec Anomena zostali aresztowani przez StraÂ¿.
+TrwaÂ³o to doÅ“Ã¦ dÂ³ugo, ale sprawa morderstwa Moiry zostaÂ³a wreszcie rozwikÂ³ana. Miejmy nadziejÃª, Â¿e dziÃªki temu Anomen zazna wreszcie trochÃª spokoju.~
 @3024		    = ~Lokaj~
 @3025		    = ~Kucharz~
 @3026		    = ~Magazyn Farradha~
-@3027		    = ~Tej zbroi mo¿e u¿ywaæ tylko Anomen.~
-@3028		    = ~Pos³aniec Rady~
-@3029		    = ~Tego he³mu mo¿e u¿ywaæ tylko Anomen.~
-@3030		    = ~Tej tarczy mo¿e u¿ywaæ tylko Anomen.~
-@3031		 = ~W pogoni za zabójcami Moiry~
+@3027		    = ~Tej zbroi moÂ¿e uÂ¿ywaÃ¦ tylko Anomen.~
+@3028		    = ~PosÂ³aniec Rady~
+@3029		    = ~Tego heÂ³mu moÂ¿e uÂ¿ywaÃ¦ tylko Anomen.~
+@3030		    = ~Tej tarczy moÂ¿e uÂ¿ywaÃ¦ tylko Anomen.~
+@3031		 = ~W pogoni za zabÃ³jcami Moiry~
 
 
 //Jerlia's Ore Shop
@@ -122,33 +122,33 @@ Trwa³o to doœæ d³ugo, ale sprawa morderstwa Moiry zosta³a wreszcie rozwik³ana. M
 //Silver Sword
 @110001   = ~Srebrny Miecz~
 @110002   = ~Srebrny Miecz
-Po bli¿szych oglêdzinach zauwa¿asz, ¿e od tego srebrnego vorpala promieniuje mroczna poœwiata. Ostrze wykuto tak kunsztownie, i¿ bez trudu mog³oby za pierwszym ciosem rozp³ataæ nawet najtwardsz¹ czaszkê.
+Po bliÂ¿szych oglÃªdzinach zauwaÂ¿asz, Â¿e od tego srebrnego vorpala promieniuje mroczna poÅ“wiata. Ostrze wykuto tak kunsztownie, iÂ¿ bez trudu mogÂ³oby za pierwszym ciosem rozpÂ³ataÃ¦ nawet najtwardszÂ¹ czaszkÃª.
 
 PARAMETRY:
 
-Obra¿enia: 1K10 +3 (1K10 +4 przeciw likantropom)
+ObraÂ¿enia: 1K10 +3 (1K10 +4 przeciw likantropom)
 TraK0: +3, +4 przeciw likantropom
-Typ obra¿eñ: sieczne
+Typ obraÂ¿eÃ±: sieczne
 Specjalne:
- 25% szansa przy ka¿dym trafieniu, ¿e cel bêdzie musia³ wykonaæ rzut obronny przeciw œmierci (z modyfikatorem -2) lub zginie na miejscu.
- Trafieni £upie¿cy umys³u oraz Ulitharidzi gin¹ natychmiast.
+ 25% szansa przy kaÂ¿dym trafieniu, Â¿e cel bÃªdzie musiaÂ³ wykonaÃ¦ rzut obronny przeciw Å“mierci (z modyfikatorem -2) lub zginie na miejscu.
+ Trafieni Â£upieÂ¿cy umysÂ³u oraz Ulitharidzi ginÂ¹ natychmiast.
 Waga: 10
-OpóŸnienie: 7
-Rodzaj bieg³oœci: miecz oburêczny
-Typ broni: 2-rêczna
-Wymagana si³a: 14
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 7
+Rodzaj biegÂ³oÅ“ci: miecz oburÃªczny
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 14
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- Z³odziej~
+ ZÂ³odziej~
 
 //~Saradush tunnel~
 
 @120000   = ~Tunel w Saradush~
-@120001   = ~Zwój z instrukcjami~
-@120002   = ~Ten zwój zawiera informacje o magicznej barierze, któr¹ czarodzieje Yaga-Shury wznieœli wokó³ Saradush. Wygl¹da na zbiór instrukcji, które maj¹ pomóc w utrzymaniu bariery. Ktoœ o odpowiedniej wiedzy powinien na ich podstawie znaleŸæ sposób na, choæby czêœciowe, przerwanie dzia³ania bariery.~
+@120001   = ~ZwÃ³j z instrukcjami~
+@120002   = ~Ten zwÃ³j zawiera informacje o magicznej barierze, ktÃ³rÂ¹ czarodzieje Yaga-Shury wznieÅ“li wokÃ³Â³ Saradush. WyglÂ¹da na zbiÃ³r instrukcji, ktÃ³re majÂ¹ pomÃ³c w utrzymaniu bariery. KtoÅ“ o odpowiedniej wiedzy powinien na ich podstawie znaleÅ¸Ã¦ sposÃ³b na, choÃ¦by czÃªÅ“ciowe, przerwanie dziaÂ³ania bariery.~
 
 @120003   = ~Swiatynia Maski w Dokach~
-@120004   = ~Wyjœcie prowadzi na niewielki balkon z widokiem na Morze Mieczy.~
-@120005   = ~Œwi¹tynia Maski~
+@120004   = ~WyjÅ“cie prowadzi na niewielki balkon z widokiem na Morze Mieczy.~
+@120005   = ~Å’wiÂ¹tynia Maski~

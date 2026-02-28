@@ -2,16 +2,16 @@
 //Erweiterte Handlung um Lady Elgea
 @1001    = ~Erweiterte Handlung um Lady Elgea~
 /*
-@1002    = ~Zwei aufwendig gefertigte Pantalons aus Silber. Dieses Familienstück wurde Euch von Welther als Lohn für die Befreiung von Lady Elgea überbracht.~
+@1002    = ~Zwei aufwendig gefertigte Pantalons aus Silber. Dieses FamilienstÃ¼ck wurde Euch von Welther als Lohn fÃ¼r die Befreiung von Lady Elgea Ã¼berbracht.~
 */
 //Erweiterte Anomenhandlung
 @3001    = ~Erweiterte Anomenhandlung~
-@3002    = ~Flüsternde Stimme~
+@3002    = ~FlÃ¼sternde Stimme~
 @3003	 = ~Familienkette der Delryns~
-@3004	 = ~Dieses wertvolle Schmuckstück ist seit vielen Generationen im Besitz der Familie Delryn. Anomens Schwester Moira liebte es, diese Kette zu tragen, da es das letzte Geschenk ihrer Mutter an sie war.
+@3004	 = ~Dieses wertvolle SchmuckstÃ¼ck ist seit vielen Generationen im Besitz der Familie Delryn. Anomens Schwester Moira liebte es, diese Kette zu tragen, da es das letzte Geschenk ihrer Mutter an sie war.
 
 Schutz gegen Lebenskraftenzug
-2 x täglich Sonnenfeuer
+2 x tÃ¤glich Sonnenfeuer
 Kann nur von Anomen verwendet werden.~
 @3005	 = ~Diese Kette kann nur von Anomen verwendet werden.~
 @3006	 = ~Alwesk~
@@ -20,21 +20,21 @@ Kann nur von Anomen verwendet werden.~
 @3009	 = ~Neue Anweisungen~
 @3010	 = ~Stanial und Ollik,
 
-Dank Eurer "kleinen Ausschweifung" im Delryn-Anwesen kann ich nicht mehr riskieren, Euch dort als Spione einzusetzen – geschweige denn Euch einfach in der Stadt herumspazieren zu lassen. Auch wenn es offizell keine Zeugen gibt, muss ich sichergehen, dass man Euch beide nicht mit mir in Verbindung bringt!
-Ihr verdankt es nur den Diensten, die Ihr mir bereits erwiesen habt, dass ich so großzügig bin, Euch ein Versteck zu besorgen, statt Euch einfach "verschwinden" zu lassen.
-Über meine Geschäftsbeziehungen zu Renal Blutskalp und den Schattendieben habe ich ein Haus im Brückenviertel gemietet, gegenüber dem Helm-Tempel. Die Gerüchte, dass es dort nicht mit rechten Dingen zugeht sollten Euch genügend Sicherheit bieten, bis sich der Staub gelegt hat. 
+Dank Eurer "kleinen Ausschweifung" im Delryn-Anwesen kann ich nicht mehr riskieren, Euch dort als Spione einzusetzen â€“ geschweige denn Euch einfach in der Stadt herumspazieren zu lassen. Auch wenn es offizell keine Zeugen gibt, muss ich sichergehen, dass man Euch beide nicht mit mir in Verbindung bringt!
+Ihr verdankt es nur den Diensten, die Ihr mir bereits erwiesen habt, dass ich so groÃŸzÃ¼gig bin, Euch ein Versteck zu besorgen, statt Euch einfach "verschwinden" zu lassen.
+Ãœber meine GeschÃ¤ftsbeziehungen zu Renal Blutskalp und den Schattendieben habe ich ein Haus im BrÃ¼ckenviertel gemietet, gegenÃ¼ber dem Helm-Tempel. Die GerÃ¼chte, dass es dort nicht mit rechten Dingen zugeht sollten Euch genÃ¼gend Sicherheit bieten, bis sich der Staub gelegt hat. 
 
 Solange Ihr folgende Regeln einhaltet, wird Euch keine Gefahr drohen:
 1. Verlasst das Haus nicht, ehe ich Euch Anweisung dazu gebe!
-2. Vergreift Euch nicht an den Gegenständen, die dort lagern – die Schattendiebe sehen es nicht gern, wenn man sich an ihren Waren bedient!
-3. Betretet unter keinen Umständen die Gruft im Untergeschoss. Renal wies mich darauf hin, dass dort niemand Zugang habe – Wer es dennoch tut, würde es bitter bereuen!
+2. Vergreift Euch nicht an den GegenstÃ¤nden, die dort lagern â€“ die Schattendiebe sehen es nicht gern, wenn man sich an ihren Waren bedient!
+3. Betretet unter keinen UmstÃ¤nden die Gruft im Untergeschoss. Renal wies mich darauf hin, dass dort niemand Zugang habe â€“ Wer es dennoch tut, wÃ¼rde es bitter bereuen!
 
 Wenn Ihr diese Dinge beachtet, wird Eure Zukunft weiterhin gesichtert bleiben.
 
 Saerk Farradh~
-@3011	 = ~Gedungener Schläger~
+@3011	 = ~Gedungener SchlÃ¤ger~
 @3012	 = ~Keule +1~
-@3013	 = ~Meist besteht eine Keule aus einem festen Stock aus Hartholz, der am Griff schmal ist und zum Ende hin breiter wird. Diese einfache Waffe ist im Gebrauch, seit Menschen Werkzeuge benutzen. Da jeder ein brauchbares festes Holzstück finden und herumschleudern kann, ist die Keule als Waffe weit verbreitet.
+@3013	 = ~Meist besteht eine Keule aus einem festen Stock aus Hartholz, der am Griff schmal ist und zum Ende hin breiter wird. Diese einfache Waffe ist im Gebrauch, seit Menschen Werkzeuge benutzen. Da jeder ein brauchbares festes HolzstÃ¼ck finden und herumschleudern kann, ist die Keule als Waffe weit verbreitet.
 
 SPEZIFISCHE EIGENSCHAFTEN:
 
@@ -43,60 +43,60 @@ Schaden: 1W6+1 (Wuchtwaffe)
 Gewicht: 3
 Initiativefaktor: 4
 Waffenfertigkeit: Keule
-Waffentyp: einhändig
-Mindeststärke: 5
+Waffentyp: einhÃ¤ndig
+MindeststÃ¤rke: 5
 Kann nicht verwendet werden von:
  Magiern~
 @3014		 = ~Leutnant Jaiken~
-@3015		 = ~Moiras Mörder auf der Spur
+@3015		 = ~Moiras MÃ¶rder auf der Spur
 
-Wir konnten die Mörder Stanial und Ollik in dem Versteck finden, das uns der Captain genannt hat. Das Schriftstück aus Stanial’s Tasche lieferte uns den endgültigen Beweis, dass Saerk Farradh mit den Schattendieben gemeinsame Sache macht!
+Wir konnten die MÃ¶rder Stanial und Ollik in dem Versteck finden, das uns der Captain genannt hat. Das SchriftstÃ¼ck aus Stanialâ€™s Tasche lieferte uns den endgÃ¼ltigen Beweis, dass Saerk Farradh mit den Schattendieben gemeinsame Sache macht!
 
-Captain Alwesk wird sicher erfreut sein, dieses Schriftstück zu Gesicht zu bekommen. Zwei Mörder unschädlich gemacht und eine schöne Belohnung für eine Information – was will man mehr?~
-@3016		 = ~Moiras Mörder auf der Spur
+Captain Alwesk wird sicher erfreut sein, dieses SchriftstÃ¼ck zu Gesicht zu bekommen. Zwei MÃ¶rder unschÃ¤dlich gemacht und eine schÃ¶ne Belohnung fÃ¼r eine Information â€“ was will man mehr?~
+@3016		 = ~Moiras MÃ¶rder auf der Spur
 
-Das Treffen mit Captain Alwesk war sehr aufschlussreich. Er scheint ein fähiger Mann zu sein, konsequent, souverän und berechnend. Trotz seines barschen Tonfalls war er sofort bereit, uns bei der Suche nach den Mördern Stanial und Ollik zu helfen. Während er sich im Hafengebiet umhört, sollen wir zwei Soldaten ausfindig machen, die der Captain seit längerem vermisst. Da er die beiden öfters in Delosars Schänke im Brückenviertel aufgespürt hat, riet er uns, dort nach seinen Leuten zu suchen.
+Das Treffen mit Captain Alwesk war sehr aufschlussreich. Er scheint ein fÃ¤higer Mann zu sein, konsequent, souverÃ¤n und berechnend. Trotz seines barschen Tonfalls war er sofort bereit, uns bei der Suche nach den MÃ¶rdern Stanial und Ollik zu helfen. WÃ¤hrend er sich im Hafengebiet umhÃ¶rt, sollen wir zwei Soldaten ausfindig machen, die der Captain seit lÃ¤ngerem vermisst. Da er die beiden Ã¶fters in Delosars SchÃ¤nke im BrÃ¼ckenviertel aufgespÃ¼rt hat, riet er uns, dort nach seinen Leuten zu suchen.
 
 Ich hoffe, dass seine Nachforschungen in der Zwischenzeit erfolgreich sind ...~
-@3017		 = ~Moiras Mörder auf der Spur
+@3017		 = ~Moiras MÃ¶rder auf der Spur
 
-Captain Alwesk hat tatsächlich herausgefunden, wo sich die Mörder Stanial und Ollik versteckt halten! Es handelt sich um ein Haus im Brückenviertel, das sich gegenüber des Helm-Tempels befindet. Laut dem Captain gehörte das Gebäude den Schattendieben, welche es an Saerk Farradh verkauft, dem Erzfeind von Anomens Vater!
+Captain Alwesk hat tatsÃ¤chlich herausgefunden, wo sich die MÃ¶rder Stanial und Ollik versteckt halten! Es handelt sich um ein Haus im BrÃ¼ckenviertel, das sich gegenÃ¼ber des Helm-Tempels befindet. Laut dem Captain gehÃ¶rte das GebÃ¤ude den Schattendieben, welche es an Saerk Farradh verkauft, dem Erzfeind von Anomens Vater!
 
-Nach anfänglichen Überlegungen gestattete uns der Captain, die beiden Mörder sebst zu stellen, stellte auch eine Belohnung in Aussicht, sollten wir auf Hinweise stoßen, welche auf die Verbindung Saerks zu den Schattendieben schließen lassen.~
-@3018		 = ~Moiras Mörder auf der Spur
+Nach anfÃ¤nglichen Ãœberlegungen gestattete uns der Captain, die beiden MÃ¶rder sebst zu stellen, stellte auch eine Belohnung in Aussicht, sollten wir auf Hinweise stoÃŸen, welche auf die Verbindung Saerks zu den Schattendieben schlieÃŸen lassen.~
+@3018		 = ~Moiras MÃ¶rder auf der Spur
 
-Magistrat Bylanna war über unsere neuesten Erkenntnisse überrascht, da die beiden Arbeiter offenbar mit einer Klage gegen Lord Cor vor den Rat getreten waren. Sie riet uns, mit Captain Alwesk in der Garnison an den Docks zu sprechen und ihm die Namen der beiden Schuldigen zu nennen. Sie wies Anomen außerdem daraufhin, keinerlei Selbstjustiz zu üben und die Verhaftung von Stanial und Ollik dem Captain zu überlassen.~
-@3019		 = ~Moiras Mörder auf der Spur
+Magistrat Bylanna war Ã¼ber unsere neuesten Erkenntnisse Ã¼berrascht, da die beiden Arbeiter offenbar mit einer Klage gegen Lord Cor vor den Rat getreten waren. Sie riet uns, mit Captain Alwesk in der Garnison an den Docks zu sprechen und ihm die Namen der beiden Schuldigen zu nennen. Sie wies Anomen auÃŸerdem daraufhin, keinerlei Selbstjustiz zu Ã¼ben und die Verhaftung von Stanial und Ollik dem Captain zu Ã¼berlassen.~
+@3019		 = ~Moiras MÃ¶rder auf der Spur
 
-Während unserem Aufenthalt in Athkatla wurden wir von einer mysteriösen Person angesprochen. Dieser Jemand scheint zu wissen, wer Anomens Schwester Moira auf dem Gewissen hat. Leider verriet er uns keinen Namen, gab uns jedoch einen Hinweis, wie wir den Mörder finden können. Entgegen allen Erkenntnissen der Wache gibt es eine weitere Zeugin des Mordes, welche uns helfen kann, diesen Fall aufzuklären. Um sie zu finden,sollen wir mit der Schankmaid im Mithrest Inn reden. Laut unserem unbekannten "Verbündeten" soll sie uns weiterhelfen können.~
-@3020		 = ~Moiras Mörder auf der Spur
+WÃ¤hrend unserem Aufenthalt in Athkatla wurden wir von einer mysteriÃ¶sen Person angesprochen. Dieser Jemand scheint zu wissen, wer Anomens Schwester Moira auf dem Gewissen hat. Leider verriet er uns keinen Namen, gab uns jedoch einen Hinweis, wie wir den MÃ¶rder finden kÃ¶nnen. Entgegen allen Erkenntnissen der Wache gibt es eine weitere Zeugin des Mordes, welche uns helfen kann, diesen Fall aufzuklÃ¤ren. Um sie zu finden,sollen wir mit der Schankmaid im Mithrest Inn reden. Laut unserem unbekannten "VerbÃ¼ndeten" soll sie uns weiterhelfen kÃ¶nnen.~
+@3020		 = ~Moiras MÃ¶rder auf der Spur
 
-Wie sich herausstellte, war die mysteriöse Zeugin keine andere, als die Schankmaid Rebecca, welche einst im Haushalt der Delryns gearbeitet hat und Moiras Freundin war. Sie erzählte uns, wie sie Moira heimlich besuchte, ehe sie von zwei Einbrechern überrascht wurden. Rebecca konnte sich rechtzeitig verstecken und beobachtete, wie einer der beiden Moira aus Wut tötete, weil sie keine Wertsachen bei sich trug, die er verlangte. Der hinzukommende Hauswächter wurde ebenfalls ermordet. Glücklicherweise konnte Rebecca die Namen der Schurken hören, ehe sie vom Tatort flohen: Stanial und Ollik. 
-Anomen erkannte die Namen der beiden, offenbar verärgerte Lagerarbeiter im Dienste seines Vaters. Er drängte, sofort zur Ratshalle aufzubrechen, um Magistrat Bylanna von unseren Erkenntnissen zu berichten.~
-@3021		  = ~Moiras Mörder auf der Spur
+Wie sich herausstellte, war die mysteriÃ¶se Zeugin keine andere, als die Schankmaid Rebecca, welche einst im Haushalt der Delryns gearbeitet hat und Moiras Freundin war. Sie erzÃ¤hlte uns, wie sie Moira heimlich besuchte, ehe sie von zwei Einbrechern Ã¼berrascht wurden. Rebecca konnte sich rechtzeitig verstecken und beobachtete, wie einer der beiden Moira aus Wut tÃ¶tete, weil sie keine Wertsachen bei sich trug, die er verlangte. Der hinzukommende HauswÃ¤chter wurde ebenfalls ermordet. GlÃ¼cklicherweise konnte Rebecca die Namen der Schurken hÃ¶ren, ehe sie vom Tatort flohen: Stanial und Ollik. 
+Anomen erkannte die Namen der beiden, offenbar verÃ¤rgerte Lagerarbeiter im Dienste seines Vaters. Er drÃ¤ngte, sofort zur Ratshalle aufzubrechen, um Magistrat Bylanna von unseren Erkenntnissen zu berichten.~
+@3021		  = ~Moiras MÃ¶rder auf der Spur
 
-Captain Alwesk war sehr erfreut zu hören, dass alles nach Plan gelaufen ist.
-Jedoch hatte das Schicksal noch weitere Überraschungen für uns vorbereitet: Ein Bote teilte uns mit, das Anomen Vater, Lord Cor beschlossen hatte, eigenhändig Rache am vermeintlichen Mörder seiner Tochter zu nehmen. Anomen brach besorgt zum Anwesen der Farradhs auf.
-Captain Alwesk befürchtet, dass die Sache ausarten könnte, wenn ich Anomen nicht folge – eine Befürchtung, die ich auch habe. Ich werde nicht zulassen, dass Anomen etwas geschieht und ihn notfalls auch vor sich selbst beschützen, sollte es zu einer Konfrontation mit Saerk kommen.~
-@3022		  = ~Moiras Mörder auf der Spur
+Captain Alwesk war sehr erfreut zu hÃ¶ren, dass alles nach Plan gelaufen ist.
+Jedoch hatte das Schicksal noch weitere Ãœberraschungen fÃ¼r uns vorbereitet: Ein Bote teilte uns mit, das Anomen Vater, Lord Cor beschlossen hatte, eigenhÃ¤ndig Rache am vermeintlichen MÃ¶rder seiner Tochter zu nehmen. Anomen brach besorgt zum Anwesen der Farradhs auf.
+Captain Alwesk befÃ¼rchtet, dass die Sache ausarten kÃ¶nnte, wenn ich Anomen nicht folge â€“ eine BefÃ¼rchtung, die ich auch habe. Ich werde nicht zulassen, dass Anomen etwas geschieht und ihn notfalls auch vor sich selbst beschÃ¼tzen, sollte es zu einer Konfrontation mit Saerk kommen.~
+@3022		  = ~Moiras MÃ¶rder auf der Spur
 
-Captain Alwesk war sehr erfreut zu hören, dass alles nach Plan gelaufen ist..
-Jedoch hatte das Schicksal noch weitere Überraschungen für uns vorbereitet: Ein Bote teilte uns mit, das Anomen Vater, Lord Cor beschlossen hatte, eigenhändig Rache am vermeintlichen Mörder seiner Tochter zu nehmen. Anomen brach besorgt zum Anwesen der Farradhs auf.
-Captain Alwesk befürchtet, dass die Sache ausarten könnte, wenn ich Anomen nicht folge.
+Captain Alwesk war sehr erfreut zu hÃ¶ren, dass alles nach Plan gelaufen ist..
+Jedoch hatte das Schicksal noch weitere Ãœberraschungen fÃ¼r uns vorbereitet: Ein Bote teilte uns mit, das Anomen Vater, Lord Cor beschlossen hatte, eigenhÃ¤ndig Rache am vermeintlichen MÃ¶rder seiner Tochter zu nehmen. Anomen brach besorgt zum Anwesen der Farradhs auf.
+Captain Alwesk befÃ¼rchtet, dass die Sache ausarten kÃ¶nnte, wenn ich Anomen nicht folge.
 
-Was mich angeht, ist dieser Fall abgeschlossen. Wenn Anomen seinem närrischen Vater helfen will, soll er es tun. Höchstwarscheinlich wird es keine angenehmen Konsequenzen haben, was er auch tun wird.~
-@3023		   = ~Moiras Mörder auf der Spur
+Was mich angeht, ist dieser Fall abgeschlossen. Wenn Anomen seinem nÃ¤rrischen Vater helfen will, soll er es tun. HÃ¶chstwarscheinlich wird es keine angenehmen Konsequenzen haben, was er auch tun wird.~
+@3023		   = ~Moiras MÃ¶rder auf der Spur
 
-Wir erreichten das Anwesen des Kaufmannes gerade rechtzeitig, um mit Anomens Hilfe seinen Vater davon abzuhalten, Saerk in Selbstjustiz für den vermeintlichen Mord an Moira zu töten. In einem hitzigen Gespräch stellte sich heraus, dass keine andere als Surayah Farradh, Saerks Tochter unsere mysteriöse Informantin war! Sie war trotz der Feindschaft ihrer beiden Häuser mit Moira befreundet und half uns deshalb, ihre Mörder zu finden. Allerdings wusste sie nicht, dass die beiden Verbrecher für ihren Vater arbeiteten und dieser mit den Schattendieben zu tun hatte!
-Ehe es zum Schlimmsten kommen konnte, wurden Saerk, sein Sohn Yusef und Anomens Vater von der Wache verhaftet. Es hat zwar lang gedauert, doch der Mordfall um Anomens Schwester ist endlich aufgeklärt. Ich hoffe, dass es ihm hilft, etwas inneren Frieden zu finden.~
+Wir erreichten das Anwesen des Kaufmannes gerade rechtzeitig, um mit Anomens Hilfe seinen Vater davon abzuhalten, Saerk in Selbstjustiz fÃ¼r den vermeintlichen Mord an Moira zu tÃ¶ten. In einem hitzigen GesprÃ¤ch stellte sich heraus, dass keine andere als Surayah Farradh, Saerks Tochter unsere mysteriÃ¶se Informantin war! Sie war trotz der Feindschaft ihrer beiden HÃ¤user mit Moira befreundet und half uns deshalb, ihre MÃ¶rder zu finden. Allerdings wusste sie nicht, dass die beiden Verbrecher fÃ¼r ihren Vater arbeiteten und dieser mit den Schattendieben zu tun hatte!
+Ehe es zum Schlimmsten kommen konnte, wurden Saerk, sein Sohn Yusef und Anomens Vater von der Wache verhaftet. Es hat zwar lang gedauert, doch der Mordfall um Anomens Schwester ist endlich aufgeklÃ¤rt. Ich hoffe, dass es ihm hilft, etwas inneren Frieden zu finden.~
 @3024		    = ~Buttler~
-@3025		    = ~Köchin~
+@3025		    = ~KÃ¶chin~
 @3026			= ~Warendepot der Farradhs~
-@3027		    = ~Diese Rüstung kann nur von Anomen verwendet werden.~
+@3027		    = ~Diese RÃ¼stung kann nur von Anomen verwendet werden.~
 @3028		    = ~Bote des Konzils~
 @3029		    = ~Dieser Helm kann nur von Anomen verwendet werden.~
 @3030		    = ~Dieses Schild kann nur von Anomen verwendet werden.~
-@3031		   = ~Moiras Mörder auf der Spur~
+@3031		   = ~Moiras MÃ¶rder auf der Spur~
 
 //Jerlias Erzladen
 @4001    = ~Jerlias Erzladen~
@@ -111,29 +111,29 @@ Ehe es zum Schlimmsten kommen konnte, wurden Saerk, sein Sohn Yusef und Anomens 
 @7001   = ~Silberdolch in Irenicus Dungeon~
 
 //Barden koennen in ihrer Feste (5 Kruegen) uebernachten
-@8001   = ~Barden können in ihrer Feste (5 Kruegen) uebernachten~
+@8001   = ~Barden kÃ¶nnen in ihrer Feste (5 Kruegen) uebernachten~
 
 
 
-//Ein Barde für die Bardenfestung
+//Ein Barde fÃ¼r die Bardenfestung
 @100001   = ~Ein Barde fuer die Bardenfestung~
 
 //Silberschwert gegen Gedankenschinder und Lykanthropen
 @110001   = ~Silberschwert gegen Gedankenschinder und Lykanthropen~
 @110002   = ~Silberschwert
-Das tödliche Silberschwert strahlt eine düstere Aura aus. Die Klinge ist so scharf, dass sie vermutlich den Kopf eines Gegners mit einem Hieb vom Leib trennen könnte.
+Das tÃ¶dliche Silberschwert strahlt eine dÃ¼stere Aura aus. Die Klinge ist so scharf, dass sie vermutlich den Kopf eines Gegners mit einem Hieb vom Leib trennen kÃ¶nnte.
 
 SPEZIFISCHE EIGENSCHAFTEN:
 
-Besondere Fähigkeiten: Bei jedem Treffer besteht eine 25-prozentige Chance, das Ziel sofort zu töten (Rettungswurf -2 gg. Tod).
+Besondere FÃ¤higkeiten: Bei jedem Treffer besteht eine 25-prozentige Chance, das Ziel sofort zu tÃ¶ten (Rettungswurf -2 gg. Tod).
 Wird ein Gedankenschinder oder ein Ulitharid getroffen, wird er sofort vernichtet.
 
 ETW0: -3, -4 (gg. Lykanthropen)
 Schaden: 1W10+3 (Klingenwaffe), 1W10+4 (gg. Lykanthropen)
 Gewicht: 15
 Initiativefaktor: 7
-Waffenfertigkeit: Zweihänder
-Waffentyp: Beidhändig
+Waffenfertigkeit: ZweihÃ¤nder
+Waffentyp: BeidhÃ¤ndig
 Kann nicht verwendet werden von:
 Druiden
 Klerikern
@@ -144,9 +144,9 @@ Dieben~
 
 @120000   = ~Ein Tunnel fuer Saradush~
 @120001   = ~Schriftrolle mit Informationen~
-@120002   = ~Diese Schriftrolle enthält Informationen über die magische Barriere, die Yaga-Shuras Magier um Saradush errichtet haben. Sie scheint Instruktionen zu beinhalten, wie die Barriere aufrecht erhalten werden muss. Jemand mit dem nötigen Wissen könnte diese Informationen verwenden, um die Magie der Barriere zumindest teilweise zu überwinden.~
+@120002   = ~Diese Schriftrolle enthÃ¤lt Informationen Ã¼ber die magische Barriere, die Yaga-Shuras Magier um Saradush errichtet haben. Sie scheint Instruktionen zu beinhalten, wie die Barriere aufrecht erhalten werden muss. Jemand mit dem nÃ¶tigen Wissen kÃ¶nnte diese Informationen verwenden, um die Magie der Barriere zumindest teilweise zu Ã¼berwinden.~
 
 @120003   = ~Tempel des Mask im Hafenviertel~
-@120004   = ~Der Ausgang führt zu einem kleinen Balkon mit Blick auf das Schwertmeer.~
+@120004   = ~Der Ausgang fÃ¼hrt zu einem kleinen Balkon mit Blick auf das Schwertmeer.~
 @120005   = ~Tempel des Mask~
 

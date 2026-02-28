@@ -1,38 +1,38 @@
-@0    = ~El túnel estaba todo descubierto y protegido, si esa es tu pregunta. Diría que salvamos la vida de bastantes personas. Yo todavía estaba tratando de decidir qué llevar conmigo y qué dejar atrás, y si quiero huir en absoluto, cuando el ejército de Yaga-Shura avance en la ciudad.~
-@1    = ~Les diré claramente: Quiero ayudar a la gente de Saradush a escapar del asedio. Tengo poderes para abandonar la ciudad, pero parece que no puedo llevar a nadie conmigo. El mago de la Guardia de la Ciudad está demasiado ocupado para hablar conmigo. ¿Hay algo que podamos hacer?~
-@2    = ~Sólo una pregunta. ¿Por qué no intentáis escapar del asedio, quizás a través de un túnel que os lleve lo suficientemente lejos como para pasar por delante del ejército de Yaga-Shura?~
-@3    = ~¿Mencionaste una barrera mágica alrededor de Saradush?~
-@4    = ~Este pergamino se lo encontré a uno de los magos de Yaga-Shura. Parece decir algo sobre la barrera que rodea Saradush.~
-@5    = ~Encontré a los esbirros de Yaga-Shura en las alcantarillas, cavando un túnel hacia el exterior. Estaba casi terminado, según parece. ¿Sería posible utilizarlo para que escaparan los habitantes de Saradush?~
-@6    = ~¿Cuánto tardarás en terminar ese túnel de protección? Asegúrate de que no sea demasiado tarde~
-@7    = ~Hay pocas esperanzas. Verás, con la ayuda de magos bastante poderosos, Yaga-Shura rodeó la ciudad con un escudo mágico. No es posible teletransportarse dentro o fuera de la ciudad.~
-@8    = ~Sí, ya lo has mencionado. ¿Y un túnel que conduzca al exterior?~
-@9    = ~¿Y un túnel que conduzca al exterior?~
-@10   = ~Entonces, ¿no hay ninguna esperanza?~
-@11   = ~Lástima. Me tengo que ir.~
-@12   = ~Un túnel es algo complicado. Podría permitir la salida de los habitantes de la ciudad, pero al mismo tiempo podría ser una abertura para que el ejército de Yaga-Shura invadiera. Ha habido muchos intentos de abrir uno desde que la ciudad ha estado bajo asedio, por diversas razones.~
-@13   = ~Aunque tal túnel fuera más allá del ejército de Yaga-Shura, no estoy seguro de que fuera seguro utilizarlo. La barrera mágica que ese maníaco erigió podría afectar a cualquiera que salga de la ciudad.~
-@14   = ~¿De qué barrera hablas?~
-@15   = ~Oh, podría haberla, si sólo conociera la magia utilizada para erigir esta barrera. Incluso entonces, no sería lo suficientemente poderosa como para hacer que el teletransporte desde la ciudad fuera seguro, pero podría haber una pequeña posibilidad de que, con este conocimiento, pudiera proteger un túnel que condujera al exterior a través del cual la gente pudiera escapar. Eso, por supuesto, significaría que necesito dos cosas: información específica sobre la magia de la barrera, y un túnel que realmente lleve al exterior. Mejor si aún no está totalmente terminado, para darme tiempo a hacer mi magia sin que ninguno de los secuaces de Yaga-Shura se dé cuenta.~
+@0    = ~El tÃºnel estaba todo descubierto y protegido, si esa es tu pregunta. DirÃ­a que salvamos la vida de bastantes personas. Yo todavÃ­a estaba tratando de decidir quÃ© llevar conmigo y quÃ© dejar atrÃ¡s, y si quiero huir en absoluto, cuando el ejÃ©rcito de Yaga-Shura avance en la ciudad.~
+@1    = ~Les dirÃ© claramente: Quiero ayudar a la gente de Saradush a escapar del asedio. Tengo poderes para abandonar la ciudad, pero parece que no puedo llevar a nadie conmigo. El mago de la Guardia de la Ciudad estÃ¡ demasiado ocupado para hablar conmigo. Â¿Hay algo que podamos hacer?~
+@2    = ~SÃ³lo una pregunta. Â¿Por quÃ© no intentÃ¡is escapar del asedio, quizÃ¡s a travÃ©s de un tÃºnel que os lleve lo suficientemente lejos como para pasar por delante del ejÃ©rcito de Yaga-Shura?~
+@3    = ~Â¿Mencionaste una barrera mÃ¡gica alrededor de Saradush?~
+@4    = ~Este pergamino se lo encontrÃ© a uno de los magos de Yaga-Shura. Parece decir algo sobre la barrera que rodea Saradush.~
+@5    = ~EncontrÃ© a los esbirros de Yaga-Shura en las alcantarillas, cavando un tÃºnel hacia el exterior. Estaba casi terminado, segÃºn parece. Â¿SerÃ­a posible utilizarlo para que escaparan los habitantes de Saradush?~
+@6    = ~Â¿CuÃ¡nto tardarÃ¡s en terminar ese tÃºnel de protecciÃ³n? AsegÃºrate de que no sea demasiado tarde~
+@7    = ~Hay pocas esperanzas. VerÃ¡s, con la ayuda de magos bastante poderosos, Yaga-Shura rodeÃ³ la ciudad con un escudo mÃ¡gico. No es posible teletransportarse dentro o fuera de la ciudad.~
+@8    = ~SÃ­, ya lo has mencionado. Â¿Y un tÃºnel que conduzca al exterior?~
+@9    = ~Â¿Y un tÃºnel que conduzca al exterior?~
+@10   = ~Entonces, Â¿no hay ninguna esperanza?~
+@11   = ~LÃ¡stima. Me tengo que ir.~
+@12   = ~Un tÃºnel es algo complicado. PodrÃ­a permitir la salida de los habitantes de la ciudad, pero al mismo tiempo podrÃ­a ser una abertura para que el ejÃ©rcito de Yaga-Shura invadiera. Ha habido muchos intentos de abrir uno desde que la ciudad ha estado bajo asedio, por diversas razones.~
+@13   = ~Aunque tal tÃºnel fuera mÃ¡s allÃ¡ del ejÃ©rcito de Yaga-Shura, no estoy seguro de que fuera seguro utilizarlo. La barrera mÃ¡gica que ese manÃ­aco erigiÃ³ podrÃ­a afectar a cualquiera que salga de la ciudad.~
+@14   = ~Â¿De quÃ© barrera hablas?~
+@15   = ~Oh, podrÃ­a haberla, si sÃ³lo conociera la magia utilizada para erigir esta barrera. Incluso entonces, no serÃ­a lo suficientemente poderosa como para hacer que el teletransporte desde la ciudad fuera seguro, pero podrÃ­a haber una pequeÃ±a posibilidad de que, con este conocimiento, pudiera proteger un tÃºnel que condujera al exterior a travÃ©s del cual la gente pudiera escapar. Eso, por supuesto, significarÃ­a que necesito dos cosas: informaciÃ³n especÃ­fica sobre la magia de la barrera, y un tÃºnel que realmente lleve al exterior. Mejor si aÃºn no estÃ¡ totalmente terminado, para darme tiempo a hacer mi magia sin que ninguno de los secuaces de Yaga-Shura se dÃ© cuenta.~
 @16   = ~Ayuda a escapar a los habitantes de Saradush
 
-Librarius dijo que probablemente podría proteger un túnel que condujera fuera de Saradush, si tuviera más información sobre la barrera mágica que rodea la ciudad.~
-@17   = ~Los magos de Yaga-Shura erigieron una barrera mágica alrededor de la ciudad. Hace imposible un escape por teletransporte.~
-@18   = ~Pero todo eso es teoría, mientras no recupere mi libro de hechizos. Si pretendes ayudar a la gente de aquí, me temo que primero tendrás que recuperarlo. No puedo hacer nada sin él.~
-@19   = ~Hm, si dices que los seguidores de Yaga-Shura lo cavaron, asumo que llevará directamente a su campamento. Pero dijiste que aún no está terminado. Es muy posible que el túnel simplemente se extienda más allá de sus tropas. ¡Sí, esta es información útil!~
-@20   = ~Ahora todo lo que necesito es información sobre esa barrera.~
-@21   = ~Regresaré si encuentro algo.~
+Librarius dijo que probablemente podrÃ­a proteger un tÃºnel que condujera fuera de Saradush, si tuviera mÃ¡s informaciÃ³n sobre la barrera mÃ¡gica que rodea la ciudad.~
+@17   = ~Los magos de Yaga-Shura erigieron una barrera mÃ¡gica alrededor de la ciudad. Hace imposible un escape por teletransporte.~
+@18   = ~Pero todo eso es teorÃ­a, mientras no recupere mi libro de hechizos. Si pretendes ayudar a la gente de aquÃ­, me temo que primero tendrÃ¡s que recuperarlo. No puedo hacer nada sin Ã©l.~
+@19   = ~Hm, si dices que los seguidores de Yaga-Shura lo cavaron, asumo que llevarÃ¡ directamente a su campamento. Pero dijiste que aÃºn no estÃ¡ terminado. Es muy posible que el tÃºnel simplemente se extienda mÃ¡s allÃ¡ de sus tropas. Â¡SÃ­, esta es informaciÃ³n Ãºtil!~
+@20   = ~Ahora todo lo que necesito es informaciÃ³n sobre esa barrera.~
+@21   = ~RegresarÃ© si encuentro algo.~
 @22   = ~Tengo que irme..~
-@23   = ~Esto significa que tengo toda la información que necesito. Ahora me toca a mí hacer la magia. Por favor, ve y difunde la noticia en la ciudad para que todos lo sepan. Pero recuerda: el túnel sólo será seguro para la gente normal, no para los Hijos de Bhaal. ¡Esto es emocionante! Por fin puedo hacer algo.~
+@23   = ~Esto significa que tengo toda la informaciÃ³n que necesito. Ahora me toca a mÃ­ hacer la magia. Por favor, ve y difunde la noticia en la ciudad para que todos lo sepan. Pero recuerda: el tÃºnel sÃ³lo serÃ¡ seguro para la gente normal, no para los Hijos de Bhaal. Â¡Esto es emocionante! Por fin puedo hacer algo.~
 @24   = ~Ayuda a escapar a los habitantes de Saradush
 
-Librarius ya tiene toda la información que necesita para abrir un túnel de proteccion que salga de la ciudad. Por desgracia, esto sólo será posible para los ciudadanos normales. La magia contra los hijos de Bhaal es demasiado poderosa para ser rota por nuestros medios. La única oportunidad es detener a Yaga-Shura a tiempo.~
-@25   = ~¿De verdad? ¡Esto es brillante! Déjame ver... Sí, esto es lo que necesito. Necesito... sí, tengo eso, y... sí, eso debería funcionar... ¡oh!~
-@26   = ~¡Oh, Dios! Es extremadamente poderoso. Una magia especial fue lanzada para mantener a todos los niños Bhaal en la ciudad. Hm. No, no seré capaz de hacer el túnel seguro para los hijos de Bhaal. Pero seré capaz de proteger el túnel para todos los residentes normales.~
-@27   = ~Ahora todo lo que necesito es un lugar adecuado para el túnel.~
-@28   = ~Lo haré, ¡estoy en ello! Toma su tiempo. Me estoy dando prisa, ¡puedes estar seguro de ello!~
-@29   = ~¡Hasta luego!~
-@30   = ~Los ingredientes para el hechizo de protección se están preparando. Tengo un minuto libre ahora mismo.~
-@31   = ~Necesitaré tu ayuda para informar a no-Hijos de Bhaal de Saradush de que Librarius está preparando un túnel de proteccion que saldrá de la ciudad. Me temo que la protección sólo funcionará para la gente normal.~
-@32   = ~¡Qué buena noticia! Seguro que hay muchos que preferirían huir antes que quedarse atrapados aquí. ¡Gracias, hermano! Voy a difundir la noticia.~ ~¡Qué buena noticia! Seguro que hay muchos que preferirían huir antes que quedarse atrapados aquí. ¡Gracias, hermana! Voy a difundir la noticia.~
+Librarius ya tiene toda la informaciÃ³n que necesita para abrir un tÃºnel de proteccion que salga de la ciudad. Por desgracia, esto sÃ³lo serÃ¡ posible para los ciudadanos normales. La magia contra los hijos de Bhaal es demasiado poderosa para ser rota por nuestros medios. La Ãºnica oportunidad es detener a Yaga-Shura a tiempo.~
+@25   = ~Â¿De verdad? Â¡Esto es brillante! DÃ©jame ver... SÃ­, esto es lo que necesito. Necesito... sÃ­, tengo eso, y... sÃ­, eso deberÃ­a funcionar... Â¡oh!~
+@26   = ~Â¡Oh, Dios! Es extremadamente poderoso. Una magia especial fue lanzada para mantener a todos los niÃ±os Bhaal en la ciudad. Hm. No, no serÃ© capaz de hacer el tÃºnel seguro para los hijos de Bhaal. Pero serÃ© capaz de proteger el tÃºnel para todos los residentes normales.~
+@27   = ~Ahora todo lo que necesito es un lugar adecuado para el tÃºnel.~
+@28   = ~Lo harÃ©, Â¡estoy en ello! Toma su tiempo. Me estoy dando prisa, Â¡puedes estar seguro de ello!~
+@29   = ~Â¡Hasta luego!~
+@30   = ~Los ingredientes para el hechizo de protecciÃ³n se estÃ¡n preparando. Tengo un minuto libre ahora mismo.~
+@31   = ~NecesitarÃ© tu ayuda para informar a no-Hijos de Bhaal de Saradush de que Librarius estÃ¡ preparando un tÃºnel de proteccion que saldrÃ¡ de la ciudad. Me temo que la protecciÃ³n sÃ³lo funcionarÃ¡ para la gente normal.~
+@32   = ~Â¡QuÃ© buena noticia! Seguro que hay muchos que preferirÃ­an huir antes que quedarse atrapados aquÃ­. Â¡Gracias, hermano! Voy a difundir la noticia.~ ~Â¡QuÃ© buena noticia! Seguro que hay muchos que preferirÃ­an huir antes que quedarse atrapados aquÃ­. Â¡Gracias, hermana! Voy a difundir la noticia.~
 @33   = ~Ayuda a escapar a los habitantes de Saradush~

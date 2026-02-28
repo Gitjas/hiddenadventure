@@ -1,20 +1,20 @@
-@0    = ~Tú... has vuelto, por lo que veo. ¿Tuviste éxito en tu investigación?~
-@1    = ~No, aún estamos en ello.~
-@2    = ~En efecto, Capitán. Nos hemos ocupado de los asesinos y hemos encontrado este documento en uno de ellos. ¡Prueba que Saerk Farradh tenía tratos con los Ladrones de las Sombras!~
-@3    = ~¡Bien hecho! Es exactamente la prueba que necesitaba. Supongo que ahora podemos ir a charlar con el "Señor" Saerk. ¡Ja! ¡Toma, una recompensa que te has ganado honestamente!~
-@4    = ~Por fin podemos... ¡¿Qué pasa ahora?!~
-@5    = ~¡Señor Anomen! ¡Gracias a los dioses que te he encontrado!~
-@6    = ~¡Te conozco, fuiste tú quien me contó lo de la muerte de Moira! ¿Por qué me buscabas?~
-@7    = ~Tu padre... se encargó de irrumpir en la finca de Farradh. ¡Está loco! ¡Dijo que buscara venganza!~
-@8    = ~¡Oh dioses! ¡Eso no puede ser! ¡Saerk tiene muchos guardias! ¡Pues perdóname, <CHARNAME>, pero tengo que evitar que mi padre haga alguna estupidez!~
-@9    = ~¡Ese joven está a punto de cometer un gran error! ¡Date prisa, síguelo a la finca de Saerk y vigílalo! ¡Pienso que podría no estar a la altura de los problemas que le esperan allí!~
-@10   = ~¡No te preocupes, evitaré que Anomen haga algo de lo que se arrepienta!~
-@11   = ~Anomen no querrías que me entrometiera en sus asuntos familiares.~
-@12   = ~¿Y a mí qué me importa? Anomen tienes a los asesinos de tu hermana. Es culpa de tu padre si hace cosas estúpidas.~
-@13   = ~Yo no me guiaría por lo que él pudiera querer, sino por lo que es bueno para él, ¡y luchar contra un escuadrón de guardias de la finca, junto con un estupido borracho seguro que no lo es!~
+@0    = ~TÃº... has vuelto, por lo que veo. Â¿Tuviste Ã©xito en tu investigaciÃ³n?~
+@1    = ~No, aÃºn estamos en ello.~
+@2    = ~En efecto, CapitÃ¡n. Nos hemos ocupado de los asesinos y hemos encontrado este documento en uno de ellos. Â¡Prueba que Saerk Farradh tenÃ­a tratos con los Ladrones de las Sombras!~
+@3    = ~Â¡Bien hecho! Es exactamente la prueba que necesitaba. Supongo que ahora podemos ir a charlar con el "SeÃ±or" Saerk. Â¡Ja! Â¡Toma, una recompensa que te has ganado honestamente!~
+@4    = ~Por fin podemos... Â¡Â¿QuÃ© pasa ahora?!~
+@5    = ~Â¡SeÃ±or Anomen! Â¡Gracias a los dioses que te he encontrado!~
+@6    = ~Â¡Te conozco, fuiste tÃº quien me contÃ³ lo de la muerte de Moira! Â¿Por quÃ© me buscabas?~
+@7    = ~Tu padre... se encargÃ³ de irrumpir en la finca de Farradh. Â¡EstÃ¡ loco! Â¡Dijo que buscara venganza!~
+@8    = ~Â¡Oh dioses! Â¡Eso no puede ser! Â¡Saerk tiene muchos guardias! Â¡Pues perdÃ³name, <CHARNAME>, pero tengo que evitar que mi padre haga alguna estupidez!~
+@9    = ~Â¡Ese joven estÃ¡ a punto de cometer un gran error! Â¡Date prisa, sÃ­guelo a la finca de Saerk y vigÃ­lalo! Â¡Pienso que podrÃ­a no estar a la altura de los problemas que le esperan allÃ­!~
+@10   = ~Â¡No te preocupes, evitarÃ© que Anomen haga algo de lo que se arrepienta!~
+@11   = ~Anomen no querrÃ­as que me entrometiera en sus asuntos familiares.~
+@12   = ~Â¿Y a mÃ­ quÃ© me importa? Anomen tienes a los asesinos de tu hermana. Es culpa de tu padre si hace cosas estÃºpidas.~
+@13   = ~Yo no me guiarÃ­a por lo que Ã©l pudiera querer, sino por lo que es bueno para Ã©l, Â¡y luchar contra un escuadrÃ³n de guardias de la finca, junto con un estupido borracho seguro que no lo es!~
 /* @14   */
 /* @15   */
-@16   = ~Esto ya no es un problema mío. El caso está resuelto, tengo la recompensa. Hice todo lo que pude. Adiós, Capitán.~
-@17   = ~¿No es así? ¿No te molesta que tu amigo se vea arrastrado a las locuras de tu padre? ¿Y si decides matar a Saerk? Tendrás que responder ante la magistrada... si sobrevive. Tendría que arrestarlo si hace alguna estupidez.~
+@16   = ~Esto ya no es un problema mÃ­o. El caso estÃ¡ resuelto, tengo la recompensa. Hice todo lo que pude. AdiÃ³s, CapitÃ¡n.~
+@17   = ~Â¿No es asÃ­? Â¿No te molesta que tu amigo se vea arrastrado a las locuras de tu padre? Â¿Y si decides matar a Saerk? TendrÃ¡s que responder ante la magistrada... si sobrevive. TendrÃ­a que arrestarlo si hace alguna estupidez.~
 /* @18  */
-@19   = ~Me alegra oír esto. Esperemos que tu amigo no se vea arrastrado a las locuras de tu padre. Si decides matar a Saerk, tendría que responder ante la magistrada... si sobrevive. Tendría que arrestarlo si hace algo estúpido.~
+@19   = ~Me alegra oÃ­r esto. Esperemos que tu amigo no se vea arrastrado a las locuras de tu padre. Si decides matar a Saerk, tendrÃ­a que responder ante la magistrada... si sobrevive. TendrÃ­a que arrestarlo si hace algo estÃºpido.~

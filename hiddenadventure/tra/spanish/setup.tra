@@ -1,45 +1,45 @@
 @0    = ~Este componente requiere BGT o EET para funcionar.~ 
 //Extended Lady Elgea plot
 @1001    = ~Gesta ampliada de la Dama Elgea~
-/* @1002    = ~Un par de pantalones de plata elaboradamente trabajados. Esta pieza familiar se utilizÛ como rescate, pagados por Welther para la liberaciÛn de Dama Elgea.~ */
+/* @1002    = ~Un par de pantalones de plata elaboradamente trabajados. Esta pieza familiar se utiliz√≥ como rescate, pagados por Welther para la liberaci√≥n de Dama Elgea.~ */
 
 
 //Extended Anomen plot
 @3001  = ~Gesta ampliada de Anomen~
 @3002  = ~Voz susurrante~
 @3003	 = ~Collar de la familia de Delryn~
-@3004	 = ~Esta valiosa joya ha pertenecido a la familia Delryn durante muchas generaciones. A Moira, la hermana de Anomen, le encantaba llevar este collar, ya que fue el ˙ltimo regalo que le hizo su madre.
+@3004	 = ~Esta valiosa joya ha pertenecido a la familia Delryn durante muchas generaciones. A Moira, la hermana de Anomen, le encantaba llevar este collar, ya que fue el √∫ltimo regalo que le hizo su madre.
 
-ProtecciÛn contra el drenaje de vida
+Protecci√≥n contra el drenaje de vida
 2 x Fuego solar diario
-SÛlo puede ser utilizado por Anomen.~
-@3005	 = ~Este collar sÛlo puede ser utilizado por Anomen.~
+S√≥lo puede ser utilizado por Anomen.~
+@3005	 = ~Este collar s√≥lo puede ser utilizado por Anomen.~
 @3006	 = ~Alwesk~
 @3007	 = ~Ollik~
 @3008	 = ~Stanial~
 @3009	 = ~Nueva gesta~
 @3010	 = ~Stanial y Ollik,
 
-Gracias a vuestro "pequeÒos actos de libertinaje" en la finca de Delryn, ya no puedo arriesgarme a utilizaros allÌ como espÌas, ni dejaros pasear por la ciudad. Aunque oficialmente no haya testigos, °tengo que asegurarme de que ninguno de los dos este asociado conmigo!
-SÛlo por los servicios que ya me has prestado soy tan generoso como para conseguirte un escondite en lugar , en ves de hacer que simplemente "desaparezcas".
-Gracias a mis relaciones comerciales con Renal Cabellorrojo y los ladrones en las sombras, he alquilado una casa en el distrito del puente, frente al Templo de Helm. Los rumores de que el lugar est· embrujado deberÌan ofrecerte suficiente seguridad hasta que todo el caos se haya calmado.
+Gracias a vuestro "peque√±os actos de libertinaje" en la finca de Delryn, ya no puedo arriesgarme a utilizaros all√≠ como esp√≠as, ni dejaros pasear por la ciudad. Aunque oficialmente no haya testigos, ¬°tengo que asegurarme de que ninguno de los dos este asociado conmigo!
+S√≥lo por los servicios que ya me has prestado soy tan generoso como para conseguirte un escondite en lugar , en ves de hacer que simplemente "desaparezcas".
+Gracias a mis relaciones comerciales con Renal Cabellorrojo y los ladrones en las sombras, he alquilado una casa en el distrito del puente, frente al Templo de Helm. Los rumores de que el lugar est√° embrujado deber√≠an ofrecerte suficiente seguridad hasta que todo el caos se haya calmado.
 
-Siempre que respetes las siguientes normas, no tendr·s ning˙n problema:
-1. °No salgas de casa, a menos que te dÈ instrucciones!
-2. No cojas nada de lo que hay allÌ guardado: °a los Ladrones de las Sombras no les gusta que toquen sus cosas!
-3. No entres, bajo ninguna circunstancia, en la c·mara acorazada del sÛtano. Renal se ha empeÒado en que nadie tenga acceso: °quien entre se arrepentir·!
+Siempre que respetes las siguientes normas, no tendr√°s ning√∫n problema:
+1. ¬°No salgas de casa, a menos que te d√© instrucciones!
+2. No cojas nada de lo que hay all√≠ guardado: ¬°a los Ladrones de las Sombras no les gusta que toquen sus cosas!
+3. No entres, bajo ninguna circunstancia, en la c√°mara acorazada del s√≥tano. Renal se ha empe√±ado en que nadie tenga acceso: ¬°quien entre se arrepentir√°!
 
-Si sigues estas sencillas normas, estar·s a salvo.
+Si sigues estas sencillas normas, estar√°s a salvo.
 
 Saerk Farradh~
-@3011	 = ~MatÛn a sueldo~
+@3011	 = ~Mat√≥n a sueldo~
 @3012	 = ~Garrote +1~
-@3013	 = ~La mayorÌa de los garrotes son palos robustos de madera dura, estrechos en la empuÒadura y m·s anchos en el extremo. Esta sencilla arma se ha utilizado desde que la humanidad empezÛ a utilizar herramientas. Cualquiera puede encontrar un buen trozo de madera y blandirlo; de ahÌ su uso generalizado.
+@3013	 = ~La mayor√≠a de los garrotes son palos robustos de madera dura, estrechos en la empu√±adura y m√°s anchos en el extremo. Esta sencilla arma se ha utilizado desde que la humanidad empez√≥ a utilizar herramientas. Cualquiera puede encontrar un buen trozo de madera y blandirlo; de ah√≠ su uso generalizado.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 THAC0: -1
-DaÒo 1D6 +1 (aplastante)
+Da√±o 1D6 +1 (aplastante)
 Peso: 3
 Factor de velocidad: 4
 Tipo de competencia: Garrote
@@ -48,65 +48,65 @@ Requiere 5 Fuerza
 No utilizable por:
  Mago~
 @3014		 = ~Teniente Jaiken~
-@3015		 = ~En persecuciÛn de los asesinos de Moira
+@3015		 = ~En persecuci√≥n de los asesinos de Moira
 
-Encontramos a los asesinos Stanial y Ollik en un escondite. Hemos contactado con el Capit·n. Hay una nota dentro del bolsillo de Stanial que prueba que Saerk Farradh tiene tratos con los Ladrones de las Sombras.
+Encontramos a los asesinos Stanial y Ollik en un escondite. Hemos contactado con el Capit√°n. Hay una nota dentro del bolsillo de Stanial que prueba que Saerk Farradh tiene tratos con los Ladrones de las Sombras.
 
-El capit·n Alwesk estar· encantado. Dos asesinos eliminados y una buena recompensa por la informaciÛn, øquÈ m·s puedo pedir?~
-@3016		 = ~En persecuciÛn de los asesinos de Moira
+El capit√°n Alwesk estar√° encantado. Dos asesinos eliminados y una buena recompensa por la informaci√≥n, ¬øqu√© m√°s puedo pedir?~
+@3016		 = ~En persecuci√≥n de los asesinos de Moira
 
-La conversaciÛn con el capit·n Alwesk fue muy esclarecedora. Parece un hombre capaz, coherente, seguro y calculador. A pesar de su duro tono de voz, se mostrÛ dispuesto a ayudar a buscar a los asesinos Stanial y Ollik. Mientras Èl pregunta por los muelles, nosotros deberÌamos buscar a los dos soldados que le faltan al capit·n. El Capit·n dice que los dos frecuentaban la Posada de Delosar en el Distrito del Puente, deberÌamos empezar por ahÌ.
+La conversaci√≥n con el capit√°n Alwesk fue muy esclarecedora. Parece un hombre capaz, coherente, seguro y calculador. A pesar de su duro tono de voz, se mostr√≥ dispuesto a ayudar a buscar a los asesinos Stanial y Ollik. Mientras √©l pregunta por los muelles, nosotros deber√≠amos buscar a los dos soldados que le faltan al capit√°n. El Capit√°n dice que los dos frecuentaban la Posada de Delosar en el Distrito del Puente, deber√≠amos empezar por ah√≠.
 
-Mientras tanto, espero que sus investigaciones tengan Èxito ...~
-@3017		 = ~En persecuciÛn de los asesinos de Moira
+Mientras tanto, espero que sus investigaciones tengan √©xito ...~
+@3017		 = ~En persecuci√≥n de los asesinos de Moira
 
-El capit·n Alwesk ha descubierto dÛnde se escondÌan los asesinos Stanial y Ollik. Se trata de una casa en el Distrito del Puente, situada frente al Templo de Helm. Seg˙n el Capit·n, el edificio pertenecÌa a los Ladrones de las Sombras, que fue vendido a Saerk Farradh, °el rival de Cor Delryn!
+El capit√°n Alwesk ha descubierto d√≥nde se escond√≠an los asesinos Stanial y Ollik. Se trata de una casa en el Distrito del Puente, situada frente al Templo de Helm. Seg√∫n el Capit√°n, el edificio pertenec√≠a a los Ladrones de las Sombras, que fue vendido a Saerk Farradh, ¬°el rival de Cor Delryn!
 
-DespuÈs de algunas consideraciones iniciales, el capit·n nos permitiÛ perseguir a los dos asesinos y tambiÈn nos ofreciÛ una recompensa si encontr·bamos pruebas que sugirieran una conexiÛn entre Saerk y los Ladrones de las Sombras.~
-@3018		 = ~En persecuciÛn de los asesinos de Moira
+Despu√©s de algunas consideraciones iniciales, el capit√°n nos permiti√≥ perseguir a los dos asesinos y tambi√©n nos ofreci√≥ una recompensa si encontr√°bamos pruebas que sugirieran una conexi√≥n entre Saerk y los Ladrones de las Sombras.~
+@3018		 = ~En persecuci√≥n de los asesinos de Moira
 
-La Magistrada Bylanna se sorprendiÛ con nuestros ˙ltimos hallazgos, porque los dos en cuestiÛn aparentemente intentaron entablar una acusacion en contra del SeÒor Cor delante de la Magistrada. Nos aconsejÛ que habl·ramos con el capit·n Alwesk en la guarniciÛn de los muelles. TambiÈn pidiÛ a Anomen que no se tomara la justicia por sus propias manos y dejara el arresto de Stanial y Ollik en manos del capit·n.~
+La Magistrada Bylanna se sorprendi√≥ con nuestros √∫ltimos hallazgos, porque los dos en cuesti√≥n aparentemente intentaron entablar una acusacion en contra del Se√±or Cor delante de la Magistrada. Nos aconsej√≥ que habl√°ramos con el capit√°n Alwesk en la guarnici√≥n de los muelles. Tambi√©n pidi√≥ a Anomen que no se tomara la justicia por sus propias manos y dejara el arresto de Stanial y Ollik en manos del capit√°n.~
 @3019		 = ~In pursuit of Moira's assassins
 
-Durante nuestra estancia en Athkatla se nos acercÛ una persona misteriosa. Esta persona parecÌa saber quiÈn habÌa asesinado a Moira, la hermana de Anomen. Contrariamente a las conclusiones de la Guardia, la persona afirmÛ que habÌa un testigo del asesinato, que puede ayudarnos a resolver el caso. Para encontrar a este testigo, debemos hablar con una camarera en la posada Mitocio. Seg˙n nuestra "aliada" desconocida, esto deberÌa poder ayudarnos.~
-@3020		 = ~En persecuciÛn de los asesinos de Moira
+Durante nuestra estancia en Athkatla se nos acerc√≥ una persona misteriosa. Esta persona parec√≠a saber qui√©n hab√≠a asesinado a Moira, la hermana de Anomen. Contrariamente a las conclusiones de la Guardia, la persona afirm√≥ que hab√≠a un testigo del asesinato, que puede ayudarnos a resolver el caso. Para encontrar a este testigo, debemos hablar con una camarera en la posada Mitocio. Seg√∫n nuestra "aliada" desconocida, esto deber√≠a poder ayudarnos.~
+@3020		 = ~En persecuci√≥n de los asesinos de Moira
 
-Resulta que la misteriosa testigo no era otra que la camarera Rebecca, que una vez trabajÛ en la Propiedad de Delryn y era amiga de Moira. Nos contÛ cÛmo le hizo una visita a Moira en secreto, antes de que fueran sorprendidas por los dos ladrones. Rebecca pudo esconderse a tiempo y vio cÛmo uno de los dos mataba a Moira. TambiÈn mataron a Willem. Afortunadamente, Rebecca oyÛ los nombres de los villanos antes de que huyeran del lugar: Stanial y Ollik.
-Anomen reconociÛ sus nombres como trabajadores de almacÈn descontentos al servicio de su padre. Ha instado a que informemos a la magistrada Bylanna de nuestros hallazgos.~
-@3021		  = ~En persecuciÛn de los asesinos de Moira
+Resulta que la misteriosa testigo no era otra que la camarera Rebecca, que una vez trabaj√≥ en la Propiedad de Delryn y era amiga de Moira. Nos cont√≥ c√≥mo le hizo una visita a Moira en secreto, antes de que fueran sorprendidas por los dos ladrones. Rebecca pudo esconderse a tiempo y vio c√≥mo uno de los dos mataba a Moira. Tambi√©n mataron a Willem. Afortunadamente, Rebecca oy√≥ los nombres de los villanos antes de que huyeran del lugar: Stanial y Ollik.
+Anomen reconoci√≥ sus nombres como trabajadores de almac√©n descontentos al servicio de su padre. Ha instado a que informemos a la magistrada Bylanna de nuestros hallazgos.~
+@3021		  = ~En persecuci√≥n de los asesinos de Moira
 
-El capit·n Alwesk se alegrÛ mucho al saber que todo habÌa ido seg˙n lo previsto.
-Sin embargo, el destino nos tenÌa preparadas m·s sorpresas: un mensajero nos comunicÛ que el padre de Anomen, el seÒor Cor, habÌa decidido vengarse personalmente de los supuestos asesinos de su hija. Preocupado, Anomen partiÛ hacia la finca de los Farradh.
-El capit·n Alwesk temÌa que el asunto se torciera si yo no seguÌa a Anomen, un temor que tambien comparto. No dejarÈ que le ocurra nada a Anomen y, si es necesario, tambiÈn lo protegerÈ de sÌ mismo, en caso de que se produzca un enfrentamiento con Saerk.~
-@3022		  = ~En persecuciÛn de los asesinos de Moira
+El capit√°n Alwesk se alegr√≥ mucho al saber que todo hab√≠a ido seg√∫n lo previsto.
+Sin embargo, el destino nos ten√≠a preparadas m√°s sorpresas: un mensajero nos comunic√≥ que el padre de Anomen, el se√±or Cor, hab√≠a decidido vengarse personalmente de los supuestos asesinos de su hija. Preocupado, Anomen parti√≥ hacia la finca de los Farradh.
+El capit√°n Alwesk tem√≠a que el asunto se torciera si yo no segu√≠a a Anomen, un temor que tambien comparto. No dejar√© que le ocurra nada a Anomen y, si es necesario, tambi√©n lo proteger√© de s√≠ mismo, en caso de que se produzca un enfrentamiento con Saerk.~
+@3022		  = ~En persecuci√≥n de los asesinos de Moira
 
-El capit·n Alwesk se alegrÛ mucho al saber que todo habÌa ido seg˙n lo previsto.
-Sin embargo, el destino nos tenÌa preparadas m·s sorpresas: un mensajero nos comunicÛ que el padre de Anomen, el seÒor Cor, habÌa decidido vengarse personalmente de los supuestos asesinos de su hija. Preocupado, Anomen partiÛ hacia la finca de los Farradh.
-El capit·n Alwesk temÌa que el asunto se pusiera feo si no seguÌa a Anomen.
+El capit√°n Alwesk se alegr√≥ mucho al saber que todo hab√≠a ido seg√∫n lo previsto.
+Sin embargo, el destino nos ten√≠a preparadas m√°s sorpresas: un mensajero nos comunic√≥ que el padre de Anomen, el se√±or Cor, hab√≠a decidido vengarse personalmente de los supuestos asesinos de su hija. Preocupado, Anomen parti√≥ hacia la finca de los Farradh.
+El capit√°n Alwesk tem√≠a que el asunto se pusiera feo si no segu√≠a a Anomen.
 
-En cuanto a mÌ, este asunto est· cerrado. Si Anomen quiere ayudar a su tonto padre, puede hacerlo. Lo m·s probable es que las consecuencias ser·n muy desagradables.~
-@3023		   = ~En persecuciÛn de los asesinos de Moira
+En cuanto a m√≠, este asunto est√° cerrado. Si Anomen quiere ayudar a su tonto padre, puede hacerlo. Lo m√°s probable es que las consecuencias ser√°n muy desagradables.~
+@3023		   = ~En persecuci√≥n de los asesinos de Moira
 
-Llegamos a la finca del mercader justo a tiempo para ayudar a Anomen a impedir que su padre intentara matar a Saerk. En una acalorada discusiÛn, resultÛ que nada menos que Surayah Farradh, la hija de Saerk, °era nuestra misteriosa informadora! Era amiga de Moira a pesar de la hostilidad entre sus dos casas y nos ayudÛ a encontrar a los asesinos de Moira. Sin embargo, no sabÌa que los dos criminales trabajaban para su padre, °y tampoco sabÌa nada de los tratos de Saerk con los Ladrones de las Sombras!
+Llegamos a la finca del mercader justo a tiempo para ayudar a Anomen a impedir que su padre intentara matar a Saerk. En una acalorada discusi√≥n, result√≥ que nada menos que Surayah Farradh, la hija de Saerk, ¬°era nuestra misteriosa informadora! Era amiga de Moira a pesar de la hostilidad entre sus dos casas y nos ayud√≥ a encontrar a los asesinos de Moira. Sin embargo, no sab√≠a que los dos criminales trabajaban para su padre, ¬°y tampoco sab√≠a nada de los tratos de Saerk con los Ladrones de las Sombras!
 Antes de llegar a las manos, Saerk, su hijo Yusef y el padre de Anomen fueron detenidos por la guardia. Ha llevado mucho tiempo, pero el caso del asesinato de Moira por fin se ha cerrado. Espero que ayude a Anomen a encontrar algo de paz.~
 @3024		    = ~Mayordomo~
 @3025		    = ~Cocinero~
-@3026		    = ~DepÛsito de mercancÌas Farradh~
-@3027		    = ~Esta armadura sÛlo puede ser utilizada por Anomen.~
+@3026		    = ~Dep√≥sito de mercanc√≠as Farradh~
+@3027		    = ~Esta armadura s√≥lo puede ser utilizada por Anomen.~
 @3028		    = ~Mensajero del Consejo~
-@3029		    = ~Este yelmo sÛlo puede ser utilizado por Anomen.~
-@3030		    = ~Este escudo sÛlo puede ser utilizado por Anomen.~
-@3031		 = ~En persecuciÛn de los asesinos de Moira~
+@3029		    = ~Este yelmo s√≥lo puede ser utilizado por Anomen.~
+@3030		    = ~Este escudo s√≥lo puede ser utilizado por Anomen.~
+@3031		 = ~En persecuci√≥n de los asesinos de Moira~
 
 
 //Tienda de minerales de Jerlia
 @4001    = ~Tienda de minerales de Jerlia~
 
 //Elven holy water in the Temple of Lathander
-@5001   = ~Agua bendita Èlfica en el Templo de Lathander~
+@5001   = ~Agua bendita √©lfica en el Templo de Lathander~
 
-//Cuchilla Ondulada en TesorerÌa
-@6001   = ~Cuchilla Ondulada en TesorerÌa~
+//Cuchilla Ondulada en Tesorer√≠a
+@6001   = ~Cuchilla Ondulada en Tesorer√≠a~
 
 //Daga de plata en la Mazmorra
 @7001   = ~Daga de plata en la Mazmorra de Irenicus~
@@ -121,32 +121,32 @@ Antes de llegar a las manos, Saerk, su hijo Yusef y el padre de Anomen fueron de
 //Espada de plata
 @110001   = ~Espada de plata~
 @110002   = ~Espada de plata
-Esta espada vorpal de plata irradia un aura oscura cuando la examinas, y la hoja est· tan finamente afilada que podrÌa cortar una cabeza de un solo golpe.
+Esta espada vorpal de plata irradia un aura oscura cuando la examinas, y la hoja est√° tan finamente afilada que podr√≠a cortar una cabeza de un solo golpe.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 Habilidades especiales:
 25% de probabilidad por impacto de que el objetivo deba salvar vs. Muerte a -2 o morir.
 Si el objetivo es un Azotamentes o un Ulitharid, muere inmediatamente.
 
-THAC0: -3, (-4 vs. lic·ntropos)
-DaÒo: 1d10 +3 (arma blanca), (1d10 +4 vs. lic·ntropos)
+THAC0: -3, (-4 vs. lic√°ntropos)
+Da√±o: 1d10 +3 (arma blanca), (1d10 +4 vs. lic√°ntropos)
 Peso: 15
 Factor de velocidad: 10
 Tipo de competencia: Espada a dos manos
 Tipo: 2 manos
 No utilizable por:
 Druida
-ClÈrigo
+Cl√©rigo
 Mago
-LadrÛn~
+Ladr√≥n~
 
-//~T˙nel de Saradush~
+//~T√∫nel de Saradush~
 
-@120000   = ~T˙nel de Saradush~
-@120001   = ~Pergamino de informaciÛn~
-@120002   = ~Este pergamino da informaciÛn sobre la barrera m·gica que los magos de Yaga-Shura pusieron alrededor de Saradush. Parece ser una especie de instrucciÛn para los magos sobre cÛmo mantenerla en funcionamiento. Una persona con los conocimientos adecuados deberÌa ser capaz de utilizar esta informaciÛn para superar la barrera al menos en parte.~
+@120000   = ~T√∫nel de Saradush~
+@120001   = ~Pergamino de informaci√≥n~
+@120002   = ~Este pergamino da informaci√≥n sobre la barrera m√°gica que los magos de Yaga-Shura pusieron alrededor de Saradush. Parece ser una especie de instrucci√≥n para los magos sobre c√≥mo mantenerla en funcionamiento. Una persona con los conocimientos adecuados deber√≠a ser capaz de utilizar esta informaci√≥n para superar la barrera al menos en parte.~
 
-@120003   = ~Templo de M·scara en el distrito del puente~
-@120004   = ~La salida conduce a un pequeÒo balcÛn con vistas al Mar de Espadas.~
-@120005   = ~Templo de M·scara~
+@120003   = ~Templo de M√°scara en el distrito del puente~
+@120004   = ~La salida conduce a un peque√±o balc√≥n con vistas al Mar de Espadas.~
+@120005   = ~Templo de M√°scara~

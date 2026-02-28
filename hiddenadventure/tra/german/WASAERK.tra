@@ -1,38 +1,38 @@
 /*
 /* 25513 */
-@0    = ~Was soll der ganze Aufruhr?! Was geht hier überhaupt vor?!~ [SAERK01]
+@0    = ~Was soll der ganze Aufruhr?! Was geht hier Ã¼berhaupt vor?!~ [SAERK01]
 /* 25514 */
-@1    = ~V-Vater? Was war das für ein Geräusch..?~ [SURAYX01]
+@1    = ~V-Vater? Was war das fÃ¼r ein GerÃ¤usch..?~ [SURAYX01]
 */
 @2    = ~Ah... ich sehe, dass der alte Gecko Cor letztendlich gekommen ist - ah, und sein Balg ist auch gerade eingetroffen, um seinem Vater zu helfen, sich meiner anzunehmen, wie?~
-@3    = ~Schweigt, calimshitischer Hund! Ihr habt mir lange genug meine Geschäfte und mein Leben ruiniert! Wenn Euch weder der Rat, noch mein "ach so edler" Sohn aufhalten können, werde ich mich Eurer selbst entledigen! ~
+@3    = ~Schweigt, calimshitischer Hund! Ihr habt mir lange genug meine GeschÃ¤fte und mein Leben ruiniert! Wenn Euch weder der Rat, noch mein "ach so edler" Sohn aufhalten kÃ¶nnen, werde ich mich Eurer selbst entledigen! ~
 @4    = ~Haltet ein, Vater! Selbstjustiz ist der falsche Weg. Saerk wird bekommen, was ihm zusteht - aber nicht durch Mord!~
 /*
 /* 25523 */
-@5    = ~Das ist Anomen? Oh, darf ich ihn töten, Vater? Bitte?~
+@5    = ~Das ist Anomen? Oh, darf ich ihn tÃ¶ten, Vater? Bitte?~
 /* 25524 */
-@6    = ~Natürlich könnt Ihr, Yusef. Ich werde jede sich bietende Gelegenheit nutzen, um Cors Herz zu treffen. Diese ist uns nicht gerade in den Schoß gefallen.~
+@6    = ~NatÃ¼rlich kÃ¶nnt Ihr, Yusef. Ich werde jede sich bietende Gelegenheit nutzen, um Cors Herz zu treffen. Diese ist uns nicht gerade in den SchoÃŸ gefallen.~
 */
 @7    = ~Ihr gebt es also zu! Ihr gesteht Eure Beteiligung an Moiras Ermordung ein!~
-@8    = ~Ich gebe überhaupt nichts zu! Ich habe Euch bereits Herz und Seele genommen, weil ich Euch jedes kleine Geschäft, das Ihr hattet, weggeschnappt habe! Ich habe Euch ruiniert und zu dem gemacht, was Ihr seid: ein Mukrahhund!~
+@8    = ~Ich gebe Ã¼berhaupt nichts zu! Ich habe Euch bereits Herz und Seele genommen, weil ich Euch jedes kleine GeschÃ¤ft, das Ihr hattet, weggeschnappt habe! Ich habe Euch ruiniert und zu dem gemacht, was Ihr seid: ein Mukrahhund!~
 @9    = ~Wie... wie kann man derart herzlos sein? Nein, das... kann er einfach nicht so meinen!~
-@10   = ~Jeder bringt sich durch so gut es geht. Tötet, oder Ihr werdet getötet. Besser, Ihr lernt diese Lektion, Geflügelte.~
-@11   = ~Unfassbar, wie Ihr so selbstverständlich darüber reden könnt, Viconia. Als ob man anderen schaden müsste, um leben zu können. Aber was weiß eine Drow schon von Nächstenliebe und Freundschaft?~
-@12   = ~Mindestens genauso viel, wie Ihr vom wahren Leben, Schätzchen!~
-@13   = ~Calishitischer Dämon! Ich weiß, dass Ihr meine arme unschuldige Tochter auf dem Gewissen habt! Ich werde Euch für diese Tat sterben und verrotten sehen, das schwöre ich Euch!~
-@14   = ~Ach ja, wir wissen doch, wieviel der Schwur eines Delryn wert ist. Ich hoffe, das Mädel verrottet in ihrem Grab. Das alles habt Ihr und Eure Familie verdient!~
-@15   = ~Wagt nicht, so widerwärtig von meiner Schwester zu sprechen, Saerk! Ihr mögt Moira nicht selbst getötet habe, jedoch die beiden Verräter Stanial und Ollik, die in EUREM Auftrag spioniert haben! Die Mörder sind tot, doch Ihr werdet in den Kerker wandern!~
-@16   = ~Pah! Das erzählt Ihr Leute mir schon lange! Wir werden sehen, wie unschuldig mich mein riesiges Vermögen machen wird.~
-@17   = ~W-was? Die beiden Mörder haben für EUCH gearbeitet, Vater? Oh, Götter!~
-@18   = ~Die Beiden haben für mich gearbeitet, na und? Was sollte Euch das interessieren, Tochter?~
-@19   = ~Weil ... ich Sir Anomen und seine Gefährten auf die Spur der Mörder gebracht habe! Ich ... musste es tun ...~
+@10   = ~Jeder bringt sich durch so gut es geht. TÃ¶tet, oder Ihr werdet getÃ¶tet. Besser, Ihr lernt diese Lektion, GeflÃ¼gelte.~
+@11   = ~Unfassbar, wie Ihr so selbstverstÃ¤ndlich darÃ¼ber reden kÃ¶nnt, Viconia. Als ob man anderen schaden mÃ¼sste, um leben zu kÃ¶nnen. Aber was weiÃŸ eine Drow schon von NÃ¤chstenliebe und Freundschaft?~
+@12   = ~Mindestens genauso viel, wie Ihr vom wahren Leben, SchÃ¤tzchen!~
+@13   = ~Calishitischer DÃ¤mon! Ich weiÃŸ, dass Ihr meine arme unschuldige Tochter auf dem Gewissen habt! Ich werde Euch fÃ¼r diese Tat sterben und verrotten sehen, das schwÃ¶re ich Euch!~
+@14   = ~Ach ja, wir wissen doch, wieviel der Schwur eines Delryn wert ist. Ich hoffe, das MÃ¤del verrottet in ihrem Grab. Das alles habt Ihr und Eure Familie verdient!~
+@15   = ~Wagt nicht, so widerwÃ¤rtig von meiner Schwester zu sprechen, Saerk! Ihr mÃ¶gt Moira nicht selbst getÃ¶tet habe, jedoch die beiden VerrÃ¤ter Stanial und Ollik, die in EUREM Auftrag spioniert haben! Die MÃ¶rder sind tot, doch Ihr werdet in den Kerker wandern!~
+@16   = ~Pah! Das erzÃ¤hlt Ihr Leute mir schon lange! Wir werden sehen, wie unschuldig mich mein riesiges VermÃ¶gen machen wird.~
+@17   = ~W-was? Die beiden MÃ¶rder haben fÃ¼r EUCH gearbeitet, Vater? Oh, GÃ¶tter!~
+@18   = ~Die Beiden haben fÃ¼r mich gearbeitet, na und? Was sollte Euch das interessieren, Tochter?~
+@19   = ~Weil ... ich Sir Anomen und seine GefÃ¤hrten auf die Spur der MÃ¶rder gebracht habe! Ich ... musste es tun ...~
 @20   = ~IHR?!? Aber ... das bedeutet ... Ihr wart es, die uns ins Mithrest Inn geschickt habt!~
-@21   = ~(seufzt) Ja, ich ... Moira und ich trafen uns oft im Mithrest Inn. Wir waren ... sehr gut befreundet. Selbst der Hass unserer Väter konnte nichts daran ändern.~
-@22   = ~Bei den neun Höllen, Schwester! Wie konntet Ihr mit dieser kleinen Delryn-Schlange verkehren, während unser Vater die Sippe beinahe erfolgreich ruiniert hat? Nun haben wir nicht nur zwei verachtenswerte Delryn-Hunde, sondern auch einen schäbigen Haufen nichtswürdiger Söldner im Haus!~
-@23   = ~Hütet Eure Zunge, Bürschchen, oder meine Axt wird heute "Händlersöhnchen" kosten!~
+@21   = ~(seufzt) Ja, ich ... Moira und ich trafen uns oft im Mithrest Inn. Wir waren ... sehr gut befreundet. Selbst der Hass unserer VÃ¤ter konnte nichts daran Ã¤ndern.~
+@22   = ~Bei den neun HÃ¶llen, Schwester! Wie konntet Ihr mit dieser kleinen Delryn-Schlange verkehren, wÃ¤hrend unser Vater die Sippe beinahe erfolgreich ruiniert hat? Nun haben wir nicht nur zwei verachtenswerte Delryn-Hunde, sondern auch einen schÃ¤bigen Haufen nichtswÃ¼rdiger SÃ¶ldner im Haus!~
+@23   = ~HÃ¼tet Eure Zunge, BÃ¼rschchen, oder meine Axt wird heute "HÃ¤ndlersÃ¶hnchen" kosten!~
 @24   = ~Ihr versteht das nicht, Bruder! Moira und ich ...~
-@25   = ~Schweigt, Tochter! Ihr habt Eure eigene Familie verraten, um dem Spross unseres Feindes und seinen Verbündeten zu helfen!~
-@26   = ~Meine unschuldige kleine Tochter – eine weitere Verräterin meines Blutes! Aber man sieht, wohin das führt ...~
-@27   = ~Wagt nicht, so von einer Verstorbenen zu sprechen! Moira war ein weit besserer Mensch, als Ihr es je wart, Vater! Und Ihr beschmutzt ihr Andenken, indem Ihr sie "Verräterin" nennt, nur weil sie ihrer Freundchaft treublieb, während zwei närrische Vater ihre kranke Fehde führten! Nein! IHR seid die wahre Schande unserer Familie, nicht Moira ... oder ich!~
-@28   = ~Schweigt, nichtswürdiger ...~
-@29   = ~Genug! Nun ist Zeit für Taten – Männer! Zeigt diesen niederen Kreaturen, wo ihr Platz ist – beim Abfall!~
+@25   = ~Schweigt, Tochter! Ihr habt Eure eigene Familie verraten, um dem Spross unseres Feindes und seinen VerbÃ¼ndeten zu helfen!~
+@26   = ~Meine unschuldige kleine Tochter â€“ eine weitere VerrÃ¤terin meines Blutes! Aber man sieht, wohin das fÃ¼hrt ...~
+@27   = ~Wagt nicht, so von einer Verstorbenen zu sprechen! Moira war ein weit besserer Mensch, als Ihr es je wart, Vater! Und Ihr beschmutzt ihr Andenken, indem Ihr sie "VerrÃ¤terin" nennt, nur weil sie ihrer Freundchaft treublieb, wÃ¤hrend zwei nÃ¤rrische Vater ihre kranke Fehde fÃ¼hrten! Nein! IHR seid die wahre Schande unserer Familie, nicht Moira ... oder ich!~
+@28   = ~Schweigt, nichtswÃ¼rdiger ...~
+@29   = ~Genug! Nun ist Zeit fÃ¼r Taten â€“ MÃ¤nner! Zeigt diesen niederen Kreaturen, wo ihr Platz ist â€“ beim Abfall!~

@@ -1,17 +1,17 @@
 /*
-@1002    = ~Zwei aufwendig gefertigte Pantalons aus Silber. Dieses Familienstück wurde Euch von Welther als Lohn für die Befreiung von Lady Elgea überbracht.
+@1002    = ~Zwei aufwendig gefertigte Pantalons aus Silber. Dieses FamilienstÃ¼ck wurde Euch von Welther als Lohn fÃ¼r die Befreiung von Lady Elgea Ã¼berbracht.
 
 EIGENSCHAFTEN:
 
 Gewicht: 1~
 */
 
-@3004	 = ~Dieses wertvolle Schmuckstück ist seit vielen Generationen im Besitz der Familie Delryn. Anomens Schwester Moira liebte es, diese Kette zu tragen, da es das letzte Geschenk ihrer Mutter an sie war.
+@3004	 = ~Dieses wertvolle SchmuckstÃ¼ck ist seit vielen Generationen im Besitz der Familie Delryn. Anomens Schwester Moira liebte es, diese Kette zu tragen, da es das letzte Geschenk ihrer Mutter an sie war.
 
 EIGENSCHAFTEN:
 
-Immunität gegen Lebenskraftenzug
-Sonnenfeuer (2x täglich)
+ImmunitÃ¤t gegen Lebenskraftenzug
+Sonnenfeuer (2x tÃ¤glich)
  Reichweite: Anwender
  Dauer: Sofort
  Bereich: 4,5 m Radius
@@ -20,14 +20,14 @@ Gewicht: 1~
 
 @3010	 = ~Stanial und Ollik,
 
-Dank Eurer "kleinen Ausschweifung" im Delryn-Anwesen kann ich nicht mehr riskieren, Euch dort als Spione einzusetzen – geschweigeden Euch einfach in der Stadt herumspazieren zu lassen. Auch wenn es offizell keine Zeugen gibt, muss ich sichergehen, dass man euch beide nicht mit mir in Verbindung bringt!
-Ihr verdankt es nur den Diensten, die Ihr mir mir bereits erwiesen habt, dass ich so großzügig bin, Euch ein Versteck zu besorgen, statt Euch einfach ‚verschwinden’ zu lassen.
-Über meine Geschäftsbeziehungen zu Renal Blutskalp und den Schattendieben habe ich ein Haus im Brückenviertel gemietet, gegenüber dem Helm-Tempel. Die Gerüchte, dass es dort nicht mit rechten Dingen zugeht sollte Euch genügend Sicherheit bieten, bis sich der Staub gelegt hat. Freunde, die Schattendiebe für mein Geschäft organisiert haben. 
+Dank Eurer "kleinen Ausschweifung" im Delryn-Anwesen kann ich nicht mehr riskieren, Euch dort als Spione einzusetzen â€“ geschweigeden Euch einfach in der Stadt herumspazieren zu lassen. Auch wenn es offizell keine Zeugen gibt, muss ich sichergehen, dass man euch beide nicht mit mir in Verbindung bringt!
+Ihr verdankt es nur den Diensten, die Ihr mir mir bereits erwiesen habt, dass ich so groÃŸzÃ¼gig bin, Euch ein Versteck zu besorgen, statt Euch einfach â€šverschwindenâ€™ zu lassen.
+Ãœber meine GeschÃ¤ftsbeziehungen zu Renal Blutskalp und den Schattendieben habe ich ein Haus im BrÃ¼ckenviertel gemietet, gegenÃ¼ber dem Helm-Tempel. Die GerÃ¼chte, dass es dort nicht mit rechten Dingen zugeht sollte Euch genÃ¼gend Sicherheit bieten, bis sich der Staub gelegt hat. Freunde, die Schattendiebe fÃ¼r mein GeschÃ¤ft organisiert haben. 
 
 Solange Ihr folgende Regeln einhaltet, wird Euch keine Gefahr drohen:
 1. Verlasst das Haus nicht, ehe ich Euch Anweisung dazu gebe!
-2. Vergreift Euch nicht an den Gegenständen, die dort lagern – die Schattendiebe sehen es nicht gern, wenn man sich an ihren Waren bedient!
-3. Betretet unter keinen Umständen die Gruft im Untergeschoss. Renal wies mich darauf hin, dass dort niemand Zugang habe – Wer es dennoch tut, würde es bitter bereuen!
+2. Vergreift Euch nicht an den GegenstÃ¤nden, die dort lagern â€“ die Schattendiebe sehen es nicht gern, wenn man sich an ihren Waren bedient!
+3. Betretet unter keinen UmstÃ¤nden die Gruft im Untergeschoss. Renal wies mich darauf hin, dass dort niemand Zugang habe â€“ Wer es dennoch tut, wÃ¼rde es bitter bereuen!
 
 Wenn Ihr diese Dinge beachtet, wird Eure Zukunft weiterhin gesichtert bleiben.
 
@@ -37,31 +37,31 @@ EIGENSCHAFTEN:
 
 Gewicht: 0~
 
-@3013	 = ~Meist besteht eine Keule aus einem festen Stock aus Hartholz, der am Griff schmal ist und zum Ende hin breiter wird. Diese einfache Waffe ist im Gebrauch, seit Menschen Werkzeuge benutzen. Da jeder ein brauchbares festes Holzstück finden und herumschleudern kann, ist die Keule als Waffe weit verbreitet.
+@3013	 = ~Meist besteht eine Keule aus einem festen Stock aus Hartholz, der am Griff schmal ist und zum Ende hin breiter wird. Diese einfache Waffe ist im Gebrauch, seit Menschen Werkzeuge benutzen. Da jeder ein brauchbares festes HolzstÃ¼ck finden und herumschleudern kann, ist die Keule als Waffe weit verbreitet.
 
 EIGENSCHAFTEN:
 
 Schaden: 1W6+1 (Wucht)
 ETW0-Bonus: -1
 Initiativefaktor: 4
-Mindeststärke: 5
+MindeststÃ¤rke: 5
 Waffenfertigkeit: Keule
-Typ: 1-händig
+Typ: 1-hÃ¤ndig
 
 Gewicht: 3~
 
-@110002   = ~Das tödliche Silberschwert strahlt eine düstere Aura aus. Die Klinge ist so scharf, dass sie vermutlich den Kopf eines Gegners mit einem Hieb vom Leib trennen könnte.
+@110002   = ~Das tÃ¶dliche Silberschwert strahlt eine dÃ¼stere Aura aus. Die Klinge ist so scharf, dass sie vermutlich den Kopf eines Gegners mit einem Hieb vom Leib trennen kÃ¶nnte.
 
 EIGENSCHAFTEN:
 
--Bei jedem Treffer besteht eine 25-prozentige Chance, das Ziel sofort zu töten (Rettungswurf -2 gg. Tod).
+-Bei jedem Treffer besteht eine 25-prozentige Chance, das Ziel sofort zu tÃ¶ten (Rettungswurf -2 gg. Tod).
 -Wird ein Gedankenschinder oder ein Ulitharid getroffen, wird er sofort vernichtet.
 
 Schaden: 1W10 +3 (Klinge)
 ETW0-Bonus: -3
 Initiativefaktor: 7
-Fertigkeit: Zweihänder
-Typ: 2-händig
-Mindeststärke: 14
+Fertigkeit: ZweihÃ¤nder
+Typ: 2-hÃ¤ndig
+MindeststÃ¤rke: 14
 
 Gewicht: 15~

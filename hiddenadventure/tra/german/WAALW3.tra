@@ -1,20 +1,20 @@
-@0    = ~Ihr ... seid zurück, wie ich sehe. Wart Ihr erfolgreich bei Euren Ermittlungen?~
+@0    = ~Ihr ... seid zurÃ¼ck, wie ich sehe. Wart Ihr erfolgreich bei Euren Ermittlungen?~
 @1    = ~Nein, wir sind noch dabei.~
-@2    = ~In der Tat, Captain. Wir haben uns um die Mörder gekümmert und dieses Dokument bei ihnen gefunden. Es beweist eindeutig, dass Saerk Farradh gemeinsame Sache mit den Schattendieben macht!~
-@3    = ~Gut gemacht, Das ist genau der Beweis, den ich noch brauchte! Ich schätze mal, einem "ausführlichen Gespräch" mit Saerk über diverse Kontaktleute steht nun nichts mehr im Wege! Ha, hier, diese Belohnung habt Ihr Euch redlich verdient!~
-@4    = ~Endlich können wir ... Was!?~
-@5    = ~Sir Anomen! Den Göttern sei Dank, dass ich Euch gefunden habe!~
-@6    = ~Ich erinnere mich – Ihr überbrachtet mir die Nachricht von Moiras Tod! Weshalb sucht Ihr mich?~
-@7    = ~Euer Vater ... der alte Narr ist tatsächlich zum Anwesen der Farradhs aufgebrochen, er redete wie ihm Wahn – endlich Rache zu nehmen!~
-@8    = ~Oh Ihr Götter, das kann doch nicht wahr sein! Saerk hat viele Wachen und ... bei den Höllen, er mag ein widerwärtiges Schwein sein, aber er ist mein Vater! Ver-verzeiht, <CHARNAME>, aber ich muss meinen Vater davon abhalten, eine große Dummheit zu tun!~
-@9    = ~Verdammt, der Junge ist dabei, einen großen Fehler zu machen! Rasch, folgt ihm zu Saerks Anwesen und passt auf ihn auf, ich spüre, dass da ein Haufen Ärger lauert, dem er nicht gewachsen ist!~
-@10   = ~Keine Sorge, ich werde verhindern, dass Anomen etwas tut, das er später bereut!~
-@11   = ~Anomen würde nicht wollen, dass ich mich in seine Familiensache einmische.~
-@12   = ~Was geht mich das an? Anomen hat die Mörder seiner Schwester, und sein Vater ist selbst schuld, weil er derartige Dummheiten macht.~
-@13   = ~Ich würde nicht nach dem gehen, was er wünscht, sondern nach dem, was gut für ihn ist – und nur mit einem betrunkenen Narren gegen einen Trupp Hauswächter zu kämpfen ist es sicher nicht.~
+@2    = ~In der Tat, Captain. Wir haben uns um die MÃ¶rder gekÃ¼mmert und dieses Dokument bei ihnen gefunden. Es beweist eindeutig, dass Saerk Farradh gemeinsame Sache mit den Schattendieben macht!~
+@3    = ~Gut gemacht, Das ist genau der Beweis, den ich noch brauchte! Ich schÃ¤tze mal, einem "ausfÃ¼hrlichen GesprÃ¤ch" mit Saerk Ã¼ber diverse Kontaktleute steht nun nichts mehr im Wege! Ha, hier, diese Belohnung habt Ihr Euch redlich verdient!~
+@4    = ~Endlich kÃ¶nnen wir ... Was!?~
+@5    = ~Sir Anomen! Den GÃ¶ttern sei Dank, dass ich Euch gefunden habe!~
+@6    = ~Ich erinnere mich â€“ Ihr Ã¼berbrachtet mir die Nachricht von Moiras Tod! Weshalb sucht Ihr mich?~
+@7    = ~Euer Vater ... der alte Narr ist tatsÃ¤chlich zum Anwesen der Farradhs aufgebrochen, er redete wie ihm Wahn â€“ endlich Rache zu nehmen!~
+@8    = ~Oh Ihr GÃ¶tter, das kann doch nicht wahr sein! Saerk hat viele Wachen und ... bei den HÃ¶llen, er mag ein widerwÃ¤rtiges Schwein sein, aber er ist mein Vater! Ver-verzeiht, <CHARNAME>, aber ich muss meinen Vater davon abhalten, eine groÃŸe Dummheit zu tun!~
+@9    = ~Verdammt, der Junge ist dabei, einen groÃŸen Fehler zu machen! Rasch, folgt ihm zu Saerks Anwesen und passt auf ihn auf, ich spÃ¼re, dass da ein Haufen Ã„rger lauert, dem er nicht gewachsen ist!~
+@10   = ~Keine Sorge, ich werde verhindern, dass Anomen etwas tut, das er spÃ¤ter bereut!~
+@11   = ~Anomen wÃ¼rde nicht wollen, dass ich mich in seine Familiensache einmische.~
+@12   = ~Was geht mich das an? Anomen hat die MÃ¶rder seiner Schwester, und sein Vater ist selbst schuld, weil er derartige Dummheiten macht.~
+@13   = ~Ich wÃ¼rde nicht nach dem gehen, was er wÃ¼nscht, sondern nach dem, was gut fÃ¼r ihn ist â€“ und nur mit einem betrunkenen Narren gegen einen Trupp HauswÃ¤chter zu kÃ¤mpfen ist es sicher nicht.~
 /* @14   */
 /* @15   */
-@16   = ~Das ist nicht länger mein Problem. Der Fall ist gelöst, ich habe die Belohnung. Damit ist alles getan. Lebt wohl, Captain.~
-@17   = ~Ist das so? Und dass Euer Freund in die Dummheiten seines Vater hineingezogen werden könnte, stört Euch wohl nicht, was? Sollte er sich wider Erwarten zur Selbstjustiz an Saerk überreden lassen, wird er sich vor dem Rat verantworten müssen – wenn er überlebt. Ich würde ihn ungern verhaften müssen, wenn er eine Dummheit begangen hat.~
+@16   = ~Das ist nicht lÃ¤nger mein Problem. Der Fall ist gelÃ¶st, ich habe die Belohnung. Damit ist alles getan. Lebt wohl, Captain.~
+@17   = ~Ist das so? Und dass Euer Freund in die Dummheiten seines Vater hineingezogen werden kÃ¶nnte, stÃ¶rt Euch wohl nicht, was? Sollte er sich wider Erwarten zur Selbstjustiz an Saerk Ã¼berreden lassen, wird er sich vor dem Rat verantworten mÃ¼ssen â€“ wenn er Ã¼berlebt. Ich wÃ¼rde ihn ungern verhaften mÃ¼ssen, wenn er eine Dummheit begangen hat.~
 /* @18  */
-@19   = ~Das zu hören beruhigt mich. Sollte er sich wider Erwarten zur Selbstjustiz an Saerk überreden lassen, wird er sich vor dem Rat verantworten müssen – wenn er überlebt. Ich würde ihn ungern verhaften müssen, weil er eine Dummheit begangen hat.~
+@19   = ~Das zu hÃ¶ren beruhigt mich. Sollte er sich wider Erwarten zur Selbstjustiz an Saerk Ã¼berreden lassen, wird er sich vor dem Rat verantworten mÃ¼ssen â€“ wenn er Ã¼berlebt. Ich wÃ¼rde ihn ungern verhaften mÃ¼ssen, weil er eine Dummheit begangen hat.~

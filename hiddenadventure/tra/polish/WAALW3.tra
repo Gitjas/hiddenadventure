@@ -1,20 +1,20 @@
-@0    = ~Ty... wróci³eœ, jak widzê. Uda³o ci siê z twoim dochodzeniem?~
-@1    = ~Nie, wci¹¿ nad tym pracujemy.~
-@2    = ~Owszem, kapitanie. Zajêliœmy siê mordercami, a przy jednym z nich znaleŸliœmy ten dokument. To dowód na to, ¿e Saerk Farrahd wspó³pracowa³ ze Z³odziejami Cienia!~
-@3    = ~Œwietna robota! Dok³adnie takiego dowodu potrzebowa³em! Myœlê, ¿e teraz mo¿emy sobie uci¹æ z panem Saerkiem mi³¹ pogawêdkê! Ha! Proszê, oto nagroda, na któr¹ sobie uczciwie zas³u¿yliœcie!~
-@4    = ~Mo¿emy wreszcie... Co znowu?!~
-@5    = ~Sir Anomenie! Znalaz³em ciê, dziêki bogom!~
-@6    = ~Ja ciê znam, to ty przynios³eœ mi wieœci o œmierci Moiry! Zatem dlaczego mnie szuka³eœ?~
-@7    = ~Twój ojciec... postanowi³ sam w³amaæ siê do posiad³oœci Farrahda. Oszala³! Powiedzia³, ¿e siê zemœci!~
-@8    = ~Na bogów! To niemo¿liwe! Saerk ma liczne stra¿e! Wy-wybacz mi, <CHARNAME>, ale muszê powstrzymaæ ojca przed zrobieniem czegoœ g³upiego!~
-@9    = ~Ten m³odzieniec gotów jest pope³niæ wielki b³¹d! Ruszajcie czym prêdzej za nim do posiad³oœci Saerka i miejcie go na oku! Coœ czujê, ¿e mo¿e sobie nie poradziæ z k³opotami, które tam na niego czekaj¹!~
-@10   = ~Nie martw siê, nie dopuœcimy do tego, ¿eby Anomen zrobi³ coœ, czego by póŸniej musia³ ¿a³owaæ!~
-@11   = ~Anomen nie chcia³by, abyœmy mieszali siê w jego rodzinne sprawy.~
-@12   = ~A co mnie to obchodzi? Anomen dosta³ morderców swojej siostry. Jego ojciec sam sobie bêdzie winny, jeœli narobi g³upich rzeczy.~
-@13   = ~Nie bêdziemy robiæ tego, co on chce, tylko to, co jest dla niego dobre. A walka z oddzia³em stra¿ników czyjejœ posiad³oœci u boku pijanego g³upca z pewnoœci¹ dla niego dobre nie jest!~
+@0    = ~Ty... wrÃ³ciÂ³eÅ“, jak widzÃª. UdaÂ³o ci siÃª z twoim dochodzeniem?~
+@1    = ~Nie, wciÂ¹Â¿ nad tym pracujemy.~
+@2    = ~Owszem, kapitanie. ZajÃªliÅ“my siÃª mordercami, a przy jednym z nich znaleÅ¸liÅ“my ten dokument. To dowÃ³d na to, Â¿e Saerk Farrahd wspÃ³Â³pracowaÂ³ ze ZÂ³odziejami Cienia!~
+@3    = ~Å’wietna robota! DokÂ³adnie takiego dowodu potrzebowaÂ³em! MyÅ“lÃª, Â¿e teraz moÂ¿emy sobie uciÂ¹Ã¦ z panem Saerkiem miÂ³Â¹ pogawÃªdkÃª! Ha! ProszÃª, oto nagroda, na ktÃ³rÂ¹ sobie uczciwie zasÂ³uÂ¿yliÅ“cie!~
+@4    = ~MoÂ¿emy wreszcie... Co znowu?!~
+@5    = ~Sir Anomenie! ZnalazÂ³em ciÃª, dziÃªki bogom!~
+@6    = ~Ja ciÃª znam, to ty przyniosÂ³eÅ“ mi wieÅ“ci o Å“mierci Moiry! Zatem dlaczego mnie szukaÂ³eÅ“?~
+@7    = ~TwÃ³j ojciec... postanowiÂ³ sam wÂ³amaÃ¦ siÃª do posiadÂ³oÅ“ci Farrahda. OszalaÂ³! PowiedziaÂ³, Â¿e siÃª zemÅ“ci!~
+@8    = ~Na bogÃ³w! To niemoÂ¿liwe! Saerk ma liczne straÂ¿e! Wy-wybacz mi, <CHARNAME>, ale muszÃª powstrzymaÃ¦ ojca przed zrobieniem czegoÅ“ gÂ³upiego!~
+@9    = ~Ten mÂ³odzieniec gotÃ³w jest popeÂ³niÃ¦ wielki bÂ³Â¹d! Ruszajcie czym prÃªdzej za nim do posiadÂ³oÅ“ci Saerka i miejcie go na oku! CoÅ“ czujÃª, Â¿e moÂ¿e sobie nie poradziÃ¦ z kÂ³opotami, ktÃ³re tam na niego czekajÂ¹!~
+@10   = ~Nie martw siÃª, nie dopuÅ“cimy do tego, Â¿eby Anomen zrobiÂ³ coÅ“, czego by pÃ³Å¸niej musiaÂ³ Â¿aÂ³owaÃ¦!~
+@11   = ~Anomen nie chciaÂ³by, abyÅ“my mieszali siÃª w jego rodzinne sprawy.~
+@12   = ~A co mnie to obchodzi? Anomen dostaÂ³ mordercÃ³w swojej siostry. Jego ojciec sam sobie bÃªdzie winny, jeÅ“li narobi gÂ³upich rzeczy.~
+@13   = ~Nie bÃªdziemy robiÃ¦ tego, co on chce, tylko to, co jest dla niego dobre. A walka z oddziaÂ³em straÂ¿nikÃ³w czyjejÅ“ posiadÂ³oÅ“ci u boku pijanego gÂ³upca z pewnoÅ“ciÂ¹ dla niego dobre nie jest!~
 /* @14   */
 /* @15   */
-@16   = ~To ju¿ nie jest nasz problem. Sprawa zamkniêta, nagroda odebrana. Zrobiliœmy wszystko, co mogliœmy. ¯egnaj, kapitanie.~
-@17   = ~Doprawdy? Nie przeszkadza wam, ¿e wasz przyjaciel daje siê wci¹gn¹æ w szaleñstwo swego ojca? A co, jeœli postanowi zabiæ Saerka? Bêdzie musia³ odpowiedzieæ przed s¹dem... o ile prze¿yje. Musia³bym go aresztowaæ, jeœliby zrobi³ coœ g³upiego.~
+@16   = ~To juÂ¿ nie jest nasz problem. Sprawa zamkniÃªta, nagroda odebrana. ZrobiliÅ“my wszystko, co mogliÅ“my. Â¯egnaj, kapitanie.~
+@17   = ~Doprawdy? Nie przeszkadza wam, Â¿e wasz przyjaciel daje siÃª wciÂ¹gnÂ¹Ã¦ w szaleÃ±stwo swego ojca? A co, jeÅ“li postanowi zabiÃ¦ Saerka? BÃªdzie musiaÂ³ odpowiedzieÃ¦ przed sÂ¹dem... o ile przeÂ¿yje. MusiaÂ³bym go aresztowaÃ¦, jeÅ“liby zrobiÂ³ coÅ“ gÂ³upiego.~
 /* @18  */
-@19   = ~Cieszê siê. Miejmy nadziejê, ¿e wasz przyjaciel nie da siê wci¹gn¹æ w szaleñstwo swego ojca. Gdyby zdecydowa³ siê zabiæ Saerka, bêdzie musia³ odpowiedzieæ przed s¹dem... o ile prze¿yje. Musia³bym go aresztowaæ, jeœliby zrobi³ coœ g³upiego.~
+@19   = ~CieszÃª siÃª. Miejmy nadziejÃª, Â¿e wasz przyjaciel nie da siÃª wciÂ¹gnÂ¹Ã¦ w szaleÃ±stwo swego ojca. Gdyby zdecydowaÂ³ siÃª zabiÃ¦ Saerka, bÃªdzie musiaÂ³ odpowiedzieÃ¦ przed sÂ¹dem... o ile przeÂ¿yje. MusiaÂ³bym go aresztowaÃ¦, jeÅ“liby zrobiÂ³ coÅ“ gÂ³upiego.~
