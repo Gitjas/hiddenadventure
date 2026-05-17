@@ -29,7 +29,7 @@ You can now buy Illithium by Jerlia after finishing the quest.
 ----------
 Elven holy water in the Temple of Lathander (TWEAK):
 
-You can now buy elven holy wanter in the Temple of Lathander.
+You can now buy elven holy water in the Temple of Lathander.
 
 ----------
 Wave Blade in Treasury (TWEAK):
