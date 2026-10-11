@@ -39,6 +39,7 @@ ACTION_IF !FILE_EXISTS ~hiddenadventure/reinstall.mrk~ BEGIN
 	ACTION_DEFINE_ARRAY tra#reload BEGIN END
 	ACTION_DEFINE_ARRAY tra#noconvert BEGIN setup END
 
+
 	LAF HANDLE_CHARSETS
 		INT_VAR
 			infer_charsets = 1
@@ -87,6 +88,10 @@ LANGUAGE ~Spanish (by alaisFcZ)~
 LANGUAGE ~Simplified Chinese(by lzw104522773)~
          ~schinese~
          ~hiddenadventure/tra/schinese/setup.tra~
+
+LANGUAGE ~Italiano by Sauler~
+         ~italian~
+         ~hiddenadventure/tra/italian/setup.tra~
 
 ////////////////////////////////////////////////
 //  ~Lady Elgea's extended plot~
@@ -631,7 +636,7 @@ COMPILE ~hiddenadventure/masktemple/RRSPMASK.D~
 
 COPY ~hiddenadventure/masktemple/RRSPMASK.CRE~ ~override~
 COPY ~hiddenadventure/masktemple/RRSPMASK.STO~ ~override~
-SAY 0xc ~Haus des Schattens~
+SAY 0xc @120005
 
 /* add travel region */
 COPY_EXISTING ~AR0300.are~ ~override~ 

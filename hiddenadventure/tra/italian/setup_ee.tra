@@ -1,0 +1,75 @@
+/*
+@1002    = ~Un paio di pantaloni d'argento finemente lavorati. Questo cimelio di famiglia è stato usato come riscatto, pagato da Welther per ottenere il rilascio di Lady Elgea.~
+
+STATISTICS:
+
+Weight: 1~
+*/
+
+@3004	 = ~Questo prezioso gioiello appartiene alla famiglia Delryn da molte generazioni. Moira, la sorella di Anomen, amava indossare questa collana, perché era stato l'ultimo dono ricevuto da sua madre.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Immunità al Risucchio di Livello
+
+Abilità attivabili:
+- Fuoco Solare due volte al giorno
+  Raggio d'azione: 0
+  Durata: Istantanea
+  Area d'effetto: Raggio di 4,5 metri
+
+Peso: 1~
+
+@3010	 = ~Stanial e Ollik,
+
+Grazie alla vostra «piccola bravata» nella tenuta dei Delryn, non posso più rischiare di usarvi come spie laggiù, né lasciarvi girare liberamente per la città. Anche se ufficialmente non ci sono testimoni, devo assicurarmi che nessuno di voi due venga ricondotto a me!
+È soltanto in virtù dei servigi che mi avete già reso che mi mostro tanto generoso da procurarvi un nascondiglio invece di farvi semplicemente «sparire».
+Grazie ai miei rapporti d'affari con Renal Bloodscalp e i Ladri dell'Ombra, ho affittato una casa nel Distretto del Ponte, di fronte al Tempio di Helm. Le voci secondo cui il luogo sarebbe infestato dovrebbero garantirvi sufficiente sicurezza finché non si saranno calmate le acque.
+
+Finché rispetterete le seguenti regole, non avrete problemi:
+1. Non uscite di casa prima di aver ricevuto i miei ordini!
+2. Non prendete nulla di ciò che è custodito lì: i Ladri dell'Ombra non tollerano gli sciocchi!
+3. Non entrate per nessun motivo nella camera blindata del seminterrato. Renal è stato categorico: nessuno deve accedervi. Chi entra se ne pentirà!
+
+Se seguirete queste semplici regole, sarete al sicuro.
+
+Saerk Farradh
+
+STATISTICHE:
+
+Peso: 0~
+
+@3013	 = ~In genere, le clave sono stecche di legno robusto e resistente, strette all'altezza dell'impugnatura e più larghe all'altra estremità. Queste semplici armi vengono utilizzate da quando le razze dei Reami iniziarono a servirsi di strumenti. Chiunque può trovare un buon pezzo di legno e agitarlo; da qui, l'ampia diffusione della clava. Questa specifica clava è stata magicamente potenziata.
+
+STATISTICHE:
+
+THAC0: +1
+Danno: 1d6+1 (contundente)
+Fattore-velocità: 4
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede:
+ Forza 5
+
+Peso: 3~
+
+@110002   = ~Questa Spada d'Argento vorpal irradia un'aura di malvagità quando la esamini. La lama è così affilata che potrebbe tagliare una testa in un solo colpo.
+
+
+STATISTICHE:
+
+Abilità in combattimento:
+- 25% di possibilità a colpo che il bersaglio debba superare con successo un tiro-salvezza contro Morte con una penalità pari a -2 per non morire
+- Se il bersaglio è un mind flayer o un ulitharid, viene ucciso all'istante.
+
+THAC0: +3, +4 contro i licantropi
+Danno: 1d10+3, +4 contro i licantropi
+Tipo di danno: Tagliente
+Fattore-velocità: 10
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Richiede:
+ Forza 14
+
+Peso: 15~

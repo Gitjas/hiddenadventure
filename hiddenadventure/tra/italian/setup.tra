@@ -1,0 +1,152 @@
+@0    = ~Questo componente richiede BGT o EET.~ 
+//Extended Lady Elgea plot
+@1001    = ~Espansione della missione di Lady Elgea~
+/* @1002    = ~Un paio di pantaloni d'argento finemente lavorati. Questo cimelio di famiglia è stato usato come riscatto, pagato da Welther per ottenere il rilascio di Lady Elgea.~ */
+
+
+//Extended Anomen plot
+@3001  = ~Espansione della missione di Anomen~
+@3002  = ~Voce sussurrante~
+@3003	 = ~Collana della Famiglia Delryn~
+@3004	 = ~Questo prezioso gioiello appartiene alla famiglia Delryn da molte generazioni. Moira, la sorella di Anomen, amava indossare questa collana, perché era stato l'ultimo dono ricevuto da sua madre.
+
+Protezione dal Risucchio di Livello
+Fuoco Solare due volte al giorno
+Utilizzabile soltanto da Anomen.~
+@3005	 = ~Questa collana può essere utilizzata soltanto da Anomen.~
+@3006	 = ~Alwesk~
+@3007	 = ~Ollik~
+@3008	 = ~Stanial~
+@3009	 = ~Nuovo incarico~
+@3010	 = ~Stanial e Ollik,
+
+Grazie alla vostra «piccola bravata» nella tenuta dei Delryn, non posso più rischiare di usarvi come spie laggiù, né lasciarvi girare liberamente per la città. Anche se ufficialmente non ci sono testimoni, devo assicurarmi che nessuno di voi due venga ricondotto a me!
+È soltanto in virtù dei servigi che mi avete già reso che mi mostro tanto generoso da procurarvi un nascondiglio invece di farvi semplicemente «sparire».
+Grazie ai miei rapporti d'affari con Renal Bloodscalp e i Ladri dell'Ombra, ho affittato una casa nel Distretto del Ponte, di fronte al Tempio di Helm. Le voci secondo cui il luogo sarebbe infestato dovrebbero garantirvi sufficiente sicurezza finché non si saranno calmate le acque.
+
+Finché rispetterete le seguenti regole, non avrete problemi:
+1. Non uscite di casa, a meno che non ve lo ordini!
+2. Non prendete nulla di ciò che è custodito lì: ai Ladri dell'Ombra non piace che si tocchino le loro cose!
+3. Non entrate per nessun motivo nella camera blindata del seminterrato. Renal è stato categorico: nessuno deve accedervi. Chi entra se ne pentirà!
+
+Se seguirete queste semplici regole, sarete al sicuro.
+
+Saerk Farradh~
+@3011	 = ~Sgherro assoldato~
+@3012	 = ~Clava +1~
+@3013	 = ~In genere, le clave sono stecche di legno robusto e resistente, strette all'altezza dell'impugnatura e più larghe all'altra estremità. Queste semplici armi vengono utilizzate da quando le razze dei Reami iniziarono a servirsi di strumenti. Chiunque può trovare un buon pezzo di legno e agitarlo; da qui, l'ampia diffusione della clava.
+
+STATISTICHE:
+
+THAC0: -1
+Danno: 1d6+1 (contundente)
+Peso: 3
+Fattore-velocità: 4
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede: Forza 5
+Non utilizzabile da:
+ Mago~
+@3014		 = ~Luogotenente Jaiken~
+@3015		 = ~Sulle tracce degli assassini di Moira
+
+Abbiamo trovato gli assassini Stanial e Ollik in un nascondiglio piuttosto comodo. Abbiamo contattato il Capitano. Una lettera trovata nella tasca di Stanial dimostra che Saerk Farradh fa affari con i Ladri dell'Ombra.
+
+Il Capitano Alwesk ne sarà certamente lieto. Due assassini eliminati e una bella ricompensa per le informazioni... Cosa si potrebbe desiderare di più?~
+@3016		 = ~Sulle tracce degli assassini di Moira
+
+L'incontro con il Capitano Alwesk è stato molto illuminante. Sembra un uomo capace, deciso, sicuro di sé e calcolatore. Nonostante i suoi modi bruschi, si è dimostrato disposto ad aiutarci a cercare gli assassini Stanial e Ollik. Mentre chiede informazioni ai Moli, noi dovremmo cercare i due soldati che mancano all'appello. Secondo il Capitano, i due frequentavano la Locanda di Delosar, nel Distretto del Ponte: dovremmo cominciare da lì.
+
+Nel frattempo, spero che le sue indagini abbiano successo...~
+@3017		 = ~Sulle tracce degli assassini di Moira
+
+Il Capitano Alwesk ha scoperto dove si nascondono gli assassini Stanial e Ollik! C'è una casa nel Distretto del Ponte, proprio di fronte al Tempio di Helm. Secondo il Capitano, l'edificio apparteneva ai Ladri dell'Ombra, che l'hanno venduto a Saerk Farradh, il rivale di Cor Delryn!
+
+Dopo qualche esitazione iniziale, il Capitano ci ha autorizzato a dare la caccia ai due assassini. Ci ha anche offerto una ricompensa qualora trovassimo prove di un legame fra Saerk e i Ladri dell'Ombra.~
+@3018		 = ~Sulle tracce degli assassini di Moira
+
+Il Magistrato Bylanna è rimasta sorpresa dalle nostre ultime scoperte, perché a quanto pare i due avevano tentato di intentare una causa contro Lord Cor presso il Magistrato. Ci ha consigliato di parlare con il Capitano Alwesk alla guarnigione dei Moli. Ha anche chiesto ad Anomen di non farsi giustizia da solo e di lasciare al Capitano l'arresto di Stanial e Ollik.~
+@3019		 = ~Sulle tracce degli assassini di Moira
+
+Durante la nostra permanenza ad Athkatla, siamo stati avvicinati da una persona misteriosa. Sembrava sapere chi avesse assassinato Moira, la sorella di Anomen! Contrariamente a quanto aveva accertato la Guardia, sosteneva che ci fosse una testimone dell'omicidio in grado di aiutarci a risolvere il caso. Per trovarla, dovremmo parlare con una cameriera alla Locanda del Mitico Riposo. Secondo il nostro sconosciuto «alleato», dovrebbe essere in grado di aiutarci.~
+@3020		 = ~Sulle tracce degli assassini di Moira
+
+La misteriosa testimone era proprio Rebecca, la cameriera che un tempo lavorava alla tenuta dei Delryn ed era amica di Moira. Ci ha raccontato di aver fatto visita a Moira di nascosto, quando sono state sorprese da due intrusi. Rebecca è riuscita a nascondersi in tempo e ha visto uno dei due uccidere Moira. Anche Willem è stato assassinato. Per fortuna, prima che i criminali fuggissero, Rebecca ha udito i loro nomi: Stanial e Ollik.
+Anomen li ha riconosciuti come due magazzinieri scontenti al servizio di suo padre. Ha insistito perché riferissimo le nostre scoperte al Magistrato Bylanna.~
+@3021		  = ~Sulle tracce degli assassini di Moira
+
+Il Capitano Alwesk è stato molto lieto di sapere che tutto era andato secondo i piani.
+Il destino, però, aveva in serbo altre sorprese: un messaggero ci ha informati che Lord Cor, il padre di Anomen, aveva deciso di vendicarsi personalmente dei presunti assassini di sua figlia. Preoccupato, Anomen è partito per la tenuta dei Farradh.
+Il Capitano Alwesk temeva che la faccenda potesse finire male se non avessi seguito Anomen... Un timore che condivido. Non permetterò che gli accada nulla e, se necessario, lo proteggerò anche da se stesso, qualora dovesse arrivare a uno scontro con Saerk.~
+@3022		  = ~Sulle tracce degli assassini di Moira
+
+Il Capitano Alwesk è stato molto lieto di sapere che tutto era andato secondo i piani.
+Il destino, però, aveva in serbo altre sorprese: un messaggero ci ha informati che Lord Cor, il padre di Anomen, aveva deciso di vendicarsi personalmente dei presunti assassini di sua figlia. Preoccupato, Anomen è partito per la tenuta dei Farradh.
+Il Capitano Alwesk temeva che la faccenda potesse finire male se non avessi seguito Anomen.
+
+Per quanto mi riguarda, questa storia è chiusa. Se Anomen vuole aiutare il suo sciocco padre, faccia pure. Molto probabilmente, le conseguenze saranno tutt'altro che piacevoli.~
+@3023		   = ~Sulle tracce degli assassini di Moira
+
+Siamo arrivati alla tenuta del mercante appena in tempo per aiutare Anomen a impedire che suo padre uccidesse Saerk. Durante un'accesa discussione, è emerso che la nostra misteriosa informatrice era nientemeno che Surayah Farradh, la figlia di Saerk! Era amica di Moira nonostante l'ostilità fra le due famiglie e ci aveva aiutati a trovare gli assassini di Moira. Non sapeva, però, che i due criminali lavorassero per suo padre, né dei rapporti d'affari di Saerk con i Ladri dell'Ombra!
+Prima che si arrivasse alle mani, Saerk, suo figlio Yusef e il padre di Anomen sono stati tutti arrestati dalla Guardia. Ci è voluto molto tempo, ma il caso dell'assassinio di Moira è finalmente chiuso. Spero che questo aiuti Anomen a trovare un po' di pace.~
+@3024		    = ~Maggiordomo~
+@3025		    = ~Cuoco~
+@3026		    = ~Deposito merci dei Farradh~
+@3027		    = ~Questa armatura può essere utilizzata soltanto da Anomen.~
+@3028		    = ~Messaggero del Consiglio~
+@3029		    = ~Questo elmo può essere utilizzato soltanto da Anomen.~
+@3030		    = ~Questo scudo può essere utilizzato soltanto da Anomen.~
+@3031		 = ~Sulle tracce degli assassini di Moira~
+
+
+//Jerlia's Ore Shop
+@4001    = ~Negozio di minerali di Jerlia~
+
+//Elven holy water in the Temple of Lathander
+@5001   = ~Acquasanta Elfica nel Tempio di Lathander~
+
+//Wave Blade in Treasury
+@6001   = ~Lama dell'Onda nel tesoro~
+
+//Silver Dagger in Irenicus Dungeon
+@7001   = ~Pugnale d'argento nelle segrete di Irenicus~
+
+//Bards can spend the night at their stronghld (Five Flagons)
+@8001   = ~I bardi possono trascorrere la notte nella loro roccaforte (Cinque Boccali)~
+
+
+//A bard for the bard stronghold
+@100001   = ~Un bardo per la roccaforte dei bardi~
+
+//Silver Sword
+@110001   = ~Spada d'Argento~
+@110002   = ~Spada d'Argento
+Questa Spada d'Argento vorpal irradia un'aura di malvagità quando la esamini. La lama è così affilata che potrebbe tagliare una testa in un solo colpo.
+
+STATISTICHE:
+
+Abilità speciali:
+25% di possibilità a colpo che il bersaglio debba superare con successo un tiro-salvezza contro Morte con una penalità pari a -2 per non morire.
+Se il bersaglio è un mind flayer o un ulitharid, viene ucciso all'istante.
+
+THAC0: -3, -4 contro i licantropi
+Danno: 1d10+3 (tagliente), 1d10+4 contro i licantropi
+Peso: 15
+Fattore-velocità: 10
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro~
+
+//~Saradush tunnel~
+
+@120000   = ~Un tunnel per Saradush~
+@120001   = ~Pergamena informativa~
+@120002   = ~Questa pergamena contiene informazioni sulla barriera magica eretta dai maghi di Yaga-Shura intorno a Saradush. Sembra contenere istruzioni per i maghi su come mantenerla attiva. Una persona con le giuste conoscenze dovrebbe poter usare queste informazioni per superare la barriera, almeno in parte.~
+
+@120003   = ~Tempio di Mask nel Distretto dei Moli~
+@120004   = ~L'uscita conduce a un piccolo balcone che si affaccia sul Mare delle Spade.~
+@120005   = ~Tempio di Mask~

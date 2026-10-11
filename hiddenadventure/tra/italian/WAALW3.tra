@@ -1,0 +1,20 @@
+@0    = ~Tu... sei tornato, vedo. Le vostre indagini hanno dato frutto?~ ~Tu... sei tornata, vedo. Le vostre indagini hanno dato frutto?~
+@1    = ~No, stiamo ancora indagando.~
+@2    = ~Sì, Capitano. Ci siamo occupati degli assassini e abbiamo trovato questo documento addosso a uno di loro. Dimostra che Saerk Farradh faceva affari con i Ladri dell'Ombra!~
+@3    = ~Ben fatto! È proprio la prova che mi serviva! Direi che ora possiamo andare a fare una bella chiacchierata con il signor Saerk! Ah! Ecco, una ricompensa che vi siete meritati onestamente!~
+@4    = ~Finalmente possiamo... E adesso che succede?!~
+@5    = ~Sir Anomen! Grazie agli dèi, vi ho trovato!~
+@6    = ~Ti conosco. Sei tu che mi hai informato della morte di Moira! Perché mi cercavi?~
+@7    = ~Vostro padre... Ha deciso di irrompere nella tenuta dei Farradh. È fuori di sé! Ha detto che avrà la sua vendetta!~
+@8    = ~Oh, dèi! Non può essere! Saerk ha molte guardie! Per-perdonami, <CHARNAME>, ma devo impedire a mio padre di commettere una sciocchezza!~
+@9    = ~Quel giovane sta per commettere un grave errore! Sbrigati, seguilo alla tenuta di Saerk e tienilo d'occhio! Ho la sensazione che non sia in grado di affrontare i guai che lo aspettano laggiù!~
+@10   = ~Non preoccupatevi. Impedirò ad Anomen di fare qualcosa di cui potrebbe pentirsi!~
+@11   = ~Anomen non vorrebbe che mi intromettessi nelle sue questioni di famiglia.~
+@12   = ~E a me cosa importa? Anomen ha avuto gli assassini di sua sorella. Se suo padre fa delle sciocchezze, la colpa è soltanto sua.~
+@13   = ~Io non baderei a quello che lui potrebbe volere, ma a quello che è meglio per lui... E affrontare un drappello di guardie insieme a uno stupido ubriacone non lo è di certo!~
+/* @14   */
+/* @15   */
+@16   = ~Non è più un mio problema. Il caso è risolto e ho avuto la ricompensa. Ho fatto tutto quello che potevo. Addio, Capitano.~
+@17   = ~Davvero? Non ti importa che il tuo amico si lasci trascinare nelle follie di suo padre? E se decidesse di uccidere Saerk? Dovrebbe risponderne davanti al Magistrato... sempre che sopravviva. Se commettesse una sciocchezza, sarei costretto ad arrestarlo.~
+/* @18  */
+@19   = ~Mi fa piacere sentirlo. Speriamo che il tuo amico non si lasci trascinare nelle follie di suo padre. Se decidesse di uccidere Saerk, dovrebbe risponderne davanti al Magistrato... sempre che sopravviva. Se commettesse una sciocchezza, sarei costretto ad arrestarlo.~
