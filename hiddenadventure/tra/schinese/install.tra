@@ -1,0 +1,34 @@
+@0    = ~这个组件需要BGT或EET~ 
+//Extended Lady Elgea plot
+@1001    = ~艾吉亚女士的扩展剧情~
+/* @1002    = ~A pair of elaborately crafted pantaloons made of silver. This family piece was used as ransom, paid by Welther for the release of Lady Elgea.~ */
+
+
+//Extended Anomen plot
+@3001  = ~阿诺门的扩展剧情~
+
+//Jerlia's Ore Shop
+@4001    = ~洁利雅的矿石商店~
+
+//Elven holy water in the Temple of Lathander
+@5001   = ~洛山达神殿的精灵圣水~
+
+//Wave Blade in Treasury
+@6001   = ~国库中的波涛戟刃~
+
+//Silver Dagger in Irenicus Dungeon
+@7001   = ~艾瑞尼卡斯地牢里的银匕首~
+
+//Bards can spend the night at their stronghld (Five Flagons)
+@8001   = ~吟游诗人可以在他们的据点过夜（五酒壶旅店）~
+
+
+//A bard for the bard stronghold
+@100001   = ~吟游诗人据点里的吟游诗人~
+
+//Silver Sword
+@110001   = ~银剑~
+
+@120000   = ~萨拉都什的隧道~
+
+@120003   = ~码头区的马斯克神殿~
