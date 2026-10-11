@@ -39,10 +39,6 @@ ACTION_IF !FILE_EXISTS ~hiddenadventure/reinstall.mrk~ BEGIN
 	ACTION_DEFINE_ARRAY tra#reload BEGIN setup END
 	ACTION_DEFINE_ARRAY tra#noconvert BEGIN setup END
 
-	/* Italian setup.tra contains in-game text and must be converted, too. */
-	ACTION_IF ~%LANGUAGE%~ STRING_EQUAL_CASE ~italian~ BEGIN
-		ACTION_CLEAR_ARRAY tra#noconvert
-	END
 
 	LAF HANDLE_CHARSETS
 		INT_VAR
