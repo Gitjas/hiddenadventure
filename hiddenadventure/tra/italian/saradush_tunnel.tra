@@ -1,0 +1,38 @@
+@0    = ~Il tunnel era completamente aperto e protetto, se è questo che vuoi sapere. Direi che abbiamo salvato parecchie vite! Stavo ancora cercando di decidere cosa portare con me e cosa lasciare, e persino se fuggire o meno, quando l'esercito di Yaga-Shura è entrato in città.~
+@1    = ~Parliamoci chiaro: voglio aiutare gli abitanti di Saradush a sfuggire all'assedio. Ho il potere di lasciare la città, ma sembra che non possa portare nessuno con me. Il mago della Guardia Cittadina è troppo occupato per parlarmi. Possiamo fare qualcosa?~
+@2    = ~Solo una domanda. Perché non cercate di sfuggire all'assedio, magari attraverso un tunnel che sbuchi abbastanza lontano da oltrepassare l'esercito di Yaga-Shura?~
+@3    = ~Hai accennato a una barriera magica intorno a Saradush?~
+@4    = ~Ho trovato questa pergamena addosso a uno dei maghi di Yaga-Shura. Sembra che parli della barriera che circonda Saradush.~
+@5    = ~Nelle fogne ho incontrato dei servitori di Yaga-Shura che scavavano un tunnel verso l'esterno. Sembrava quasi finito. Gli abitanti di Saradush potrebbero usarlo per fuggire?~
+@6    = ~Quanto tempo ti occorrerà per completare quel tunnel protetto? Devi assicurarti che non sia troppo tardi!~
+@7    = ~Oh, c'è ben poca speranza. Vedi, con l'aiuto di maghi piuttosto potenti, Yaga-Shura ha circondato la città con uno scudo magico. È impossibile teletrasportarsi dentro o fuori.~
+@8    = ~Sì, l'hai già detto. E un tunnel che porti all'esterno?~
+@9    = ~E un tunnel che porti all'esterno?~
+@10   = ~Quindi non c'è proprio alcuna speranza?~
+@11   = ~Peccato. Devo andare.~
+@12   = ~Un tunnel è una questione delicata. Potrebbe consentire agli abitanti di lasciare la città, ma anche offrire all'esercito di Yaga-Shura una via per invaderla. Da quando la città è sotto assedio, ci sono stati numerosi tentativi di aprirne uno, per vari motivi.~
+@13   = ~Anche se un simile tunnel sbucasse ben oltre l'esercito di Yaga-Shura, non sono certo che sarebbe sicuro usarlo. La barriera magica eretta da quel folle potrebbe colpire chiunque lasci la città.~
+@14   = ~Di quale barriera stai parlando?~
+@15   = ~Oh, una speranza potrebbe esserci, se soltanto conoscessi la magia usata per erigere la barriera. Anche allora non avrei il potere necessario a rendere sicuro il teletrasporto dalla città, ma con quelle conoscenze potrei forse riuscire a proteggere un tunnel verso l'esterno, attraverso il quale far fuggire gli abitanti. Mi servirebbero quindi due cose: informazioni precise sulla magia della barriera e un tunnel che porti davvero fuori dalla città. Meglio se non ancora del tutto terminato, così da avere il tempo di operare i miei incantesimi senza che i servitori di Yaga-Shura se ne accorgano.~
+@16   = ~Aiutare gli abitanti di Saradush a fuggire
+
+Librarus ha detto che probabilmente potrebbe proteggere un tunnel che porti fuori da Saradush, se avesse maggiori informazioni sulla barriera magica che circonda la città.~
+@17   = ~I maghi di Yaga-Shura hanno eretto una barriera magica intorno alla città. Impedisce di fuggire con il teletrasporto.~
+@18   = ~Ma tutto questo rimane soltanto teoria, finché non riavrò il mio libro degli incantesimi. Se vuoi aiutare gli abitanti, temo che prima dovrai recuperarlo. Senza non posso fare nulla.~
+@19   = ~Mmm, se dici che l'hanno scavato i seguaci di Yaga-Shura, immagino che porti direttamente al suo accampamento. Ma hai detto che non è ancora terminato. Ci sono buone possibilità che si possa semplicemente prolungare il tunnel oltre le sue truppe. Sì, questa informazione è utile!~
+@20   = ~Adesso mi servono soltanto informazioni su quella barriera.~
+@21   = ~Tornerò se troverò qualcosa.~
+@22   = ~Devo andare.~
+@23   = ~Questo significa che ho tutte le informazioni che mi servono. Ora sta a me operare gli incantesimi. Ti prego, vai a diffondere la notizia in città, così che tutti lo sappiano! Ma ricorda: il tunnel sarà sicuro soltanto per la gente comune, non per la progenie di Bhaal. Che emozione! Finalmente posso fare qualcosa.~
+@24   = ~Aiutare gli abitanti di Saradush a fuggire
+
+Librarus ha ora tutte le informazioni necessarie per aprire un tunnel protetto che porti fuori dalla città. Purtroppo, potranno usarlo soltanto i comuni cittadini. La magia che trattiene la progenie di Bhaal è troppo potente perché possiamo spezzarla con i mezzi a nostra disposizione. La loro unica speranza è fermare Yaga-Shura in tempo.~
+@25   = ~Davvero? È magnifico! Fammi vedere... Sì, è proprio quello che mi serve. Ho bisogno di... Sì, questo ce l'ho, e... Sì, dovrebbe funzionare... Oh!~
+@26   = ~Oh, cielo! È estremamente potente. È stata usata una magia particolare per trattenere in città tutta la progenie di Bhaal. Mmm. No, non riuscirò a rendere il tunnel sicuro per i discendenti di Bhaal. Ma potrò proteggerlo per tutti gli abitanti comuni.~
+@27   = ~Adesso mi serve soltanto un luogo adatto per il tunnel.~
+@28   = ~Lo farò, ci sto lavorando! Ci vuole tempo. Mi sto affrettando, puoi esserne certo!~ ~Lo farò, ci sto lavorando! Ci vuole tempo. Mi sto affrettando, puoi esserne certa!~
+@29   = ~Addio!~
+@30   = ~Gli ingredienti per l'incantesimo di protezione stanno cuocendo. Al momento ho un minuto libero.~
+@31   = ~Avrò bisogno del tuo aiuto per informare gli abitanti di Saradush che non appartengono alla progenie di Bhaal: Librarus sta preparando un tunnel protetto che porterà fuori dalla città. Temo che la protezione funzionerà soltanto per la gente comune.~
+@32   = ~Ma è una notizia meravigliosa! Di certo molti preferirebbero fuggire piuttosto che rimanere intrappolati qui. Ti ringrazio, <PRO_BROTHERSISTER>! Diffonderò la notizia.~
+@33   = ~Aiutare gli abitanti di Saradush a fuggire~
