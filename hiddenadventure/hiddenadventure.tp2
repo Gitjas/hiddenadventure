@@ -73,7 +73,7 @@ LANGUAGE ~English~
          ~english~
          ~hiddenadventure/tra/english/setup.tra~
 
-LANGUAGE ~Russian (by yota13)~
+LANGUAGE ~Russian (by yota13, Saermor & arcanecoast.ru)~
          ~russian~
          ~hiddenadventure/tra/russian/setup.tra~
 
@@ -440,7 +440,7 @@ BEGIN @4001
 LABEL hidden_adventures-jerliashop
 
 COPY ~hiddenadventure/Jerlia/sto/WAJERLIA.sto~ ~override~
-SAY NAME2 @4001
+SAY NAME2 @4002
 
 COPY_EXISTING ~MISC5K.itm~ ~override~
 
